@@ -1,16 +1,24 @@
-![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+<p align="center">
+  <img src="images/upcLogo.PNG" alt="Logo de UPC" width="100%">
+</p>
 
-Universidad Peruana de Ciencias Aplicadas
+<div align="center">
 
-Carrera: Ingeniería de Software
+# Universidad Peruana de Ciencias Aplicadas
 
-Ciclo: 2024-02
+## Carrera de Ingeniería de Software
 
-Curso: 
+</div>
 
-Sección: 
+<div align="center">
 
-Profesor: 
+Ciclo: 2024 - 0 2
+
+Curso: Desarrollo de Aplicaciones Open Source
+
+Sección: SW54
+
+Profesor: Alberto Wilmer Sanchez Seña
 
 Informe del Trabajo Final
 
@@ -18,36 +26,114 @@ Startup:
 
 Producto: 
 
-Integrantes:
+|          Integrantes           |   Código   |
+| :----------------------------: | :--------: |
+|      Ramos Carpio, Karen       | U20201E493 |
 
-- 
-- 
-- 
--
--
 
 Agosto del 2024
 
----
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Registro de Versiones del Informe
 
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td></td>
+      <td>
+        <ul>
+          <li>Ramos Carpio, Karen</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
 
----
-# Project Report Collaboration Insights
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
----
 # Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
+  <thead>
+    <tr style="border-bottom: 1px solid black;">
+      <th style="border-right: 1px solid black;">Criterio Específico</th>
+      <th style="border-right: 1px solid black;">Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;">
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li></li>
+        </ul> 
+      </td>
+      <td><strong>TB1:</strong><p align="justify"> </p>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;">
+          <ul>
+            <p><strong>TB1</strong></p>
+            <li></li>
+          </ul> 
+        </td>
+        <td><strong>TB1:</strong><p align="justify"> </p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-| - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> | ***TB1:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TP:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TB2:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TF:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br><br> ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. | ***TB1:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TP:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TB2:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TF:*** FEtiam imperdiet quam condimentum velit tempor porttitor. |
+# **Project Report Online**
 
----
+URL Project Report (Github):
+          
 # Contenido
 ## Tabla de contenidos
 
