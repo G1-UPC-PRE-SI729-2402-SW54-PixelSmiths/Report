@@ -65,6 +65,7 @@ Agosto del 2024
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
+          <li>Arce Huaman, Luis Andres</li>
         </ul>
       </td>
       <td>
