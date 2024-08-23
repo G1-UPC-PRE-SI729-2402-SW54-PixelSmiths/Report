@@ -30,6 +30,7 @@ Producto:
 | :----------------------------: | :--------: |
 |      Ramos Carpio, Karen       | U20201E493 |
 |      Arce Huaman Luis Andres   | U20201A300 |
+|      Ramos Huamanchumo, Javier | U201719648 |
 
 
 Agosto del 2024
