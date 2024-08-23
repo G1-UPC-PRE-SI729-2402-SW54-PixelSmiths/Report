@@ -29,6 +29,7 @@ Producto:
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
 |      Ramos Carpio, Karen       | U20201E493 |
+|      Arce Huaman Luis Andres   | U20201A300 |
 
 
 Agosto del 2024
