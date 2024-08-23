@@ -31,6 +31,7 @@ Producto:
 |      Ramos Carpio, Karen       | U20201E493 |
 |      Arce Huaman Luis Andres   | U20201A300 |
 |      Ramos Huamanchumo, Javier | U201719648 |
+|      Pinto Fuentes Rivera, Alvaro Felipe | U202213384 |
 
 
 Agosto del 2024
@@ -66,6 +67,7 @@ Agosto del 2024
         <ul>
           <li>Ramos Carpio, Karen</li>
           <li>Arce Huaman, Luis Andres</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
         </ul>
       </td>
       <td>
