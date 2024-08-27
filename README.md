@@ -274,17 +274,115 @@ URL Project Report (Github):
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
-**Turo:**
-Descripción: Turo es una plataforma de alquiler de vehículos que permite a los propietarios alquilar sus vehículos a personas que buscan una alternativa al alquiler de autos que se realiza de manera muy tradicional. Los propietarios pueden listar sus vehículos en la plataforma, establecer precios y recibir ingresos por el tiempo que sus vehículos son alquilados. Turo maneja la plataforma digital, el proceso de reservas y un seguro correspondiente.
-Modelo de Negocio: Turo opera un modelo de negocio peer-to-peer y cobra una comisión sobre cada transacción y ofrece seguros para los propietarios y arrendatarios.<br>
-**Getaround:**
-Descripción: La plataforma Getaround permite a los usuarios alquilar vehículos por horas o días. Los propietarios pueden compartir sus vehículos cuando no los usan, mientras que los arrendatarios pueden acceder a un coche en su área a través de la aplicación Getaround. La empresa también ofrece seguros y servicios sobre la gestión del alquiler.
-Modelo de Negocio: Opera un modelo de negocio peer-to-peer. Getaround cobra una comisión sobre cada alquiler y se encarga de proporcionar seguros y otras garantías.<br>
-**SIXT:**
-Descripción:
-SIXT es una empresa global de alquiler de vehículos con una fuerte presencia en Europa y Latinoamérica, que ofrece desde alquileres tradicionales hasta soluciones digitales propias de la empresa. Los usuarios pueden reservar, desbloquear, y pagar por el uso del vehículo, lo que lo hace muy competitivo en el mercado actual de movilidad 
-Modelo de negocio:
-SIXT opera un modelo de negocio híbrido basado en Pay-per-Use, combinando la propiedad de flota con servicios de alquiler digital donde los usuarios pagan por el tiempo que utilizan el vehículo.
+<table>
+    <thead>
+        <tr >
+            <th colspan=6 style="text-align: center">
+				<h2>
+					Competitive Analisis Landscape
+				</h2>
+			</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2 rowspan=2 style="text-align: center" align="center">¿Por qué llevar a cabo este análisis?</td>
+            <td colspan=4 style="text-align: center" align="center">¿Quiénes son nuestros principales competidores?</td>
+        </tr>
+		<tr>
+            <td colspan=4 style="text-align: center" align="center">Gracias al análisis de la competencia, se logra comprender el entorno competitivo en el que operará nuestro producto. Esto proporciona una visión detallada de quienes son nuestros competidores directos e indirectos, logrando así, trazar 
+ una estretegia sólida para alcanzar la máxima exposición de nuestro producto, llegando así a más posibles consumidores.</td>
+        </tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
+			<td rowspan=2 style="text-align: center" align="center">Overview</td>
+      <td style="text-align: center" align="center">PocketPartners <p align="center"><img src="images/PPLogo.png" alt="Logo PocketPartners" width="25%">
+</p></td>
+			<td style="text-align: center" align="center">Splittr <p align="center"><img src="images/splittrLogo.png" alt="Logo Splittr" width="40%"></p></td>
+			<td style="text-align: center" align="center">Tricount <p align="center"><img src="images/tricountLogo.png" alt="Logo Tricount" width="40%"></p></td>
+			<td style="text-align: center" align="center">Splitwise <p align="center"><img src="images/splitwiseLogo.png" alt="Logo Splitwise" width="40%"></p></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Plataforma que busca facilitar el proceso de división de costos en diversas situaciones, con varias herramientas que son de utilidad en dicho momento</td>
+			<td style="text-align: center" align="center">Plataforma que busca dividir los gastos grupales en viajes o comidas.</td>
+			<td style="text-align: center" align="center">Plataforma colaborativa que busca dividir todo tipo de gastos grupales.</td>
+			<td style="text-align: center" align="center">Plataforma que busca, de forma colaborativa, llevar un recuento de todos los gastos grupales que se hacen.</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Ventaja Competitiva ¿Qué valor ofrecen a los clientes</td>
+			<td style="text-align: center" align="center"><ul><li>Organización por grupos y etiquetas</li> <li>Notificaciones en tiempo real</li> <li>Beneficios adicionales por plan premium</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Simplicidad de la plataforma</li> <li>Exportar a pdf o cvs</li> <li>No requiere registro</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>División desigual de gastos</li> <li>Guardado de fotos</li> <li>Notificaciones en tiempo real</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Facilidad de uso</li> <li>Sincronización en la nube</li> <li>Métodos de pago integrados</li> <li>Funciones pro adicionales</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=2 style="text-align: center" align="center">Perfil del Marketing</td>
+			<td style="text-align: center" align="center">Mercado Objetivo</td>
+			<td style="text-align: center" align="center"><ul><li>Viajeros que busquen dividir sus gastos</li> <li>Roomates que quieran dividir los gastos del hogar</li> <li>Grupos de personas que desean dividir los gastos de una cena</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Viajes</li> <li>Casas compartidas</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Parejas que desean dividir gastos</li> <li>Viajeros que quieren gestionar sus compras</li> <li>Comapñeros de piso</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Viajeros</li> <li>Compañeros de piso</li> <li>Parejas</li> <li>Grupos de amigos</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Estrategias de Marketing</td>
+			<td style="text-align: center" align="center"><ul><li>Uso de publicidad en redes sociales</li> <li>Recomendación de voz a voz</li> <li>Prueba gratis de 30 días del plan premium para lograr retención</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Promoción de la app en su cuenta de Twitter</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Presentación de referencias en su landing page</li> <li>Cuentas activas de Facebook y Twitter</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Presentación en una landing page vistosa</li> <li>Fácil acceso a los contactos para invitar más personas</li> <li>Página de redes sociales</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil del Producto</td>
+			<td style="text-align: center" align="center">Productos & Servicios</td>
+			<td style="text-align: center" align="center">Sitio web para el registro y uso de nuestro aplicativo</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Precios & Costos</td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 9.90 soles</li> <li>Suscripción de un año - 29.90 soles</li> <li>Suscripción empresarial - 169.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Pase de un mes - 2.90 soles</li> <li>Suscripción de un año - 11.90 soles</li> <li>Pase de por vida - 39.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 12.90 soles</li> <li>Suscripción de un año - 35.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 19.90 soles</li> <li>Suscripción de un año - 149.90 soles</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Canales de distribución (web/móvil)</td>
+			<td style="text-align: center" align="center">Plataforma web</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+		</tr>
+		<tr>
+			<td rowspan=4 style="text-align: center" align="center">Análisis SWOT</td>
+			<td style="text-align: center" align="center">Fortalezas</td>
+			<td style="text-align: center" align="center"><ul><li>Canales de atención disponibles</li> <li>Cálculo automático de saldos</li> <li>Uso de etiquetas para categorizar y filtrar las transacciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Funciona offline</li> <li>Se sincroniza de forma automática con nuestros amigos</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Uso de imágenes como evidencia</li> <li>Uso de claves de color para mejor visualización</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Integración con cuentas de banco para realizar los pagos dentro de la misma aplicación</li> <li>División en partes iguales o desiguales</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Debilidades</td>
+			<td style="text-align: center" align="center"><ul><li>Requiere de conección a internet</li> <li>No soporta muchos idiomas</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>El diseño es demasiado simple</li> <li>Carece de diferenciadores con la competencia</li> <li>Cobra por features que se encuentran gratis en otras aplicaciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>La interfaz no es fácil de usar</li> <li>Cobra por features que se encuentran gratis en otras aplicaciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Te da una cantidad de gastos limitados en el plan gratuito</li> <li>Los planes premium son demasiado costosos</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Oportunidades</td>
+			<td style="text-align: center" align="center"><ul><li>Es posible agregar más funcionalidades</li> <li>Ya se está empezando a crear un mercado gracias a las otras apps</li></ul> </td>
+			<td style="text-align: center" align="center">Se puede agregar un poco más de profundidad al diseño</td>
+			<td style="text-align: center" align="center">Se puede mejorar la interfaz para que sea más intuitiva</td>
+			<td style="text-align: center" align="center">Es la aplicación con más features</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Amenazas</td>
+			<td style="text-align: center" align="center">Es comlpicado competir con aplicaciones ya establecidas en el mercado</td>
+			<td style="text-align: center" align="center">Sigue quedándose atrás en la cantidad de features que tiene comparado con la competencia</td>
+			<td style="text-align: center" align="center">Los consumidores están acostumbrados a aplicaciones intuitivas, por lo que aprender a utilizar una app va a ser complicaco para algunos usuarios</td>
+			<td style="text-align: center" align="center">Los precios altos ocasionan que los usuarios no deseen pagar la suscripción</td>
+		</tr>
+    </tbody>
+</table>
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
