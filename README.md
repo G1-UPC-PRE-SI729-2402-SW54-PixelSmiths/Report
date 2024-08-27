@@ -290,6 +290,47 @@ URL Project Report (Github):
 ## 3.4. Product Backlog
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+### 4.1.1 General Style Guidelines
+**Paleta de colores**: Nuestra selección en la paleta de colores se basa en la atención a la legibilidad y buen aspecto de nuestra landing page. El color #002e43 se usa como color principal para resaltar elemento importantes, luego el color #406378 se usa para subtítulos y otros apartados de una ligera menor relevancia, en el caso del color #6a90a9 se utiliza en el cuerpo y en otras áreas para contrastar con los títulos y subtítulos, finalmente para los colores #b2c3d3 y #d7dce0 se usarán de fondo. Estos colores se usarán de forma inteligente para poder presentar una jerarquía visual clara e intuitiva.
+
+<p align="center">
+  <img src="images/paletaColores.png" alt="Paleta de Colores" width="50%">
+</p>
+
+**Branding**: Para el branding de nuestra empresa se creó el nombre de la marca con el objetivo de establecer una identidad, presencia relevante e imponente en el mercado. Para una mejor identificación de nuestra empresa se creó el logo:
+
+<p align="center">
+  <img src="images/logo.png" alt="logo" width="50%">
+</p>
+
+**Tipografía**: Para dar una aire diferente a nuestra marca se ha optado por el uso de la fuente “Reboto Mono” que presenta una gran variedad de estilos. Esta fuente debe ser símbolo de nuestra marca y de cumplir el objetivo de transmitir información con una identidad visual sólida y reconocible. Adicionalmente, esta tipografía es apropiada para lograr un diseño cohesivo y equilibrado que contribuye a nuestro reconocimiento en el mercado objetivo.
+
+<p align="center">
+  <img src="images/robotoMonoFont.png" alt="Roboto Mono Font" width="80%">
+</p>
+
+**Spacing**: Se hará uso de un espaciado pertinente para no abrumar al cliente con textos abarrotados que no contribuyen a la estética y contrariamente desmotivan a leer. Además, un correcto uso del espaciado en el texto también puede dar la impresión de una página más limpia y moderna, que es uno de los objetivos que hemos planteado para crear un mejor ambiente para el cliente.
+
+**Tono de comunicación**: El tono usado en el proyecto será del tipo formal, además de que se usará un lenguaje respetuoso, con el objetivo de mantener una comunicación estrictamente profesional con el cliente. Sin embargo, en algunas secciones se usará también un tono entusiasta o sereno para atraer al cliente a probar el producto.
+
+### 4.1.2 Web Style Guidelines
+
+**Colores**: En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el azul eléctrico como color principal, buscamos transmitir una sensación de energía, modernidad y confianza a nuestros visitantes.Adicionalmente utilizamos colores complementarios como #406378,#6a90a9 ,#b2c3d3,#d7dce0 y el color negro para dar contraste en los menus.
+
+<p align="center">
+  <img src="images/paletaColores.png" alt="Paleta de Colores" width="50%">
+</p>
+
+**Tipografía**: Además, hemos optado por emplear la tipografía Reboto Mono debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web, adicionalmente pensamos usar los distintos tamaños de letra según sea necesario en el texto de cara a dar una mejor perspectiva de jerarquía en el texto, así podremos separar los títulos, subtítulos y el cuerpo de una mejor forma.
+
+<p align="center">
+  <img src="images/robotoMonoFont.png" alt="Roboto Mono Font" width="80%">
+</p>
+
+**Formas**: Se decidió emplear figuras con bordes ligeramente redondeados en el proyecto para proporcionar una apariencia más ordenada y pulida, lo que contribuye a una experiencia visual más agradable para los usuarios.
+
+Además, en el desarrollo de nuestros mock-ups y wireframes, se emplearon dos tipos de pantallas comunes: escritorio y móvil. La versión de escritorio estuvo más dirigida a nuestro segmento de administradores del taller, mientras que la versión móvil estuvo destinada al segmento de propietarios de vehículos.
+
 ## 4.2. Information Architecture
 ## 4.3. Landing Page UI Design
 ## 4.4. Web Applications UX/UI Design
