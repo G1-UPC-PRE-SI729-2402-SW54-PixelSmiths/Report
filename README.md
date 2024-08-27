@@ -274,6 +274,17 @@ URL Project Report (Github):
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+**Turo:**
+Descripción: Turo es una plataforma de alquiler de vehículos que permite a los propietarios alquilar sus vehículos a personas que buscan una alternativa al alquiler de autos que se realiza de manera muy tradicional. Los propietarios pueden listar sus vehículos en la plataforma, establecer precios y recibir ingresos por el tiempo que sus vehículos son alquilados. Turo maneja la plataforma digital, el proceso de reservas y un seguro correspondiente.
+Modelo de Negocio: Turo opera un modelo de negocio peer-to-peer y cobra una comisión sobre cada transacción y ofrece seguros para los propietarios y arrendatarios.
+**Getaround:**
+Descripción: La plataforma Getaround permite a los usuarios alquilar vehículos por horas o días. Los propietarios pueden compartir sus vehículos cuando no los usan, mientras que los arrendatarios pueden acceder a un coche en su área a través de la aplicación Getaround. La empresa también ofrece seguros y servicios sobre la gestión del alquiler.
+Modelo de Negocio: Opera un modelo de negocio peer-to-peer. Getaround cobra una comisión sobre cada alquiler y se encarga de proporcionar seguros y otras garantías.
+**SIXT:**
+Descripción:
+SIXT es una empresa global de alquiler de vehículos con una fuerte presencia en Europa y Latinoamérica, que ofrece desde alquileres tradicionales hasta soluciones digitales propias de la empresa. Los usuarios pueden reservar, desbloquear, y pagar por el uso del vehículo, lo que lo hace muy competitivo en el mercado actual de movilidad 
+Modelo de negocio:
+SIXT opera un modelo de negocio híbrido basado en Pay-per-Use, combinando la propiedad de flota con servicios de alquiler digital donde los usuarios pagan por el tiempo que utilizan el vehículo.
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
