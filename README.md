@@ -481,10 +481,54 @@ Para los arrendatarios, ademas de su pago por alquiler no tendran costo adiciona
 Por nuestra parte, ya se menciono que no vamos a requerir una inversion en una flota de vehiculos. Por lo que, solo necesitaremos costo en publicidad y desarrollo de nuestra plataforma.
 
 ### 1.2.2 Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
-#### 1.2.2.2. Lean UX Assumptions
-#### 1.2.2.3. Lean UX Hypothesis Statements
-#### 1.2.2.4. Lean UX Canvas
+#### 1.2.2.1 Lean UX Problem Statements
+
+La idea central de TakeMyCar, surge debido a la necesidad de nuestros segmentos en busca de una opción innovadora aún no explotada en nuestro entorno. Nos encontramos dentro del sector del alquiler de vehículos, centrandonos principalmente en la falta de disponibilidad y en los costos otorgados por parte de las empresas de alquiler de vehículos. 
+
+De la misma forma, lo que otras escasas empresas, las cuales buscan brindar el servicio de alquiler no logran abordar es el hecho de que no muchas de ellas poseen el modelo de no uso de autos que sean propios, es decir, TakeMyCar esta pensada para no tener que realizar una inversión considerable en la obtencion de autos propios. 
+
+Nuestro producto sobrepasa este limite, ofreciendo un modelo tanto de entrada como de salida, recibiremos carros de propietarios y lo alquilaremos a usuarios, lo que abarca con la necesidad de un modelo más flexible, rentable y escalable que permita tanto a los propietarios como a los arrendatarios obtener un beneficio económico. 
+
+Finalmente, podremos sentir el trabajo concluido cuando veamos un numero considerable y en aumento de propietarios que, compartan su rentibilidad con sus conocidos, y que tengamos disponibles un catalogo considerable de vehiculos que concuerden a la demanda presente.
+
+#### 1.2.2.2 Lean UX Assumptions
+
+#### Segmento de Usuarios:
+
+#### ¿Quién es el usuario?
+Nuestros usuarios son propietarios de vehículos que buscan monetizar sus activos sin la carga de gestionarlos y arrendatarios que desean opciones flexibles y accesibles para alquilar sin preocupaciones y a precios cómodos.
+
+#### ¿Dónde encaja nuestro servicio? ¿En su trabajo o vida?
+Nuestro producto se integra en la vida de los propietarios de vehículos que desean obtener ingresos adicionales de manera pasiva y en la vida de los arrendatarios que necesitan una solución conveniente y asequible para alquilar un vehículo sin los compromisos de la propiedad.
+
+#### ¿Cuando y cómo es usado nuestro servicio?
+Los propietarios nos contactaran principalmente para listar sus vehículos y monitorear sus ingresos, mientras que los arrendatarios la utilizarán cuando necesiten alquilar un vehículo para diversas ocasiones, como viajes, mudanzas o tareas cotidianas.
+
+#### ¿Qué problemas tiene nuestro servicio?
+Un posible desafío es asegurar la confianza y satisfacción de los propietarios de vehículos en cuanto a la seguridad y cuidado de sus activos, y garantizar que los arrendatarios encuentren la experiencia de alquiler simple, rápida y sin complicaciones.
+
+#### Business Outcomes:
+
+* Creemos que a nuestros clientes les interesaría una plataforma que les permita alquilar sus vehículos sin gestión operativa y a los arrendatarios les ofrecería una opción accesible y diversa de vehículos.
+
+* Creemos que nuestro público objetivo incluye a propietarios de vehículos que desean monetizar su activo de manera pasiva y arrendatarios que buscan soluciones de alquiler convenientes y asequibles.
+
+* Reconocemos que hay competidores en el mercado, pero creemos que podemos diferenciarnos proporcionando un servicio sin la necesidad de inversión inicial en flota, lo que nos permitirá ofrecer precios más competitivos y una experiencia de usuario optimizada.
+
+* Creemos que debemos asegurar la calidad y confiabilidad de nuestra plataforma, implementando rigurosas pruebas y manteniendo una comunicación activa con nuestros usuarios para abordar cualquier problema o inquietud que pueda surgir.
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+1. Creemos que los propietarios de vehículos que buscan monetizar sus activos sin la necesidad de involucrar tiempo e inversión considerable, quienes nos contactaran mediante nuestra plataforma par obtener ingresos pasivos bajo una fuente segura.
+
+2. Creemos que los arrendatarios que buscan opciones de alquiler de vehículos flexibles y accesibles preferirán nuestra plataforma por su facilidad de uso, precios competitivos, seguridad y confianza.
+
+3. Creemos que ofrecer un modelo de negocio sin inversión inicial en flota (no poseer autos propios para su alquiler), nos va a permitir inversión en otras areas y mantener un precio plano el cual sera competitivo bajo distintas métricas, y así, atraer tanto a arrendadores como a arrendatarios.
+
+#### 1.2.2.4 Lean UX Canvas
+
+<img src="/img/leanuxcanva.png" >
+
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
