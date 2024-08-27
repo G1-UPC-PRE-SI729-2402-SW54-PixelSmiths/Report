@@ -527,9 +527,12 @@ Un posible desafío es asegurar la confianza y satisfacción de los propietarios
 
 #### 1.2.2.4 Lean UX Canvas
 
-<img src="/img/leanuxcanva.png" >
+<img src="/images/leanuxcanva.png" >
 
 ## 1.3. Segmentos objetivo
+
+
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ## 2.2. Entrevistas
