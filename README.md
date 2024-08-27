@@ -32,6 +32,7 @@ Producto:
 |      Arce Huaman Luis Andres   | U20201A300 |
 |      Ramos Huamanchumo, Javier | U201719648 |
 |      Pinto Fuentes Rivera, Alvaro Felipe | U202213384 |
+|      Cruz Ticona, Aaron Alejandro | U202213502 |
 
 
 Agosto del 2024
@@ -68,6 +69,7 @@ Agosto del 2024
           <li>Ramos Carpio, Karen</li>
           <li>Arce Huaman, Luis Andres</li>
           <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
+          <li>Cruz Ticona, Aaron Alejandro</li>
         </ul>
       </td>
       <td>
