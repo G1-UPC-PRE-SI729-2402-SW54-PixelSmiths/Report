@@ -12,7 +12,7 @@
 
 <div align="center">
 
-Ciclo: 2024 - 0 2
+Ciclo: 2024 - 02
 
 Curso: Desarrollo de Aplicaciones Open Source
 
@@ -24,7 +24,7 @@ Informe del Trabajo Final
 
 Startup: 
 
-Producto: 
+Producto: TakeMyCar
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
@@ -32,6 +32,7 @@ Producto:
 |      Arce Huaman Luis Andres   | U20201A300 |
 |      Ramos Huamanchumo, Javier | U201719648 |
 |      Pinto Fuentes Rivera, Alvaro Felipe | U202213384 |
+|      Cruz Ticona, Aaron Alejandro | U202213502 |
 
 
 Agosto del 2024
@@ -68,6 +69,7 @@ Agosto del 2024
           <li>Ramos Carpio, Karen</li>
           <li>Arce Huaman, Luis Andres</li>
           <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
+          <li>Cruz Ticona, Aaron Alejandro</li>
         </ul>
       </td>
       <td>
@@ -261,9 +263,223 @@ URL Project Report (Github):
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
+
+TakeMyCar es una startup que actua como intermediario entre propietarios e interesando en el uso de un vehiculo. Nuestra plataforma integra una interfaz eficiente, donde los clientes puede contactarnos tanto para ofrecernos su auto, como para el alquiler de alguno ya catalogado y exhibido en nuestra plataforma. Nuestro modelo de negocio es p2p, y contamos con la ventaja de que no tendremos la necesidad de invertir en una flota inicial de vehiculos, ya que dependera exclusivamente de la demanda encontrada en nuestro mercado, generando asi beneficios a ambos segmenos objetivos. En este trabajo veremos esta startup desarrollarse y poder plasmar el potencial de la misma.
+
 ### 1.1.2 Perfiles de integrantes del equipo
+
+<table>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Aaron Alejandro Cruz Ticona
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U202213502
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Me llamo Aaron Cruz, me encuentro inmerso en la carrera de Ingenieria de Software. Hablando de mi, me considero una persona curiosa, lo que me lleva a tener constante interes en el aprender nuevas cosas y espero hacerlo en este curso.
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td rowspan="4">
+      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      xxxxx
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de 
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    xxxxx
+    </td>
+  </tr>
+
+   <tr align="center">
+    <td rowspan="4">
+      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      xxxxx
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de 
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    xxxxx
+    </td>
+  </tr>
+
+   <tr align="center">
+    <td rowspan="4">
+      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      xxxxx
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de 
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    xxxxx
+    </td>
+  </tr>
+   <tr align="center">
+    <td rowspan="4">
+      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      xxxxx
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de 
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    xxxxx
+    </td>
+  </tr>
+
+</table>
+
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
+#### Antecedentes
+
+Dentro de nuestro pais, la densidad de poblacion y las consecuencia del mismo genera un aumento significativo en la demanda de soluciones en cuanto a la movilidad temporal y flexible, por lo que, existe la necesidad de una plataforma que simplifique la gestion entre los propietarios y los arrendatarios para el alquiler de vehículos mediante una plataforma como la que planeamos ofrecer.
+
+#### Problemática
+
+El problema principal, a grandes rasgos, radica en la falta de plataformas que faciliten el alquiler de vehículos de manera eficiente entre propietarios y arrendatarios ha creado una barrera para aquellos que requieran dun automóvil de manera rápida y temporal. Lo que limita a los arrendatarios y perjudica a los propietarios al no poder rentabilizar sus vehículos, problematica que solventaremos mediante nuestro modelo p2p, titulado "TakeMyCar".
+
+#### Técnica de las 5 'W's y 2' H's
+
+**What?**
+
+El problema que abarcamos, si bien es cierto, no resuelve alguno de alerta considerable, se busca solventar la necesidad de la personas por el uso de un vehiculo en distintas situaciones. 
+
+**When?**
+
+La problematica ocurre cuando los propietarios desean generar rentabilidad y los arrendatarios necesitan el uso de un auto por un corto periodo de tiempo.  El producto se utiliza cuando los propietarios nos otorgan sus vehiculos, y son catalogados dentro de nuestra plataforma.
+
+**Where?**
+
+Estas necesidad surgiran comunmente en las zonas urbanas donde existe una demanda por el uso de vehiculos, y en este caso, el alquiler de los mismos. Podemos mencionar las ciudades de alto trafico y extension considerable, aunque puede ser usado para todo tipo de necesidad.
+
+**Who?**
+
+Los involucrados son los propietarios de vehiculos que desean alquilar su auto y no tienen el tiempo ni la confianza en una plataforma para hacerlo. Y tambien, los arrendatarios que buscan alquilar un vehiculo rapido, eficiente y sin complicaciones.
+
+**Why?**
+
+Las causas principales de la necesidad en cuestion son:
+
+- Activo sin uso, los vehiculos que no estan siendo usados ni aprovechados.
+- Falta de una plataforma interactiva y confiable para el alquiler de vehiculos.
+- Mercado poco explorado para la demanda existente
+
+**How?**
+
+Nuestros clientes utilizaran nuestra plataforma cuando necesitan reentabilizar su vehiculo o cuando necesitan acceder rapidamente a un vehiculo para un uso especifico.
+
+**How much?**
+
+Para los propietarios no va a existir un costo mas que el tiempo invertido en brindar toda la informacion necesaria para la catalogacion de su vehiculo dentro de nuestra plataforma.
+
+Para los arrendatarios, ademas de su pago por alquiler no tendran costo adicional, ya que con la finalidad de brindar un servicio completo, todo se encontrara incluido dentro del pago del alquiler.
+
+Por nuestra parte, ya se menciono que no vamos a requerir una inversion en una flota de vehiculos. Por lo que, solo necesitaremos costo en publicidad y desarrollo de nuestra plataforma.
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
