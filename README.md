@@ -303,33 +303,33 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
 
   <tr align="center">
     <td rowspan="4">
-      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+      <img src="images/fotoKaren.JPG" style="margin-bottom: 5px;" width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      xxxxx
+      Karen Ramos Carpio
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Código:</b>
     <br>
-    U
+    U20201e493
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Carrera:</b>
     <br>
-    Ingeniería de 
+    Ingeniería de Software
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Acerca de:</b>
     <br>
-    xxxxx
+    Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo       para poder llegar a los objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me        sea asignada será gestionada con diligencia.
     </td>
   </tr>
 
