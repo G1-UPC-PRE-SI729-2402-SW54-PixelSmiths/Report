@@ -296,17 +296,28 @@ URL Project Report (Github):
 		<tr>
 			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
 			<td rowspan=2 style="text-align: center" align="center">Overview</td>
-      <td style="text-align: center" align="center">PocketPartners <p align="center"><img src="images/PPLogo.png" alt="Logo PocketPartners" width="25%">
+      <td style="text-align: center" align="center">TackeMyCar <p align="center"><img src="images/PPLogo.png" alt="Logo PocketPartners" width="25%">
 </p></td>
 			<td style="text-align: center" align="center">Turo <p align="center"><img src="images/splittrLogo.png" alt="Logo Splittr" width="40%"></p></td>
 			<td style="text-align: center" align="center">Getaround<p align="center"><img src="images/tricountLogo.png" alt="Logo Tricount" width="40%"></p></td>
 			<td style="text-align: center" align="center">SIXT <p align="center"><img src="images/splitwiseLogo.png" alt="Logo Splitwise" width="40%"></p></td>
 		</tr>
 		<tr>
-			<td style="text-align: center" align="center">Plataforma que busca facilitar el proceso de división de costos en diversas situaciones, con varias herramientas que son de utilidad en dicho momento</td>
-			<td style="text-align: center" align="center">Plataforma que busca dividir los gastos grupales en viajes o comidas.</td>
-			<td style="text-align: center" align="center">Plataforma colaborativa que busca dividir todo tipo de gastos grupales.</td>
-			<td style="text-align: center" align="center">Plataforma que busca, de forma colaborativa, llevar un recuento de todos los gastos grupales que se hacen.</td>
+			<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por nuestra startup:Pixel Smiths. TakeMyCarofrece una manera segura y sencilla de listar sus vehículos, con la ventaja de no requerir ninguna inversión inicial. Además, los propietarios solo son remunerados cuando su vehículo es alquilado, reduciendo riesgos y asegurando una fuente de ingresos sin compromisos</td>
+			<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por la empresa RelayRides. actualmente llamada Turo Inc.
+Turo
+ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad que proporciona una plataforma global, junto con seguros integrados que protegen sus activos durante los alquileres
+
+</td>
+			<td style="text-align: center" align="center"> Aplicativo de alquiler de vehículos creado por la empresa Getaround Inc.
+Getaround genera ingresos pasivos al alquilar sus vehículos de manera flexible, incluso por horas. La plataforma facilita el proceso con tecnología de acceso remoto al vehículo, eliminando la necesidad de interacciones en persona y ofreciendo seguros para mayor tranquilidad
+
+</td>
+			<td style="text-align: center" align="center">
+Aplicativo de alquiler de vehículos creado por la empresa de Sixt SE.
+ofrece a sus clientes una experiencia de alquiler de vehículos premium, con acceso a una extensa flota de autos bien mantenidos y una variedad de opciones que van desde alquileres de corto plazo hasta soluciones de movilidad compartida. La empresa actualmente es líder global en renta de vehículos. 
+
+</td>
 		</tr>
 		<tr>
 			<td style="text-align: center" align="center">Ventaja Competitiva ¿Qué valor ofrecen a los clientes</td>
@@ -383,6 +394,7 @@ URL Project Report (Github):
 		</tr>
     </tbody>
 </table>
+<br>
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
