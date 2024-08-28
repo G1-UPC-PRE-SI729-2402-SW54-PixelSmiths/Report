@@ -335,34 +335,33 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
 
    <tr align="center">
     <td rowspan="4">
-      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+      <img src="images/fotoAlvaro.jpg" style="margin-bottom: 5px;" width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      xxxxx
+      Alvaro Felipe Pinto Fuentes Rivera
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Código:</b>
     <br>
-    U
+    U202213384
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Carrera:</b>
     <br>
-    Ingeniería de 
+    Ingeniería de Software
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Acerca de:</b>
     <br>
-    xxxxx
-    </td>
+    Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el género de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.	
   </tr>
 
    <tr align="center">
