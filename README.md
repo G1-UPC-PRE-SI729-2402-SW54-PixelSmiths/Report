@@ -483,7 +483,7 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 
 #### 5.2.1.2. Sprint Backlog 1
 
-En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
 <img src="images/5-2-1-2.png" alt="Trello" width="100%">
 
