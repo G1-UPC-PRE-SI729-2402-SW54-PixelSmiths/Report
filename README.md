@@ -395,6 +395,21 @@ Estrucutra de las ramas:
 
 ### 5.1.4. Software Deployment Configuration
 
+<p align="justify"> 
+  Para la implementación de la aplicación TakeMyCar, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación. 
+  Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
+</p>
+
+- Paso uno: Crear un archivo de configuración de flujo de trabajo en la carpeta .github/workflows/main.yml.
+En este caso obtaremos por una ya creada por la comunidad de Github Actions exactamente el de Jekyll que nos permitira desplegar nuestra aplicación en Github Pages simplemente haciendo push a la rama main.
+
+  <img align="center" src="images/5-1-4-1.png" alt="Configuracion Github Actions" width="90%">
+
+- Paso dos: Subir nuestros cambios a la rama main.
+
+- Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
+  <img align="center" src="images/5-1-4-2.png" alt="Despliegue en Github Pages" width="90%">
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
