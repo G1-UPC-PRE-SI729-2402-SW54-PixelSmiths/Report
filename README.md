@@ -414,19 +414,109 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
+
+<table>
+  <caption>Sprint #1</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>22/08/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>21:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de google meet</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Ramos Carpio, Karen</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de PixelSmiths</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará la organización de PixelSmiths en Github y el repositorio de la organización. Además, se implementará el single page landing page.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el landing se ha realizado mediante html y css.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
+
+En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/b/jaPO8QbP/takemycar-sprint-1
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+A continuación se presentan informacion de los commits de la Landing page de PocketPartners, con el uso de HTML, CSS y JavaScript
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.
+
+En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages.
+
+Se puede acceder a la página de inicio a través del siguiente enlace:
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+A continuación se presentan capturas de los insights del repositorio del landing page en Github
 
 # Conclusiones
 ### Conclusiones y recomendaciones
