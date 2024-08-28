@@ -274,18 +274,19 @@ URL Project Report (Github):
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
-<h3><li>Turo:</li></span></h3><br>
-Descripción: Turo es una plataforma de alquiler de vehículos que permite a los propietarios alquilar sus vehículos a personas que buscan una alternativa al alquiler de autos que se realiza de manera muy tradicional. Los propietarios pueden listar sus vehículos en la plataforma, establecer precios y recibir ingresos por el tiempo que sus vehículos son alquilados. Turo maneja la plataforma digital, el proceso de reservas y un seguro correspondiente.<br>
-<li>Modelo de Negocio:</li> <br> Turo opera un modelo de negocio peer-to-peer y cobra una comisión sobre cada transacción y ofrece seguros para los propietarios y arrendatarios.<br>
-<strong>Getaround:<strong><br>
+<h2><li>Turo:</li></span></h2><br>
+Descripción: Turo es una plataforma de alquiler de vehículos que permite a los propietarios alquilar sus vehículos a personas que buscan una alternativa al alquiler de autos que se realiza de manera muy tradicional. Los propietarios pueden listar sus vehículos en la plataforma, establecer precios y recibir ingresos por el tiempo que sus vehículos son alquilados. Turo maneja la plataforma digital, el proceso de reservas y un seguro correspondiente. <br>
+<h3><li>Modelo de negocio:</li></span></h3><br> Turo opera un modelo de negocio peer-to-peer y cobra una comisión sobre cada transacción y ofrece seguros para los propietarios y arrendatarios.<br>
+<h2><li>Getaround:</li></span></h2><br>
 Descripción: La plataforma Getaround permite a los usuarios alquilar vehículos por horas o días. Los propietarios pueden compartir sus vehículos cuando no los usan, mientras que los arrendatarios pueden acceder a un coche en su área a través de la aplicación Getaround. La empresa también ofrece seguros y servicios sobre la gestión del alquiler.<br>
-<li>Modelo de Negocio:</li><br> Opera un modelo de negocio peer-to-peer. Getaround cobra una comisión sobre cada alquiler y se encarga de proporcionar seguros y otras garantías.<br>
-<li>SIXT:</li><br>
+<h3><li>Modelo de negocio:</li></span></h3><br> Opera un modelo de negocio peer-to-peer. Getaround cobra una comisión sobre cada alquiler y se encarga de proporcionar seguros y otras garantías.<br>
+<h2><li>SIXT</li></span></h2><br>
 Descripción:
 SIXT es una empresa global de alquiler de vehículos con una fuerte presencia en Europa y Latinoamérica, que ofrece desde alquileres tradicionales hasta soluciones digitales propias de la empresa. Los usuarios pueden reservar, desbloquear, y pagar por el uso del vehículo, lo que lo hace muy competitivo en el mercado actual de movilidad<br>
-<li>Modelo de negocio:</li><br>
-SIXT opera un modelo de negocio híbrido basado en Pay-per-Use, combinando la propiedad de flota con servicios de alquiler digital donde los usuarios pagan por el tiempo que utilizan el vehículo.
-## 2.1.1 Análisis competitivo
+<h3><li>Modelo de negocio:</li></span></h3><br>
+SIXT opera un modelo de negocio híbrido basado en Pay-per-Use, combinando la propiedad de flota con servicios de alquiler digital donde los usuarios pagan por el tiempo que utilizan el vehículo.<br><br>
+
+### 2.1.1 Análisis competitivo
 <table>
     <thead>
         <tr >
@@ -308,11 +309,11 @@ SIXT opera un modelo de negocio híbrido basado en Pay-per-Use, combinando la pr
 		<tr>
 			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
 			<td rowspan=2 style="text-align: center" align="center">Overview</td>
-      <td style="text-align: center" align="center">TackeMyCar <p align="center"><img src="images/PPLogo.png" alt="Logo PocketPartners" width="25%">
+      <td style="text-align: center" align="center">TakeMyCar <p align="center"><img src="images/TakeMyCar.png" alt="Logo TakeMyCar" width="25%">
 </p></td>
-			<td style="text-align: center" align="center">Turo <p align="center"><img src="images/splittrLogo.png" alt="Logo Splittr" width="40%"></p></td>
-			<td style="text-align: center" align="center">Getaround<p align="center"><img src="images/tricountLogo.png" alt="Logo Tricount" width="40%"></p></td>
-			<td style="text-align: center" align="center">SIXT <p align="center"><img src="images/splitwiseLogo.png" alt="Logo Splitwise" width="40%"></p></td>
+			<td style="text-align: center" align="center">Turo <p align="center"><img src="images/Turo.png" alt="Logo Turo" width="40%"></p></td>
+			<td style="text-align: center" align="center">Getaround<p align="center"><img src="images/Getaround.png" alt="Logo Getaround" width="40%"></p></td>
+			<td style="text-align: center" align="center">SIXT <p align="center"><img src="images/SIXT.png" alt="Logo Sixt" width="40%"></p></td>
 		</tr>
 		<tr>
 			<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por nuestra startup:Pixel Smiths. TakeMyCarofrece una manera segura y sencilla de listar sus vehículos, con la ventaja de no requerir ninguna inversión inicial. Además, los propietarios solo son remunerados cuando su vehículo es alquilado, reduciendo riesgos y asegurando una fuente de ingresos sin compromisos</td>
@@ -411,9 +412,38 @@ ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad q
     </tbody>
 </table>
 
+### 2.1.2 Estrategias y tácticas frente a competidores
+<li>Nuestra estrategia primordial implica una expansión estratégica a través de la publicidad en redes sociales y otras aplicaciones, con el objetivo de atraer y retener un mayor número de usuarios. Dado el entorno altamente competitivo en el que operamos, consideramos esencial aumentar nuestra visibilidad en línea y alcanzar a una audiencia más amplia.</li><br>
+<li>En resumen, nuestra estrategia abarca tanto la expansión a través de la publicidad en línea como la construcción de una sólida reputación de marca, ya que creemos que estos elementos son fundamentales para nuestro éxito continuo en un mercado altamente competitivo.</li>
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+El objetivo principal de las entrevistas es comprender las necesidades, expectativas y experiencias de los padres y alumnos en la academia de taekwondo. Esto puede incluir aspectos como la calidad de las clases, la comunicación, la seguridad, la administración y otros aspectos relevantes:
+
+<h3>Arrendatario de un vehículo:</h3>
+<li>¿Con qué frecuencia usas tu vehículo actualmente?</li>
+<li>¿Cuál es tu principal motivación para alquilar tu vehículo a través de una plataforma como la nuestra?</li>
+<li>¿Qué tipo de preocupaciones tienes sobre alquilar tu vehículo a extraños?</li>
+  <li>¿Qué tipo de seguro tienes para tu vehículo actualmente?</li>
+  <li>¿Qué tan cómodo te sentirías con otras personas conduciendo tu vehículo?</li>
+  <li>¿Qué tipo de compensación esperas obtener por alquilar tu vehículo?</li>
+  <li>¿Qué información te gustaría conocer sobre la persona que alquila tu vehículo?</li>
+  <li>¿Estarías dispuesto a instalar dispositivos tecnológicos en tu vehículo para facilitar el alquiler (como GPS o sistemas de entrada sin llave)?</li>
+  <li>¿Has alquilado tu vehículo anteriormente a través de alguna plataforma o a conocidos?</li>
+  <li>¿Qué tipo de soporte o asistencia esperarías de nuestra plataforma durante el alquiler de tu vehículo?</li>
+  <h3>Persona arrendataria:</h3>
+  <li>¿Con qué frecuencia te transportas en el día a día?</li>
+  <li>¿Qué características buscas en un vehículo al considerar alquilarlo?</li>
+  <li>¿Cuál es tu presupuesto promedio para alquilar un vehículo?</li>
+  <li>¿Qué tan importante es para ti la flexibilidad en los términos del alquiler?</li>
+  <li>¿Qué factores consideras al elegir una plataforma para alquilar un vehículo?</li>
+  <li>¿Qué tipo de seguros y garantías esperas que estén incluidos en el alquiler del vehículo?</li>
+  <li>¿Cuáles son tus expectativas respecto a la calidad del servicio y la atención al cliente durante el alquiler?</li>
+  <li>¿Qué tan importante es para ti la transparencia en el proceso de alquiler, desde la reserva hasta la devolución del vehículo?</li>
+  <li>¿Qué aspectos negativos has experimentado en alquileres de vehículos anteriores que te gustaría evitar?</li>
+  <li>¿Qué tan cómodo te sientes usando una plataforma digital para alquilar un vehículo?</li>
 
 ### 2.2.2. Registro de entrevistas
 
