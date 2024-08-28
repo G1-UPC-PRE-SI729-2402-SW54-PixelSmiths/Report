@@ -531,7 +531,60 @@ Un posible desafío es asegurar la confianza y satisfacción de los propietarios
 
 ## 1.3. Segmentos objetivo
 
+<h3> Segmento #1: Propietarios de uno o más vehículos propios</h3>
 
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculino y Femenino </li>
+  <li> Edades: Entre 18 y 60 años </li>
+  <li> Nivel Socioeconómico: Clases A, B y C (Clase alta, clase media alta y clase media) </li>
+</ul>
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Personas naturales o jurídicas que no utilicen con frecuencia su activo (vehículo). </li>
+  <li> Personas que deseen obtener ingresos pasivos sin la necesidad de invertir un gran cantidad de su tiempo. </li>
+  <li> Personas que no encuentran una manera rápida y confiable de alquilar sus vehículos. </li>
+</ul>
+
+<br>
+<h3> Segmento #2: Usuarios que tienen la necesidad de alquilar un vehículo </h3>
+
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculo y Femenino </li>
+  <li> Edades: Entre 18 y 50 años </li>
+  <li> Nivel Socioeconómico: Clases A. B y C (Clase alta, clase media alta y clase media) </li>
+</ul>
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Usuarios que gasten demasiadas horas semanales dentro del tráfico y el transporte público. </li>
+  <li> Personas que no tienen la posibilidad de adquirir un auto nuevo o seminuevo para ciertas ocasiones. </li>
+  <li> Personas que necesitan un medio de transporte propio por un tiempo corto de uso. </li>
+</ul>
+
+<br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
