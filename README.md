@@ -420,7 +420,7 @@ ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad q
 
 ### 2.2.1. Diseño de entrevistas
 
-El objetivo principal de las entrevistas es comprender las necesidades, expectativas y experiencias de los padres y alumnos en la academia de taekwondo. Esto puede incluir aspectos como la calidad de las clases, la comunicación, la seguridad, la administración y otros aspectos relevantes:
+El objetivo principal de las entrevistas es comprender las necesidades de nuestros segmentos objetivos en la cual para ello definiremos las siguientes preguntas claves:
 
 <h3>Arrendatario de un vehículo:</h3>
 <li>¿Con qué frecuencia usas tu vehículo actualmente?</li>
