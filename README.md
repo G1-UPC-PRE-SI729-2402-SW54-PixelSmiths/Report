@@ -274,7 +274,7 @@ URL Project Report (Github):
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
-<strong>Turo:<strong><br>
+<span style="font-size: 4em;"><li><strong>Turo:<strong><br></li>Turo</span>
 Descripción: Turo es una plataforma de alquiler de vehículos que permite a los propietarios alquilar sus vehículos a personas que buscan una alternativa al alquiler de autos que se realiza de manera muy tradicional. Los propietarios pueden listar sus vehículos en la plataforma, establecer precios y recibir ingresos por el tiempo que sus vehículos son alquilados. Turo maneja la plataforma digital, el proceso de reservas y un seguro correspondiente.
 Modelo de Negocio: Turo opera un modelo de negocio peer-to-peer y cobra una comisión sobre cada transacción y ofrece seguros para los propietarios y arrendatarios.<br>
 <strong>Getaround:<strong><br>
