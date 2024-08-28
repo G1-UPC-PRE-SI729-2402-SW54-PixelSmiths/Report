@@ -321,18 +321,22 @@ ofrece a sus clientes una experiencia de alquiler de vehículos premium, con acc
 		</tr>
 		<tr>
 			<td style="text-align: center" align="center">Ventaja Competitiva ¿Qué valor ofrecen a los clientes</td>
-			<td style="text-align: center" align="center"><ul><li>Organización por grupos y etiquetas</li> <li>Notificaciones en tiempo real</li> <li>Beneficios adicionales por plan premium</li></ul> </td>
-			<td style="text-align: center" align="center"><ul><li>Simplicidad de la plataforma</li> <li>Exportar a pdf o cvs</li> <li>No requiere registro</li></ul> </td>
-			<td style="text-align: center" align="center"><ul><li>División desigual de gastos</li> <li>Guardado de fotos</li> <li>Notificaciones en tiempo real</li></ul> </td>
-			<td style="text-align: center" align="center"><ul><li>Facilidad de uso</li> <li>Sincronización en la nube</li> <li>Métodos de pago integrados</li> <li>Funciones pro adicionales</li></ul> </td>
+			<td style="text-align: center" align="center">TakeMyCarofrece una manera segura y sencilla de listar sus vehículos, con la ventaja de no requerir ninguna inversión inicial. Además, los propietarios solo son remunerados cuando su vehículo es alquilado, reduciendo riesgos y asegurando una fuente de ingresos sin compromisos
+
+</td>
+			<td style="text-align: center" align="center">Turo
+ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad que proporciona una plataforma global, junto con seguros integrados que protegen sus activos durante los alquileres
+</td>
+			<td style="text-align: center" align="center">Getaround genera ingresos pasivos al alquilar sus vehículos de manera flexible, incluso por horas. La plataforma facilita el proceso con tecnología de acceso remoto al vehículo, eliminando la necesidad de interacciones en persona y ofreciendo seguros para mayor tranquilidad</td>
+			<td style="text-align: center" align="center">ofrece a sus clientes una experiencia de alquiler de vehículos premium, con acceso a una extensa flota de autos bien mantenidos y una variedad de opciones que van desde alquileres de corto plazo hasta soluciones de movilidad compartida. La empresa actualmente es líder global en renta de vehículos. </td>
 		</tr>
 		<tr>
 			<td rowspan=2 style="text-align: center" align="center">Perfil del Marketing</td>
 			<td style="text-align: center" align="center">Mercado Objetivo</td>
-			<td style="text-align: center" align="center"><ul><li>Viajeros que busquen dividir sus gastos</li> <li>Roomates que quieran dividir los gastos del hogar</li> <li>Grupos de personas que desean dividir los gastos de una cena</li></ul> </td>
-			<td style="text-align: center" align="center"><ul><li>Viajes</li> <li>Casas compartidas</li></ul> </td>
-			<td style="text-align: center" align="center"><ul><li>Parejas que desean dividir gastos</li> <li>Viajeros que quieren gestionar sus compras</li> <li>Comapñeros de piso</li></ul> </td>
-			<td style="text-align: center" align="center"><ul><li>Viajeros</li> <li>Compañeros de piso</li> <li>Parejas</li> <li>Grupos de amigos</li></ul> </td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 25 a 60 años con un claro manejo de un dispositivo móvil.</td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 22 años en adelante con un claro manejo de un dispositivo móvil.</td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 22 años en adelante con un claro manejo de un dispositivo móvil.</td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 22 años en adelante con un claro manejo de un dispositivo móvil.</td>
 		</tr>
 		<tr>
 			<td style="text-align: center" align="center">Estrategias de Marketing</td>
@@ -394,44 +398,82 @@ ofrece a sus clientes una experiencia de alquiler de vehículos premium, con acc
 		</tr>
     </tbody>
 </table>
-<br>
+
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
+
 ### 2.2.2. Registro de entrevistas
+
 ### 2.2.3. Análisis de entrevistas
+
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
+
 ### 2.3.2. User Task Matrix
+
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping
+
 ### 2.3.5. As-is Scenario Mapping
+
 ## 2.4. Ubiquitous Language
+
 # Capítulo III: Requirements Specification
+
 ## 3.1. To-Be Scenario Mapping
+
 ## 3.2. User Stories
+
 ## 3.3. Impact Mapping
+
 ## 3.4. Product Backlog
+
 # Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines
+
 ## 4.2. Information Architecture
+
 ## 4.3. Landing Page UI Design
+
 ## 4.4. Web Applications UX/UI Design
+
 ### 4.4.1. Web Applications Wireframes
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 ### 4.4.3. Web Applications Mock-ups
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
 ## 4.5. Web Applications Prototyping
+
 ## 4.6. Domain-Driven Software Architecture
+
+
 ### 4.6.1. Software Architecture Context Diagram
+
 ### 4.6.2. Software Architecture Container Diagrams
+
 ### 4.6.3. Software Architecture Components Diagrams
+
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
+
 ### 4.7.2. Class Dictionary
+
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagram
+
 # Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
+
 ### 5.1.1. Software Development Environment Configuration
 
 ### 5.1.2. Source Code Management
