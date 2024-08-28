@@ -298,9 +298,9 @@ URL Project Report (Github):
 			<td rowspan=2 style="text-align: center" align="center">Overview</td>
       <td style="text-align: center" align="center">PocketPartners <p align="center"><img src="images/PPLogo.png" alt="Logo PocketPartners" width="25%">
 </p></td>
-			<td style="text-align: center" align="center">Splittr <p align="center"><img src="images/splittrLogo.png" alt="Logo Splittr" width="40%"></p></td>
-			<td style="text-align: center" align="center">Tricount <p align="center"><img src="images/tricountLogo.png" alt="Logo Tricount" width="40%"></p></td>
-			<td style="text-align: center" align="center">Splitwise <p align="center"><img src="images/splitwiseLogo.png" alt="Logo Splitwise" width="40%"></p></td>
+			<td style="text-align: center" align="center">Turo <p align="center"><img src="images/splittrLogo.png" alt="Logo Splittr" width="40%"></p></td>
+			<td style="text-align: center" align="center">Getaround<p align="center"><img src="images/tricountLogo.png" alt="Logo Tricount" width="40%"></p></td>
+			<td style="text-align: center" align="center">SIXT <p align="center"><img src="images/splitwiseLogo.png" alt="Logo Splitwise" width="40%"></p></td>
 		</tr>
 		<tr>
 			<td style="text-align: center" align="center">Plataforma que busca facilitar el proceso de división de costos en diversas situaciones, con varias herramientas que son de utilidad en dicho momento</td>
