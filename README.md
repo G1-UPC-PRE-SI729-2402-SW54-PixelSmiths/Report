@@ -332,6 +332,70 @@ URL Project Report (Github):
 Además, en el desarrollo de nuestros mock-ups y wireframes, se emplearon dos tipos de pantallas comunes: escritorio y móvil. La versión de escritorio estuvo más dirigida a nuestro segmento de administradores del taller, mientras que la versión móvil estuvo destinada al segmento de propietarios de vehículos.
 
 ## 4.2. Information Architecture
+
+### 4.2.1 Organization Systems:
+
+Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón H o también llamado Hierarchical que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
+
+<p align="center">
+  <img src="images/Z-Pattern.png" alt="Z-Pattern" width="80%">
+</p>
+
+### 4.2.2 Labeling Systems:
+
+### 4.2.3. SEO Tags and Meta Tag
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de TakeMyCar.
+
+Landing Page:
+
+Title: TakeMyCar
+
+Description: TakeMyCar - Oficial Landing Page
+
+Keywords: Vehicles, Subscription, Rates.
+
+Authors: TakeMyCar team
+
+Web application:
+
+Title: TakeMyCar
+
+Description: TakeMyCar - Oficial Web Site
+
+Keywords: Vehicles, Brands, Prices, Rent, Locations.
+
+Authors: TakeMyCar team
+
+### 4.2.4. Searching Systems
+Se implementaron dos funcionalidades de búsqueda similares con el objetivo de mejorar la experiencia de usuario al facilitar la búsqueda de información deseada.
+
+El primero de estos sistemas se encuentra en la sección de "Vehicles" de la aplicación. Aquí, los usuarios tienen acceso a una lista completa de todas los vehiculos disponibles. Para agilizar la localización de vehiculos con la posiblidad de aplicar filtros, demás de la incorporación de una barra de búsqueda que permite introducir términos clave para encontrar rápidamente una marca o módelo.
+
+Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Locations". En esta sección, los usuarios pueden de entre todas las posibles ubicación ya sea para el lugar de recogida o despacho. Además de la búsqueda por ciudad, se han implementado filtros adicionales que permiten refinar la búsqueda según la cercanía y disponibilidad de horario. Esta funcionalidad proporciona a los usuarios una experiencia más amigable y facilita su interacción con la aplicación.
+
+4.2.5. Navigation Systems
+Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
+
+-Home: Página de inicio del menú.
+
+-Vehicles: Acceso a información de los vehiculos.
+
+-Chat: Comunicación con el taller encargado de la reparación.
+
+-Profile: Visualización de datos personales.
+
+-Configuration: Configuración de la aplicación.
+
+-Support: Solicitud de ayuda en caso de errores.
+
+Para el arrendador, el menú es similar, pero con secciones adicionales:
+
+-AddVehicle: Lista de vehiculos donde se puede agregar un nuevo vehiculo para que sea arrendado.
+
+-Invoice: Administración de las facturas emitidas al arrendatario detallando el vehiculo y el tiempo que ha sido rentado.
+
+Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que el usuario no se sienta perdido con lo que tiene en pantalla. Esto permite que pueda realizar acciones que lo llevan a otras ventanas de forma intuitiva.
+
 ## 4.3. Landing Page UI Design
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
