@@ -408,7 +408,16 @@ Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
+
+En este capaitulo veremos el diseño de nuestros "objetos". Estos objetos representan entidades o conceptos del mundo real que tienen tanto datos (atributos) como comportamientos (métodos). Este enfoque facilita la construcción de software complejo mediante la división del problema en componentes más pequeños y manejables que interactúan entre sí de manera predecible y estructurada.
+
 ### 4.7.1. Class Diagrams
+
+<p align ="justify">
+En este diagrama de clases se muestran las clases que componen la aplicación TakeMyCar.
+
+<img src="images/TakeMyCar-Diagram-Class-Diagram.png" alt="Class Diagram">
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
