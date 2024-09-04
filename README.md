@@ -415,10 +415,330 @@ En este capaitulo veremos el diseño de nuestros "objetos". Estos objetos repres
 
 <p align ="justify">
 En este diagrama de clases se muestran las clases que componen la aplicación TakeMyCar.
+</p>
 
 <img src="images/TakeMyCar-Diagram-Class-Diagram.png" alt="Class Diagram">
 
 ### 4.7.2. Class Dictionary
+
+<p align ="justify">
+En este apartado detallamos cada clase de nuestro diagrama
+</p>
+<br>
+
+
+<div align="center">
+    <h3>User Class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>userID</td>
+              <td>string</td>
+              <td>Identificador único del usuario</td>
+          </tr>
+          <tr>
+              <td>nombre</td>
+              <td>string</td>
+              <td>Nombre del usuario</td>
+          </tr>
+          <tr>
+              <td>email</td>
+              <td>string</td>
+              <td>Correo electrónico del usuario</td>
+          </tr>
+          <tr>
+              <td>password</td>
+              <td>string</td>
+              <td>Contraseña del usuario</td>
+          </tr>  
+          <tr>
+              <td>direccion</td>
+              <td>string</td>
+              <td>Dirección del usuario</td>
+          </tr>
+          <tr>
+              <td>telefono</td>
+              <td>string</td>
+              <td>Telefono del usuario</td>
+          </tr> 
+          <tr>
+              <td>FechaRegistro</td>
+              <td>date</td>
+              <td>Fecha de Registro del usuario</td>
+          </tr>
+        <tr>
+              <td>TipoUsuario</td>
+              <td>list</td>
+              <td>Tipo de usuario</td>
+          </tr>
+      </tbody>
+    </table>
+    <h3>Vehiculo Class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>vehicleid</td>
+              <td>int</td>
+              <td>Identificador único del vehiculo</td>
+          </tr>
+          <tr>
+              <td>marca</td>
+              <td>string</td>
+              <td>Marca del vehiculo</td>
+          </tr>
+          <tr>
+              <td>modelo</td>
+              <td>string</td>
+              <td>Modelo del vehiculo</td>
+          </tr>
+          <tr>
+              <td>anno</td>
+              <td>int</td>
+              <td>Año del vehiculo</td>
+          </tr>
+          <tr>
+              <td>placa</td>
+              <td>string</td>
+              <td>Placa del vehiculo</td>
+          </tr>
+          <tr>
+              <td>color</td>
+              <td>string</td>
+              <td>Color del vehiculo</td>
+          </tr>
+          <tr>
+              <td>kilometraje</td>
+              <td>float</td>
+              <td>Kilometraje del vehiculo</td>
+          </tr>
+          <tr>
+              <td>precioXdia</td>
+              <td>float</td>
+              <td>Precio por dia del vehiculo</td>
+          </tr>
+          <tr>
+              <td>estado</td>
+              <td>list</td>
+              <td>Estado del vehiculo</td>
+          </tr>
+          <tr>
+              <td>propietarioID</td>
+              <td>string</td>
+              <td>Id del Propietario del vehiculo</td>
+          </tr>
+      </tbody>
+    </table>
+    <h3>Reserva class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>bookingid</td>
+              <td>int</td>
+              <td>Identificador único de la reserva</td>
+          </tr>
+          <tr>
+              <td>vehicleID</td>
+              <td>int</td>
+              <td>Identificardo de cada vehiculo</td>
+          </tr>
+          <tr>
+              <td>arrendatarioID</td>
+              <td>string</td>
+              <td>Identificador de cada usuario arrendatario</td>
+          </tr>
+          <tr>
+              <td>fechaInicio</td>
+              <td>date</td>
+              <td>Fecha de inicio de cada reserva</td>
+          </tr>
+          <tr>
+              <td>fechaFin</td>
+              <td>date</td>
+              <td>Fecha de fin de cada reserva</td>
+          </tr>
+          <tr>
+              <td>estadoReserva</td>
+              <td>int</td>
+              <td>Estado de cada reserva</td>
+          </tr>
+          <tr>
+              <td>precioTotal</td>
+              <td>float</td>
+              <td>Precio de cada reserva</td>
+          </tr>
+      </tbody>
+    </table>
+    <h3>Pago class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>paymentID</td>
+            <td>int</td>
+            <td>Identificador único de los pagos</td>
+        </tr>
+        <tr>
+            <td>bookingID</td>
+            <td>Booking</td>
+            <td>Identificador de las reservas</td>
+        </tr>
+        <tr>
+            <td>monto</td>
+            <td>float</td>
+            <td>Monto de cada reserva</td>
+        </tr>
+        <tr>
+            <td>fechaPago</td>
+            <td>date</td>
+            <td>Fecha de la pago de una reserva</td>
+        </tr>
+        <tr>
+            <td>metoddoPago</td>
+            <td>list</td>
+            <td>metodo de pago de cada reserva</td>
+        </tr>
+        <tr>
+            <td>estadoPago</td>
+            <td>list</td>
+            <td>Estado de pago dla reserva</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Review Class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>reviewID</td>
+            <td>int</td>
+            <td>Identificador de las reseñas</td>
+        </tr>
+        <tr>
+            <td>bookingID</td>
+            <td>Booking</td>
+            <td>Reserva observada</td>
+        </tr>
+        <tr>
+            <td>autorID</td>
+            <td>User</td>
+            <td>Usuario relacionado</td>
+        </tr>
+        <tr>
+            <td>calificacion</td>
+            <td>int</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>comentario</td>
+            <td>string</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>fechaResenna</td>
+            <td>string</td>
+            <td></td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Mensaje class</h3>
+      <table>
+        <thead>
+            <tr>
+                <th>Attribute</th>
+                <th>Type</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+          <tr>
+              <td>nessageID</td>
+              <td>int</td>
+              <td>Identificador único de cada mensaje</td>
+          </tr>
+          <tr>
+              <td>senderID</td>
+              <td>User</td>
+              <td>Usuario que envia un mensaje</td>
+          </tr>
+          <tr>
+              <td>receiverID</td>
+              <td>User</td>
+              <td>Usuario que recibe un mensaje</td>
+          </tr>
+          <tr>
+              <td>contenido</td>
+              <td>string</td>
+              <td>Fecha del recordatorio</td>
+          </tr>
+          <tr>
+              <td>fechaEnvio</td>
+              <td>date</td>
+              <td>Fecha del recordatorio</td>
+          </tr>
+        </tbody>
+      </table>
+    <h3>Subscription class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+    <tbody>
+        <tr>
+            <td>id</td>
+            <td>int</td>
+            <td>Identifica la suscripción</td>
+        </tr>
+        <tr>
+            <td>paymet_code</td>
+            <td>string</td>
+            <td>Codigo generado por el sistema paymet para la validacion del pago</td>
+        </tr>
+        <tr>
+          <td>Expire_date</td>
+          <td>date</td>
+          <td>Fecha de expiración de la suscripción</td>
+        </tr>
+    </tbody>
+  </table>
+  </div>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
