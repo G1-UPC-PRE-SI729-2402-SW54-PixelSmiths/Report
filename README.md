@@ -393,28 +393,29 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      xxxxx
+      Javier Ramos
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Código:</b>
     <br>
-    U
+    U201719648
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Carrera:</b>
     <br>
-    Ingeniería de 
+    Ingeniería de Sistemas
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Acerca de:</b>
     <br>
-    xxxxx
+    Mi nombre es Javier Ramos, actualmente me encuentro en el proceso de traslado hacia la carrera de Ingeniería de Software, ya que deseo formalizar mis conocimientos en el área que me apasiona y a la que me dedico laboralmente.
+Tengo experiencia en AWS, diversas tecnologías frontend, backend y CMS. Además me encuentro certificado en Contentful y AWS
     </td>
   </tr>
    <tr align="center">
