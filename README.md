@@ -272,7 +272,7 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
 
 <p align="justify">Logotipo de la Startup:</p>
 
-<p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.JPG" alt="Logo Startup" width="20%"></p></p>
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.png" alt="Logo Startup" width="20%"></p></p>
 
 <p align="justify">Logotipo del servicio:</p>
 
