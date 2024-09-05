@@ -266,6 +266,19 @@ URL Project Report (Github):
 
 TakeMyCar es una startup que actua como intermediario entre propietarios e interesando en el uso de un vehiculo. Nuestra plataforma integra una interfaz eficiente, donde los clientes puede contactarnos tanto para ofrecernos su auto, como para el alquiler de alguno ya catalogado y exhibido en nuestra plataforma. Nuestro modelo de negocio es p2p, y contamos con la ventaja de que no tendremos la necesidad de invertir en una flota inicial de vehiculos, ya que dependera exclusivamente de la demanda encontrada en nuestro mercado, generando asi beneficios a ambos segmenos objetivos. En este trabajo veremos esta startup desarrollarse y poder plasmar el potencial de la misma.
 
+<p align="justify">Misión: Facilitar el acceso a vehículos compartidos mediante una plataforma digital que permita a las personas alquilar autos de otros propietarios, Buscando aprovechar la tecnología para ofrecer una alternativa más eficiente y sostenible al modelo tradicional de propiedad de vehículos, reduciendo la necesidad de tener un auto propio y promoviendo un uso más eficiente de los recursos.</p>
+
+<p align="justify">Visión: Crear un mundo donde el acceso a la movilidad sea sencillo y compartido, disminuyendo la cantidad de autos en circulación, contribuyendo a ciudades más limpias y sostenibles, y mejorando la eficiencia del transporte mediante la economía colaborativa.</p>
+
+<p align="justify">Logotipo de la Startup:</p>
+
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.JPG" alt="Logo Startup" width="20%"></p></p>
+
+<p align="justify">Logotipo del servicio:</p>
+
+<p style="text-align: center" align="center"> <p align="center"><img src="images/take-my-car-logo.png" alt="Logo Servicio" width="20%"></p></p>
+
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
 <table>
