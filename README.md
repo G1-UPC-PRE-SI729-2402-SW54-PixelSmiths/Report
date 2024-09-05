@@ -63,13 +63,14 @@ Agosto del 2024
   <tbody>
   <tr>
       <td><strong>TB1</strong></td>
-      <td></td>
+      <td>Viernes 06 de Setiembre</td>
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
           <li>Arce Huaman, Luis Andres</li>
           <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
           <li>Cruz Ticona, Aaron Alejandro</li>
+          <li>Ramos Huamanchumo, Javier</li>
         </ul>
       </td>
       <td>
@@ -117,29 +118,37 @@ Agosto del 2024
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li></li>
+          <li>Ramos Carpio, Karen:</li>
+          <li>Arce Huaman, Luis Andres:</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
+          <li>Cruz Ticona, Aaron Alejandro:</li>
+          <li>Ramos Huamanchumo, Javier: </li>
         </ul> 
-      </td>
-      <td><strong>TB1:</strong><p align="justify"> </p>
-      </td>
+      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+      <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
       <td style="border-right: 1px solid black;">
-          <ul>
-            <p><strong>TB1</strong></p>
-            <li></li>
-          </ul> 
-        </td>
-        <td><strong>TB1:</strong><p align="justify"> </p>
-        </td>
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Ramos Carpio, Karen:</li>
+          <li>Arce Huaman, Luis Andres:</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
+          <li>Cruz Ticona, Aaron Alejandro:</li>
+          <li>Ramos Huamanchumo, Javier: </li>
+        </ul> 
+      </td>
+      <td><p><strong>TB1</strong></p>
+        <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
+        <br>
     </tr>
   </tbody>
 </table>
 
 # **Project Report Online**
 
-URL Project Report (Github):
+URL Project Report (Github): https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths
           
 # Contenido
 ## Tabla de contenidos
