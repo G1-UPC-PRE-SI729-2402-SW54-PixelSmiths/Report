@@ -343,6 +343,22 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
 
 ### 4.2.2 Labeling Systems:
 
+Aplicación web celulares:
+
+Segmento #2: Usuarios que tienen la necesidad de alquilar un vehículo
+
+<p align="center">
+  <img src="images/AppWeb_Movil_Segmento2_1.png" alt="AppWeb_Movil_Segmento2_1" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/AppWeb_Movil_Segmento2_2.png" alt="AppWeb_Movil_Segmento2_2" width="80%">
+</p>
+
+<p align="center">
+  <img src="images/AppWeb_Movil_Segmento2_3.png" alt="AppWeb_Movil_Segmento2_3" width="80%">
+</p>
+
 ### 4.2.3. SEO Tags and Meta Tag
 A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de TakeMyCar.
 
