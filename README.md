@@ -906,7 +906,7 @@ En este apartado detallamos cada clase de nuestro diagrama
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-<img src="images/db.png" alt="Database Diagram">
+<img src="images/bd.png" alt="Database Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
