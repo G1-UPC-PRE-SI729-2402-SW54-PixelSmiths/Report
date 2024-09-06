@@ -446,6 +446,26 @@ El objetivo principal de las entrevistas es comprender las necesidades de nuestr
 
 ### 2.2.2. Registro de entrevistas
 
+Entrevista 1
+Entrevistador: Alvaro Pinto
+
+Nombre: Diego
+Apellidos: Cano Acero
+Edad: 22 años
+Distrito: Lima
+Link de la entrevista: [el link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/EfELYv151I5Kui6rEtJQV0sBHB77UhrNxgbz7ODTbZuJyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Zp9b7b)
+Duración: 5:00 minutos
+Inicio de la entrevista: 0:02
+Evidencia de la reunión: la foto de la reunion
+
+<p align="center">
+  <img src="images/Entrevista_1_Cano.png" alt="Entrevista_1_Cano" width="100%">
+</p>
+
+Resumen de la entrevista:
+
+En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funcionalidades pensadas para el producto TakeMyCar. Durante la conversación, expresó su interés en probar la plataforma, ya que muchas de las funciones le parecieron bastante atractivas. En particular, destacó las relacionadas con la seguridad, pues como es comprensible, siente cierta desconfianza al dejar su vehículo en manos de un desconocido. Este aspecto le resulta crucial, dado que considera fundamental que el sistema ofrezca garantías de protección tanto para los arrendadores como para los propietarios de los vehículos.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
