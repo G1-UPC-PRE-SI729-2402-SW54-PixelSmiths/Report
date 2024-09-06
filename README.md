@@ -498,6 +498,7 @@ Resumen de la entrevista:
 <p>Las entrevistas realizadas a usuarios de ambos segmentos, arrendadores y arrendatarios, revelaron perspectivas claves sobre sus expectativas y preocupaciones al usar la plataforma. Los arrendadores, en su mayoría propietarios de vehículos, destacaron su motivación por generar ingresos adicionales. Sin embargo, mostraron inquietud respecto al estado en el que quedará su vehículo después del alquiler, así como la puntualidad en los pagos. Consideran esencial un proceso eficiente y claro para la entrega y devolución del auto, así como garantías de protección en caso de daños. Por otro lado, los arrendatarios valoran la flexibilidad que ofrece la plataforma para alquilar vehículos según sus necesidades, pero subrayaron la importancia de una experiencia de uso fluida y sin complicaciones. Sus preocupaciones principales incluyen la transparencia en los precios, evitando costos ocultos, y la calidad de los vehículos disponibles.</p>
 <br>
 
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
