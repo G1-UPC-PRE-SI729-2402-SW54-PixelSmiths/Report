@@ -552,7 +552,28 @@ Por otro lado, para el segmento de usuarios que tienen la necesidad de alquilar 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?node-id=0-1&t=3K8Z4JM3cxfPEPYu-1
+
 Propietarios de uno o más vehículos propios:
+
+<p align="center">
+  <img src="images/MockUp-Wireflow_Seg1_1.png" alt="Wireflow_Seg1_1" width="100%">
+</p>
+
+Usuarios que tienen la necesidad de alquilar un vehículo:
+
+<p align="center">
+  <img src="images/MockUp-Wireflow_Seg2_1.png" alt="Wireflow_Seg2_1" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/MockUp-Wireflow_Seg2_2.png" alt="Wireflow_Seg2_2" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/MockUp-Wireflow_Seg2_3.png" alt="Wireflow_Seg2_3" width="100%">
+</p>
+
 
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
