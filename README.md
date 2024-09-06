@@ -481,15 +481,43 @@ En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funci
 
 ### 2.3.2. User Task Matrix
 En este segmento se crea el user task matrix apartir de los user persona
-<img src="images/UserTaskMatrix" alt="UTM" />
+<img src="images/UserTaskMatrix.png" alt="UTM" />
 
 
 ### 2.3.3. User Journey Mapping
+User Journey Map: Arrendador
+<img src="images/User Journey Mapping.png" alt="UTM" />
+<br>
+<br>
+User Journey Map: Arrendatario
+<img src="images/User Journey Mapping-2.png" alt="UTM" />
 
 ### 2.3.4. Empathy Mapping
-
+En este segmento se definen los Empathy Map de nuestros segmentos objetivo
+<br>
+Empathy Map: Arrendador
+<br>
+<br>
+<img src="images/Empathy map-3.png" alt="Empathy Map" />
+Empathy Map: Arrendatario
+<br>
+<br>
+<img src="images/Empathy map-2.png" alt="Empathy Map" />
+<br>
+<br>
 ### 2.3.5. As-is Scenario Mapping
-
+<br>
+En este segmento se define el As-Is Scenario Map
+<br>
+<br>
+As-Is scenario: Arrendador
+<br>
+<br>
+<img src="images/ASarrendador.png" alt="Empathy Map" />
+<br>
+<br>
+As-Is scenario: Arrendatario
+<img src="images/ASarrendatario.png" alt="Empathy Map" />
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
