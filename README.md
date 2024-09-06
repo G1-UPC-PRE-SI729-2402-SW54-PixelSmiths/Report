@@ -473,7 +473,7 @@ En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funci
 ### 2.3.1. User Personas
 En este segmento creamos las User Personas en base a los segmentos objetivos planteados
 <p>En este segmento creamos las User Personas en base a los segmentos objetivos planteados.</p>
-<img src="Maria.png" alt="User Persona 1" />
+<img src="images/Maria.png" alt="User Persona 1" />
 
 
 ### 2.3.2. User Task Matrix
