@@ -289,13 +289,10 @@ URL Project Report (Github):
 Objetivo
 Crear una plataforma que simplifique la gestión entre propietarios y arrendatarios para el alquiler de vehículos, maximizando la rentabilidad de los vehículos no utilizados y proporcionando una solución de movilidad flexible.
 
-Proceso To-Be
-Propietarios listan sus vehículos: Los propietarios proporcionan detalles y disponibilidad de sus vehículos en la plataforma.
-Arrendatarios buscan opciones: Los usuarios buscan y seleccionan vehículos basados en sus necesidades y preferencias.
-Reserva y pago: Los arrendatarios reservan el vehículo y realizan el pago a través de la plataforma.
-Entrega del vehículo: Los propietarios entregan las llaves al arrendatario en un punto de encuentro acordado o mediante un sistema de caja de seguridad.
-Uso del vehículo: El arrendatario utiliza el vehículo por el periodo acordado.
-Devolución del vehículo: El vehículo se devuelve al propietario en las mismas condiciones.
+<p align="center">
+  <img src="images/tobe.png" alt="To be scenario mapping" width="100%">
+</p>
+
 
 ## 3.2. User Stories
 
