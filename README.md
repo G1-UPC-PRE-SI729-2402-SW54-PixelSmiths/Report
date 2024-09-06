@@ -332,6 +332,45 @@ Además, en el desarrollo de nuestros mock-ups y wireframes, se emplearon dos ti
 
 ## 4.2. Information Architecture
 
+Centrados en el objetivo de nuestra plataforma "TakeMyCar", buscamos proporcionar una interfaz amigable, confiable y segura para el alquiler de vehículos. Nuestro enfoque es garantizar que los usuarios puedan navegar fácilmente, encontrar el auto que mejor se adapte a sus necesidades y realizar reservaciones de manera eficiente. A continuación, se detalla la arquitectura de información para las principales páginas de la plataforma.
+
+<b> 1. Página de Inicio: </b>
+
+- Mensaje de Bienvenida: Un mensaje introductorio que explique brevemente nuestra misión y lo que ofrecemos, destacando la facilidad y seguridad para alquilar autos.
+
+- Vista Previa de Autos Disponibles: Sección con imágenes y descripciones breves de los autos más populares o recientemente agregados a la flota, con opciones para ver más detalles.
+
+- Footer y Header:
+
+  - Header: Incluye el menú de navegación con enlaces a las páginas principales: Inicio, Alquilar, Sobre Nosotros, y Contactanos.
+  - Footer: Información sobre políticas de privacidad, términos de servicio, enlaces a redes sociales y detalles de contacto.
+
+<b> 2. Página de Alquilar: </b>
+
+- Listado de Autos Disponibles: Vista general de todos los autos disponibles para alquiler, mostrando imágenes, marcas, modelos, características principales (como capacidad, tipo de transmisión y combustible).
+
+- Filtros de Búsqueda: Herramientas para filtrar autos por tipo, precio, modelo, capacidad, transmisión, combustible, entre otros, para facilitar la selección.
+
+- Reserva de Autos: En cada auto se proporciona un botón para iniciar el proceso de reserva, donde el usuario puede seleccionar fechas y completar su reserva.
+
+- Formulario de Reservación: Interfaz donde el usuario ingresa información personal básica, selecciona las fechas del alquiler y el lugar de recogida o entrega.
+
+- Pagos por Reserva: Opción de pagos en línea, donde el usuario puede completar el pago de la reserva utilizando diversos métodos (tarjeta de crédito, PayPal, etc.).
+
+<b> 3. Página de Sobre Nosotros: </b>
+
+- Información del Proyecto: Explicación sobre qué es "RentAuto", nuestra misión, valores y cómo buscamos diferenciarnos en el mercado de alquiler de autos.
+
+- Grupo de Trabajo: Breve introducción del equipo detrás de la plataforma, destacando la experiencia y compromiso con el servicio al cliente.
+
+<b> 4. Página de Contactanos: </b>
+
+- Información de Contacto: Sección donde los usuarios pueden encontrar formas de contactarnos, incluyendo un número de teléfono, correo electrónico y formulario de contacto.
+
+- Formulario de Contacto: Los usuarios pueden enviar mensajes directamente desde el sitio web, proporcionando su nombre, correo electrónico y el motivo de la consulta.
+
+- Ubicación y Horarios de Atención: Información sobre nuestra ubicación física, si es aplicable, y los horarios de atención para consultas o recogida de autos.
+
 ### 4.2.1 Organization Systems:
 
 Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón H o también llamado Hierarchical que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
