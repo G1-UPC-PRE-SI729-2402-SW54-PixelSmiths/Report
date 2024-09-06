@@ -471,12 +471,18 @@ En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funci
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
-En este segmento creamos las User Personas en base a los segmentos objetivos planteados
 <p>En este segmento creamos las User Personas en base a los segmentos objetivos planteados.</p>
-<img src="images/Maria.png" alt="User Persona 1" />
+<h3>User Persona:Arrendador de Vehiculo</h3>
+<img src="images/Martin.png" alt="User Persona 1" />
+<br>
+<h3>User Persona:Arrendatario de vehiculo</h3>
+<img src="images/Maria.png" alt="User Persona 2" />
 
 
 ### 2.3.2. User Task Matrix
+En este segmento se crea el user task matrix apartir de los user persona
+<img src="images/UserTaskMatrix" alt="UTM" />
+
 
 ### 2.3.3. User Journey Mapping
 
