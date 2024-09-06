@@ -420,33 +420,33 @@ Tengo experiencia en AWS, diversas tecnologías frontend, backend y CMS. Además
   </tr>
    <tr align="center">
     <td rowspan="4">
-      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+      <img src="images/andres.png" style="margin-bottom: 5px;" width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      xxxxx
+      Luis Andres Arce Huaman
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Código:</b>
     <br>
-    U
+    U20201A300
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Carrera:</b>
     <br>
-    Ingeniería de 
+    Ingeniería de software
     </td>
   </tr>
   <tr>
     <td align="left">
     <b>Acerca de:</b>
     <br>
-    xxxxx
+    Mi nombre es Andres y tengo 20 años , soy estudiante de la carrera de Ingeniería de Software. Mis principales hobbies son: ver películas , dibujar y hacer deporte. Me comprometo como miembro a aportar en la realización de las entregas correspondientes
     </td>
   </tr>
 
