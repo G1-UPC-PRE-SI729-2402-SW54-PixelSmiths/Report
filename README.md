@@ -316,10 +316,9 @@ SIXT opera un modelo de negocio híbrido basado en Pay-per-Use, combinando la pr
 			<td style="text-align: center" align="center">SIXT <p align="center"><img src="images/SIXT.png" alt="Logo Sixt" width="40%"></p></td>
 		</tr>
 		<tr>
-			<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por nuestra startup:Pixel Smiths. TakeMyCarofrece una manera segura y sencilla de listar sus vehículos, con la ventaja de no requerir ninguna inversión inicial. Además, los propietarios solo son remunerados cuando su vehículo es alquilado, reduciendo riesgos y asegurando una fuente de ingresos sin compromisos</td>
-			<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por la empresa RelayRides. actualmente llamada Turo Inc.
-Turo
-ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad que proporciona una plataforma global, junto con seguros integrados que protegen sus activos durante los alquileres
+<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por nuestra startup:Pixel Smiths. TakeMyCarofrece una manera segura y sencilla de listar sus vehículos, con la ventaja de no requerir ninguna inversión inicial. Además, los propietarios solo son remunerados cuando su vehículo es alquilado, reduciendo riesgos y asegurando una fuente de ingresos sin compromisos
+</td>
+			<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por la empresa RelayRides. actualmente llamada Turo Inc.Turo ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad que proporciona una plataforma global, junto con seguros integrados que protegen sus activos durante los alquileres
 
 </td>
 			<td style="text-align: center" align="center"> Aplicativo de alquiler de vehículos creado por la empresa Getaround Inc.
