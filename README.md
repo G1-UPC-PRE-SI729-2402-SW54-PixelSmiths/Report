@@ -311,7 +311,7 @@ SIXT opera un modelo de negocio híbrido basado en Pay-per-Use, combinando la pr
 			<td rowspan=2 style="text-align: center" align="center">Overview</td>
       <td style="text-align: center" align="center">TakeMyCar <p align="center"><img src="images/TakeMyCar.png" alt="Logo TakeMyCar" width="25%">
 </p></td>
-			<td style="text-align: center" align="center">Turo <p align="center"><img src="images/Turo.png" alt="Logo Turo" width="40%"></p></td>
+			<td style="text-align: center" align="center">Turo <p align="center"><img src="images/turo.png" alt="Logo Turo" width="40%"></p></td>
 			<td style="text-align: center" align="center">Getaround<p align="center"><img src="images/getaround.png" alt="Logo Getaround" width="40%"></p></td>
 			<td style="text-align: center" align="center">SIXT <p align="center"><img src="images/SIXT.png" alt="Logo Sixt" width="40%"></p></td>
 		</tr>
