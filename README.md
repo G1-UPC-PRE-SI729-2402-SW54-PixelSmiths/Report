@@ -469,15 +469,15 @@ En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funci
 Entrevista 2 <br>
 Entrevistador: Luis Andres Arce H <br>
 Entrevistado: Luis Angel Cisneros Machado. <br>
-Edad:26 años 
-Distrito: Lima
+Edad:26 años <br>
+Distrito: Lima<br>
 Link de la entrevista: https://drive.google.com/drive/folders/1reYiYDw77zsWpNHyKBE0rSQRouw1oCa0?usp=share_link <br>
 Duracion: 10 minutos. <br>
 Inicio de la entrevista:0.02 <br>
 Evidencia: Foto de la reunion 
 <br>
 <p align="center">
-  <img src="images/entrevistado2.png" alt="Entrevista_2" width="100%">
+  <img src="images/entrevista2.png" alt="Entrevista_2" width="100%">
 </p>
 
 
