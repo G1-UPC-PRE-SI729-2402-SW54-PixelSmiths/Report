@@ -466,10 +466,26 @@ Resumen de la entrevista:
 
 En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funcionalidades pensadas para el producto TakeMyCar. Durante la conversación, expresó su interés en probar la plataforma, ya que muchas de las funciones le parecieron bastante atractivas. En particular, destacó las relacionadas con la seguridad, pues como es comprensible, siente cierta desconfianza al dejar su vehículo en manos de un desconocido. Este aspecto le resulta crucial, dado que considera fundamental que el sistema ofrezca garantías de protección tanto para los arrendadores como para los propietarios de los vehículos.
 
+Entrevista 2 <br>
+Entrevistador: Luis Andres Arce H <br>
+Entrevistado: Luis Angel Cisneros Machado. <br>
+Edad:26 años 
+Distrito: Lima
+Link de la entrevista: https://drive.google.com/drive/folders/1reYiYDw77zsWpNHyKBE0rSQRouw1oCa0?usp=share_link <br>
+Duracion: 10 minutos. <br>
+Inicio de la entrevista:0.02 <br>
+Evidencia: Foto de la reunion 
+<br>
+<p align="center">
+  <img src="images/entrevistado2.png" alt="Entrevista_2" width="100%">
+</p>
+
+
 ### 2.2.3. Análisis de entrevistas
 <br>
 <p>Las entrevistas realizadas a usuarios de ambos segmentos, arrendadores y arrendatarios, revelaron perspectivas claves sobre sus expectativas y preocupaciones al usar la plataforma. Los arrendadores, en su mayoría propietarios de vehículos, destacaron su motivación por generar ingresos adicionales. Sin embargo, mostraron inquietud respecto al estado en el que quedará su vehículo después del alquiler, así como la puntualidad en los pagos. Consideran esencial un proceso eficiente y claro para la entrega y devolución del auto, así como garantías de protección en caso de daños. Por otro lado, los arrendatarios valoran la flexibilidad que ofrece la plataforma para alquilar vehículos según sus necesidades, pero subrayaron la importancia de una experiencia de uso fluida y sin complicaciones. Sus preocupaciones principales incluyen la transparencia en los precios, evitando costos ocultos, y la calidad de los vehículos disponibles.</p>
 <br>
+
 
 ## 2.3. Needfinding
 
