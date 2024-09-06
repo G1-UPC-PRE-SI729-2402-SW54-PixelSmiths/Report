@@ -436,28 +436,22 @@ Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1 Landing Page Wireframe.
-El Landing Page está compuesto por 4 secciones: Inicio, Equipo, Tarifas y Contacto. Adicionalmente tambien tiene los botones de registrarse e iniciar sesión que se vincularán a la aplicacion web. En términos de diseño inclusivo, las imágenes están acompañadas de descripciones alternativas y los colores se han seleccionado cuidadosamente tomando en cuenta a donde queremos atraer la atención del usuario. Se ha prestado atención al tamaño de los títulos y se ha limitado la cantidad de texto para no aburrir usuario y evitar la monotonía. Además, se ha incorporado una barra de navegación para facilitar al usuario su experiencia por la página web.
 
-La sección de Inicio presenta una frase que presenta lo que ofrece nuestra startup y la aplicación.
+<b>Página Principal</b>
 
-<p align="center">
-  <img src="images/Wireframe_LandingPage_1.png" alt="Wireframe_LandingPage_1" width="100%">
-</p>
+<img src="images/Wireframe_LP_1.png" alt="Wireframe_LP_1" widht="100%"> <br>
 
-La sección equipo habla un poco de lo que nos define como equipo, nuestro trabajo y método.
-<p align="center">
-  <img src="images/Wireframe_LandingPage_2.png" alt="Wireframe_LandingPage_1" width="100%">
-</p>
+<b>¿Qué Ofrecemos?</b>
 
-La sección tarifas contiene información sobre los 2 planes de pago para la aplicación web.
-<p align="center">
-  <img src="images/Wireframe_LandingPage_3.png" alt="Wireframe_LandingPage_1" width="100%">
-</p>
+<img src="images/Wireframe_LP_2.png" alt="Wireframe_LP_2" widht="100%"> <br>
 
-En la ultima seccion de contacto el usuario puede rellenar un formulario de contacto en caso quiera obtener cualquier información adicional.
-<p align="center">
-  <img src="images/Wireframe_LandingPage_4.png" alt="Wireframe_LandingPage_1" width="100%">
-</p>
+<b>Sobre Nosotros</b>
+
+<img src="images/Wireframe_LP_3.png" alt="Wireframe_LP_3" widht="100%"> <br>
+
+<b>Contactanos</b>
+
+<img src="images/Wireframe_LP_4.png" alt="Wireframe_LP_4" widht="100%"> <br>
 
 ### 4.3.2. Landing Page Mock-up.
 Tomando en cuenta los Wireframes, adoptado una estructura uniforme para todas las páginas, integrando la paleta de colores, tipografía otros recursos ya preseleccionados.
