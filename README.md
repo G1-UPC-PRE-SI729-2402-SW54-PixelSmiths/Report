@@ -373,64 +373,61 @@ Centrados en el objetivo de nuestra plataforma "TakeMyCar", buscamos proporciona
 
 ### 4.2.1 Organization Systems:
 
-Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón H o también llamado Hierarchical que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
+La organización de la información en "TakeMyCar" tiene como objetivo optimizar la experiencia del usuario, permitiendo una navegación rápida y eficaz a través de nuestras páginas.
 
-<p align="center">
-  <img src="images/Z-Pattern.png" alt="Z-Pattern" width="80%">
-</p>
+<b> 1. Categorización de la Información: </b>
+
+- Autos Disponibles: Los autos se organizan por categorías como tipo de auto (sedán, SUV, deportivo, etc.), modelo, y características principales.
+
+- Información del Alquiler: La información relevante para el alquiler, como precios, fechas disponibles y características adicionales, se organiza de manera accesible en las páginas de detalle de los autos.
+
+<b> 2. Filtros y Búsqueda: </b>
+
+- Filtros en la Página de Alquilar: Los usuarios pueden filtrar autos según el tipo de vehículo, precio diario, marca, transmisión y combustible.
+
+- Búsqueda Avanzada: Opción para buscar autos con características específicas como "SUV automáticos con capacidad para 7 personas".
+
+<b> 3. Interfaz Intuitiva: </b>
+
+
+- Navegación clara con acceso rápido a las secciones principales como Alquilar o Contáctanos.
+
+<b> 4. Funcionalidades Específicas: </b>
+
+- Información detallada de vehículos, es decir, páginas individuales de productos que muestran imágenes detalladas, descripciones completas y opciones de personalización disponibles.
 
 ### 4.2.2 Labeling Systems:
 
-Aplicación web celulares:
+Para mejorar la claridad y simplicidad, cada página y sección utilizará etiquetas claras. En otras palabras, usaremos el sistema de etiquetado como parte escencial para el uso de buenas prácticas y mantener la dirección de cada segmento a su propósito:
 
-<p align="center">
-  <img src="images/AppWeb_Movil_Segmento2_1.png" alt="AppWeb_Movil_Segmento2_1" width="80%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Movil_Segmento2_2.png" alt="AppWeb_Movil_Segmento2_2" width="80%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Movil_Segmento2_3.png" alt="AppWeb_Movil_Segmento2_3" width="80%">
-</p>
-
-Aplicacion web Escritorio:
-
-<p align="center">
-  <img src="images/AppWeb_Escritorio_Segmento1_1.png" alt="AppWeb_Escritorio_Segmento1_1" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Escritorio_Segmento1_2.png" alt="AppWeb_Escritorio_Segmento1_2" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Escritorio_Segmento1_3.png" alt="AppWeb_Escritorio_Segmento1_3" width="100%">
-</p>
+- Alquilar Autos
+- Reservar 
+- Sobre Nosotros
+- Contáctanos
+- Entre otros.s
 
 ### 4.2.3. SEO Tags and Meta Tag
 A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de TakeMyCar.
 
-Landing Page:
+1. Landing Page:
 
-Title: TakeMyCar
+    - Title: TakeMyCar
 
-Description: TakeMyCar - Oficial Landing Page
+    - Description: TakeMyCar - Oficial Landing Page
 
-Keywords: Vehicles, Subscription, Rates.
+    - Keywords: Vehicles, Rent, Rates.
 
-Authors: TakeMyCar team
+    - Authors: TakeMyCar team
 
-Web application:
+2. Web application:
 
-Title: TakeMyCar
+    - Title: TakeMyCar
 
-Description: TakeMyCar - Oficial Web Site
+    - Description: TakeMyCar - Oficial Web Site
 
-Keywords: Vehicles, Brands, Prices, Rent, Locations.
+    - Keywords: Vehicles, Brands, Prices, Rent, Locations.
 
-Authors: TakeMyCar team
+    - Authors: TakeMyCar team
 
 ### 4.2.4. Searching Systems
 Se implementaron dos funcionalidades de búsqueda similares con el objetivo de mejorar la experiencia de usuario al facilitar la búsqueda de información deseada.
@@ -439,38 +436,19 @@ El primero de estos sistemas se encuentra en la sección de "Vehicles" de la apl
 
 Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Locations". En esta sección, los usuarios pueden de entre todas las posibles ubicación ya sea para el lugar de recogida o despacho. Además de la búsqueda por ciudad, se han implementado filtros adicionales que permiten refinar la búsqueda según la cercanía y disponibilidad de horario. Esta funcionalidad proporciona a los usuarios una experiencia más amigable y facilita su interacción con la aplicación.
 
-4.2.5. Navigation Systems
-Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
+### 4.2.5. Navigation Systems
 
-En el caso de los usuarios que tienen la necesidad de alquilar un vehículo.
+El sistema de navegación debe proporcionar una experiencia fluida para que los usuarios puedan moverse rápidamente entre las secciones principales de la plataforma.
 
-- Home: Página de inicio del menú con los vehiculos más populares.
+1. Menú Principal: Un menú ubicado en la parte superior de cada página con enlaces a Inicio, Alquilar, Sobre Nosotros, y Contactanos.
 
-- Search: Acceso a información de los vehiculos.
+2. Navegación Contextual: Dentro de las páginas de alquiler, habrá submenús que permitan acceder a filtros específicos o detalles sobre los autos disponibles.
 
-- Profile: Visualización de datos personales.
+3. Botones de Acción Destacados: En la página de Alquilar y en la página de Inicio, los botones de acción (como "Reservar Ahora") serán visibles y accesibles para facilitar la interacción.
 
-- History: Visualización del historias de vehiculos rentados.
+4. Búsqueda y Filtros Visibles: La barra de búsqueda y los filtros estarán disponibles en la página de Alquilar para que los usuarios puedan buscar fácilmente el auto que desean.
 
-- Configuration: Configuración de la aplicación.
-
-- Support: Solicitud de ayuda en caso de errores.
-
-Para los propietarios de uno o más vehículos propios, el menú es similar, pero con algunos cambios secciones adicionales:
-
-- Home: Página de inicio del menú con los vehiculos ingresados a la pagina.
-
-- AddVehicle: Lista de vehiculos donde se puede agregar un nuevo vehiculo para que sea arrendado.
-
-- Invoice: Administración de las facturas emitidas detallando datos del vehiculo y el tiempo que ha sido rentado.
-
-- Profile: Visualización de datos personales.
-
-- Configuration: Configuración de la aplicación.
-
-- Support: Solicitud de ayuda en caso de errores.
-
-Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que el usuario no se sienta perdido con lo que tiene en pantalla. Esto permite que pueda realizar acciones que lo llevan a otras ventanas de forma intuitiva.
+5. Flujo de Navegación Intuitivo: El flujo guiará a los usuarios desde la exploración de autos hasta la finalización de la reserva, con señales visuales claras y botones destacados para realizar acciones.
 
 ## 4.3. Landing Page UI Design
 
@@ -552,81 +530,10 @@ Por otro lado, para el segmento de usuarios que tienen la necesidad de alquilar 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?node-id=0-1&t=3K8Z4JM3cxfPEPYu-1
-
 Propietarios de uno o más vehículos propios:
-
-<p align="center">
-  <img src="images/MockUp-Wireflow_Seg1_1.png" alt="Wireflow_Seg1_1" width="100%">
-</p>
-
-Usuarios que tienen la necesidad de alquilar un vehículo:
-
-<p align="center">
-  <img src="images/MockUp-Wireflow_Seg2_1.png" alt="Wireflow_Seg2_1" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/MockUp-Wireflow_Seg2_2.png" alt="Wireflow_Seg2_2" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/MockUp-Wireflow_Seg2_3.png" alt="Wireflow_Seg2_3" width="100%">
-</p>
-
 
 ### 4.4.3. Web Applications Mock-ups
-
-Se empleó la estructura definida en los wireframes como base para cada una de las vistas, pero se adaptó al estilo establecido en el styles guidelines.
-
-Propietarios de uno o más vehículos propios:
-
-<p align="center">
-  <img src="images/MockUp_Seg1_1.png" alt="MockUp_Seg1_1" width="100%">
-</p>
-<p align="center">
-  <img src="images/MockUp_Seg1_2.png" alt="MockUp_Seg1_2" width="100%">
-</p>
-<p align="center">
-  <img src="images/MockUp_Seg1_3.png" alt="MockUp_Seg1_3" width="100%">
-</p>
-<p align="center">
-  <img src="images/MockUp_Seg1_4.png" alt="MockUp_Seg1_4" width="100%">
-</p>
-
-Usuarios que tienen la necesidad de alquilar un vehículo:
-
-<p align="center">
-  <img src="images/MockUp_Seg2_1.png" alt="MockUp_Seg1_1" width="100%">
-</p>
-<p align="center">
-  <img src="images/MockUp_Seg2_2.png" alt="MockUp_Seg2_2" width="100%">
-</p>
-<p align="center">
-  <img src="images/MockUp_Seg2_3.png" alt="MockUp_Seg2_3" width="100%">
-</p>
-
 ### 4.4.4. Web Applications User Flow Diagrams
-
-Propietarios de uno o más vehículos propios:
-
-<p align="center">
-  <img src="images/MockUp_Wireflow_Seg1.png" alt="MockUp_Wireflow_Seg1" width="100%">
-</p>
-
-Usuarios que tienen la necesidad de alquilar un vehículo:
-
-<p align="center">
-  <img src="images/MockUp_Wireflow_Seg2_1.png" alt="MockUp_Wireflow_Seg2_1" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/MockUp_Wireflow_Seg2_2.png" alt="MockUp_Wireflow_Seg2_2" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/MockUp_Wireflow_Seg2_3.png" alt="MockUp_Wireflow_Seg2_3" width="100%">
-</p>
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
