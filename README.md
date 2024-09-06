@@ -311,18 +311,9 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 
 ## 3.3. Impact Mapping
 
-### Objetivo
-Maximizar la rentabilidad de vehículos no utilizados y proporcionar una solución de movilidad flexible.
-
-### Actores: 
-Propietarios de vehículos, arrendatarios, equipo de desarrollo de la plataforma.
-### Acciones:
-Propietarios listan sus vehículos.
-Arrendatarios reservan y utilizan vehículos.
-El equipo de desarrollo mejora continuamente la plataforma.
-### Entregables:
-Una plataforma interactiva y confiable para el alquiler de vehículos.
-Un sistema de feedback y valoración para usuarios y vehículos.
+<p align="center">
+  <img src="images/impact-mapping.png" alt="To be scenario mapping" width="100%">
+</p>
 
 ## 3.4. Product Backlog
 
