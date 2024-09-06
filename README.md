@@ -302,10 +302,10 @@ URL Project Report (Github):
 <p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.png" alt="Logo Startup" width="20%"></p></p>
 
 
-**Tipografía**: Para dar una aire diferente a nuestra marca se ha optado por el uso de la fuente “Reboto Mono” que presenta una gran variedad de estilos. Esta fuente debe ser símbolo de nuestra marca y de cumplir el objetivo de transmitir información con una identidad visual sólida y reconocible. Adicionalmente, esta tipografía es apropiada para lograr un diseño cohesivo y equilibrado que contribuye a nuestro reconocimiento en el mercado objetivo.
+**Tipografía**: Para dar una aire diferente a nuestra marca se ha optado por el uso de la fuente “Suse" que presenta una gran variedad de estilos. Esta fuente debe ser símbolo de nuestra marca y de cumplir el objetivo de transmitir información con una identidad visual sólida y reconocible. Adicionalmente, esta tipografía es apropiada para lograr un diseño cohesivo y equilibrado que contribuye a nuestro reconocimiento en el mercado objetivo.
 
 <p align="center">
-  <img src="images/robotoMonoFont.png" alt="Roboto Mono Font" width="80%">
+  <img src="images/SuseFont.png" alt="Roboto Mono Font" width="80%">
 </p>
 
 **Spacing**: Se hará uso de un espaciado pertinente para no abrumar al cliente con textos abarrotados que no contribuyen a la estética y contrariamente desmotivan a leer. Además, un correcto uso del espaciado en el texto también puede dar la impresión de una página más limpia y moderna, que es uno de los objetivos que hemos planteado para crear un mejor ambiente para el cliente.
