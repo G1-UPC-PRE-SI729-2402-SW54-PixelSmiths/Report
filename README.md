@@ -293,7 +293,7 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
 <table>
   <tr align="center">
     <td rowspan="4">
-      <img src="images/integrante1.png" style="margin-bottom: 5px;" width="900"/>
+      <img src="images/fotoAaron.jpg" style="margin-bottom: 5px;" width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
