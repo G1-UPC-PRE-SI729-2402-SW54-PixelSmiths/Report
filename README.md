@@ -437,7 +437,7 @@ Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que
 
 ### 4.3.1 Landing Page Wireframe.
 
-<b>Página Principal</b>
+<b>Inicio</b>
 
 <img src="images/Wireframe_LP_1.png" alt="Wireframe_LP_1" widht="100%"> <br>
 
@@ -453,28 +453,28 @@ Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que
 
 <img src="images/Wireframe_LP_4.png" alt="Wireframe_LP_4" widht="100%"> <br>
 
+Link Figma: https://www.figma.com/design/MBSIX1vJn3vkom8QoemG9p/Landing-Page-Wireframes-and-Mock-Up?node-id=0-1&t=ZaWVeTFBY7IddA7d-1
+
 ### 4.3.2. Landing Page Mock-up.
 Tomando en cuenta los Wireframes, adoptado una estructura uniforme para todas las páginas, integrando la paleta de colores, tipografía otros recursos ya preseleccionados.
 
-Inicio:
-<p align="center">
-  <img src="images/MockUp_LandingPage_1.png" alt="MockUp_LandingPage_1" width="100%">
-</p>
+<b>Inicio</b>
 
-Equipo:
-<p align="center">
-  <img src="images/MockUp_LandingPage_2.png" alt="MockUp_LandingPage_2" width="100%">
-</p>
+<img src="images/Moch-Up_LP_1.png" alt="Moch-Up_LP_1" widht="100%"> <br>
 
-Tarifas:
-<p align="center">
-  <img src="images/MockUp_LandingPage_3.png" alt="MockUp_LandingPage_3" width="100%">
-</p>
+<b>¿Qué Ofrecemos?</b>
 
-Contacto:
-<p align="center">
-  <img src="images/MockUp_LandingPage_4.png" alt="MockUp_LandingPage_4" width="100%">
-</p>
+<img src="images/Moch-Up_LP_2.png" alt="Moch-Up_LP_2" widht="100%"> <br>
+
+<b>Sobre Nosotros</b>
+
+<img src="images/Moch-Up_LP_3.png" alt="Moch-Up_LP_3" widht="100%"> <br>
+
+<b>Contactanos</b>
+
+<img src="images/Moch-Up_LP_4.png" alt="Moch-Up_LP_4" widht="100%"> <br>
+
+Link Figma: https://www.figma.com/design/MBSIX1vJn3vkom8QoemG9p/Landing-Page-Wireframes-and-Mock-Up?node-id=0-1&t=ZaWVeTFBY7IddA7d-1
 
 ## 4.4. Web Applications UX/UI Design
 
