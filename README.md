@@ -299,9 +299,8 @@ URL Project Report (Github):
 
 **Branding**: Para el branding de nuestra empresa se creó el nombre de la marca con el objetivo de establecer una identidad, presencia relevante e imponente en el mercado. Para una mejor identificación de nuestra empresa se creó el logo:
 
-<p align="center">
-  <img src="images/logo.png" alt="logo" width="50%">
-</p>
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.png" alt="Logo Startup" width="20%"></p></p>
+
 
 **Tipografía**: Para dar una aire diferente a nuestra marca se ha optado por el uso de la fuente “Reboto Mono” que presenta una gran variedad de estilos. Esta fuente debe ser símbolo de nuestra marca y de cumplir el objetivo de transmitir información con una identidad visual sólida y reconocible. Adicionalmente, esta tipografía es apropiada para lograr un diseño cohesivo y equilibrado que contribuye a nuestro reconocimiento en el mercado objetivo.
 
@@ -345,8 +344,6 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
 
 Aplicación web celulares:
 
-Segmento #2: Usuarios que tienen la necesidad de alquilar un vehículo
-
 <p align="center">
   <img src="images/AppWeb_Movil_Segmento2_1.png" alt="AppWeb_Movil_Segmento2_1" width="80%">
 </p>
@@ -357,6 +354,20 @@ Segmento #2: Usuarios que tienen la necesidad de alquilar un vehículo
 
 <p align="center">
   <img src="images/AppWeb_Movil_Segmento2_3.png" alt="AppWeb_Movil_Segmento2_3" width="80%">
+</p>
+
+Aplicacion web Escritorio:
+
+<p align="center">
+  <img src="images/AppWeb_Escritorio_Segmento1_1.png" alt="AppWeb_Escritorio_Segmento1_1" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/AppWeb_Escritorio_Segmento1_2.png" alt="AppWeb_Escritorio_Segmento1_2" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/AppWeb_Escritorio_Segmento1_3.png" alt="AppWeb_Escritorio_Segmento1_3" width="100%">
 </p>
 
 ### 4.2.3. SEO Tags and Meta Tag
@@ -392,27 +403,40 @@ Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "L
 4.2.5. Navigation Systems
 Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
 
--Home: Página de inicio del menú.
+En el caso de los usuarios que tienen la necesidad de alquilar un vehículo.
 
--Vehicles: Acceso a información de los vehiculos.
+- Home: Página de inicio del menú con los vehiculos más populares.
 
--Chat: Comunicación con el taller encargado de la reparación.
+- Search: Acceso a información de los vehiculos.
 
--Profile: Visualización de datos personales.
+- Profile: Visualización de datos personales.
 
--Configuration: Configuración de la aplicación.
+- History: Visualización del historias de vehiculos rentados.
 
--Support: Solicitud de ayuda en caso de errores.
+- Configuration: Configuración de la aplicación.
 
-Para el arrendador, el menú es similar, pero con secciones adicionales:
+- Support: Solicitud de ayuda en caso de errores.
 
--AddVehicle: Lista de vehiculos donde se puede agregar un nuevo vehiculo para que sea arrendado.
+Para los propietarios de uno o más vehículos propios, el menú es similar, pero con algunos cambios secciones adicionales:
 
--Invoice: Administración de las facturas emitidas al arrendatario detallando el vehiculo y el tiempo que ha sido rentado.
+- Home: Página de inicio del menú con los vehiculos ingresados a la pagina.
+
+- AddVehicle: Lista de vehiculos donde se puede agregar un nuevo vehiculo para que sea arrendado.
+
+- Invoice: Administración de las facturas emitidas detallando datos del vehiculo y el tiempo que ha sido rentado.
+
+- Profile: Visualización de datos personales.
+
+- Configuration: Configuración de la aplicación.
+
+- Support: Solicitud de ayuda en caso de errores.
 
 Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que el usuario no se sienta perdido con lo que tiene en pantalla. Esto permite que pueda realizar acciones que lo llevan a otras ventanas de forma intuitiva.
 
 ## 4.3. Landing Page UI Design
+
+
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -425,7 +449,7 @@ Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 
-En este capaitulo veremos el diseño de nuestros "objetos". Estos objetos representan entidades o conceptos del mundo real que tienen tanto datos (atributos) como comportamientos (métodos). Este enfoque facilita la construcción de software complejo mediante la división del problema en componentes más pequeños y manejables que interactúan entre sí de manera predecible y estructurada.
+En este capitulo veremos el diseño de nuestros "objetos". Estos objetos representan entidades o conceptos del mundo real que tienen tanto datos (atributos) como comportamientos (métodos). Este enfoque facilita la construcción de software complejo mediante la división del problema en componentes más pequeños y manejables que interactúan entre sí de manera predecible y estructurada.
 
 ### 4.7.1. Class Diagrams
 
