@@ -525,9 +525,41 @@ Propietarios de uno o más vehículos propios:
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
+
 ### 4.6.1. Software Architecture Context Diagram
+<p align="center">
+  <img src="images/Software Architecture Context Diagram.png" alt="Software Architecture Context Diagram" width="100%">
+</p>
+
+Elementos del diagrama:
+
+<p align="center">
+  <img src="images/Software Architecture Context Diagram_Elementos del diagrama.png" alt="Software Architecture Context Diagram_Elementos del diagrama" width="100%">
+</p>
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+<p align="center">
+  <img src="images/Software Architecture Container Diagrams.png" alt="Software Architecture Container Diagrams" width="100%">
+</p>
+
+Elementos del diagrama:
+<p align="center">
+  <img src="images/Software Architecture Container Diagrams_Elementos del diagrama.png" alt="Software Architecture Container Diagrams" width="100%">
+</p>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+<p align="center">
+  <img src="images/Software Architecture Components Diagrams.png" alt="Software Architecture Components Diagrams" width="100%">
+</p>
+
+Elementos del diagrama:
+<p align="center">
+  <img src="images/Software Architecture Components Diagrams_Elementos del diagrama.png" alt="Software Architecture Components Diagrams_Elementos del diagrama" width="100%">
+</p>
+
 ## 4.7. Software Object-Oriented Design
 
 En este capitulo veremos el diseño de nuestros "objetos". Estos objetos representan entidades o conceptos del mundo real que tienen tanto datos (atributos) como comportamientos (métodos). Este enfoque facilita la construcción de software complejo mediante la división del problema en componentes más pequeños y manejables que interactúan entre sí de manera predecible y estructurada.
