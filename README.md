@@ -320,16 +320,16 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 
 | #Orden | User Story Id	| Título	| Descripción |	Story Points |
 |--------|----------------|---------|-------------|--------------|
-| 1	| US001 |	Registro de Propietarios | Como propietario, quiero poder registrarme en la plataforma para poder listar mis vehículos.	| - |
-| 2	| US006 |	Gestión de Perfiles |	Como usuario, quiero gestionar mi perfil para actualizar mi información personal.	| - |
-| 3	| US002 |	Listado de Vehículos	| Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.	| - |
-| 4	| US003 |	Búsqueda de Vehículos |	Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible.	| - |
-| 5	| US004 |	Reserva de Vehículo |	Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.	| - |
-| 6	| US005 |	Pago del Alquiler |	Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.	| - |
-| 7	| US007 |	Valoraciones y Reseñas |	Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.	| - |
-| 8	| US008 |	Soporte al Usuario	| Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.	| - |
-| 9	| US009 |	Cancelación de Reserva	| Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.	| - |
-| 10 |	US010	| Notificaciones	| Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas. |	- |
+| 1	| US001 |	Registro de Propietarios | Como propietario, quiero poder registrarme en la plataforma para poder listar mis vehículos.	| 5 |
+| 2	| US006 |	Gestión de Perfiles |	Como usuario, quiero gestionar mi perfil para actualizar mi información personal.	| 3 |
+| 3	| US002 |	Listado de Vehículos	| Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.	| 3 |
+| 4	| US003 |	Búsqueda de Vehículos |	Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible.	| 5 |
+| 5	| US004 |	Reserva de Vehículo |	Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.	| 3 |
+| 6	| US005 |	Pago del Alquiler |	Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.	| 5 |
+| 7	| US007 |	Valoraciones y Reseñas |	Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.	| 2 |
+| 8	| US008 |	Soporte al Usuario	| Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.	| 2 |
+| 9	| US009 |	Cancelación de Reserva	| Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.	| 2 |
+| 10 |	US010	| Notificaciones	| Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas. |	2 |
 
 
 # Capítulo IV: Product Design
