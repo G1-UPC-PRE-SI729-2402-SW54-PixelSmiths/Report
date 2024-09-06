@@ -373,41 +373,38 @@ Centrados en el objetivo de nuestra plataforma "TakeMyCar", buscamos proporciona
 
 ### 4.2.1 Organization Systems:
 
-Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón H o también llamado Hierarchical que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
+La organización de la información en "TakeMyCar" tiene como objetivo optimizar la experiencia del usuario, permitiendo una navegación rápida y eficaz a través de nuestras páginas.
 
-<p align="center">
-  <img src="images/Z-Pattern.png" alt="Z-Pattern" width="80%">
-</p>
+<b> 1. Categorización de la Información: </b>
+
+- Autos Disponibles: Los autos se organizan por categorías como tipo de auto (sedán, SUV, deportivo, etc.), modelo, y características principales.
+
+- Información del Alquiler: La información relevante para el alquiler, como precios, fechas disponibles y características adicionales, se organiza de manera accesible en las páginas de detalle de los autos.
+
+<b> 2. Filtros y Búsqueda: </b>
+
+- Filtros en la Página de Alquilar: Los usuarios pueden filtrar autos según el tipo de vehículo, precio diario, marca, transmisión y combustible.
+
+- Búsqueda Avanzada: Opción para buscar autos con características específicas como "SUV automáticos con capacidad para 7 personas".
+
+<b> 3. Interfaz Intuitiva: </b>
+
+
+- Navegación clara con acceso rápido a las secciones principales como Alquilar o Contáctanos.
+
+<b> 4. Funcionalidades Específicas: </b>
+
+- Información detallada de vehículos, es decir, páginas individuales de productos que muestran imágenes detalladas, descripciones completas y opciones de personalización disponibles.
 
 ### 4.2.2 Labeling Systems:
 
-Aplicación web celulares:
+Para mejorar la claridad y simplicidad, cada página y sección utilizará etiquetas claras. En otras palabras, usaremos el sistema de etiquetado como parte escencial para el uso de buenas prácticas y mantener la dirección de cada segmento a su propósito:
 
-<p align="center">
-  <img src="images/AppWeb_Movil_Segmento2_1.png" alt="AppWeb_Movil_Segmento2_1" width="80%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Movil_Segmento2_2.png" alt="AppWeb_Movil_Segmento2_2" width="80%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Movil_Segmento2_3.png" alt="AppWeb_Movil_Segmento2_3" width="80%">
-</p>
-
-Aplicacion web Escritorio:
-
-<p align="center">
-  <img src="images/AppWeb_Escritorio_Segmento1_1.png" alt="AppWeb_Escritorio_Segmento1_1" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Escritorio_Segmento1_2.png" alt="AppWeb_Escritorio_Segmento1_2" width="100%">
-</p>
-
-<p align="center">
-  <img src="images/AppWeb_Escritorio_Segmento1_3.png" alt="AppWeb_Escritorio_Segmento1_3" width="100%">
-</p>
+- Alquilar Autos
+- Reservar 
+- Sobre Nosotros
+- Contáctanos
+- Entre otros.s
 
 ### 4.2.3. SEO Tags and Meta Tag
 A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de TakeMyCar.
