@@ -951,6 +951,7 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 | 9	| US009 |	Cancelación de Reserva	| Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.	| 2 |
 | 10 |	US010	| Notificaciones	| Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas. |	2 |
 
+<br><br>
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -1194,10 +1195,15 @@ Por otro lado, para el segmento de usuarios que tienen la necesidad de alquilar 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-Propietarios de uno o más vehículos propios:
+Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1 
 
 ### 4.4.3. Web Applications Mock-ups
+
+Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1 
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
