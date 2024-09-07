@@ -12,7 +12,7 @@
 
 <div align="center">
 
-Ciclo: 2024 - 0 2
+Ciclo: 2024 - 02
 
 Curso: Desarrollo de Aplicaciones Open Source
 
@@ -24,7 +24,7 @@ Informe del Trabajo Final
 
 Startup: 
 
-Producto: 
+Producto: TakeMyCar
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
@@ -32,6 +32,7 @@ Producto:
 |      Arce Huaman Luis Andres   | U20201A300 |
 |      Ramos Huamanchumo, Javier | U201719648 |
 |      Pinto Fuentes Rivera, Alvaro Felipe | U202213384 |
+|      Cruz Ticona, Aaron Alejandro | U202213502 |
 
 
 Agosto del 2024
@@ -62,7 +63,7 @@ Agosto del 2024
   <tbody>
   <tr>
       <td><strong>TB1</strong></td>
-      <td></td>
+      <td>Viernes 06 de Setiembre</td>
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
@@ -115,34 +116,42 @@ Agosto del 2024
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li></li>
+          <li>Ramos Carpio, Karen:</li>
+          <li>Arce Huaman, Luis Andres:</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
+          <li>Cruz Ticona, Aaron Alejandro:</li>
+          <li>Ramos Huamanchumo, Javier: </li>
         </ul> 
-      </td>
-      <td><strong>TB1:</strong><p align="justify"> </p>
-      </td>
+      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+      <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
       <td style="border-right: 1px solid black;">
-          <ul>
-            <p><strong>TB1</strong></p>
-            <li></li>
-          </ul> 
-        </td>
-        <td><strong>TB1:</strong><p align="justify"> </p>
-        </td>
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Ramos Carpio, Karen:</li>
+          <li>Arce Huaman, Luis Andres:</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
+          <li>Cruz Ticona, Aaron Alejandro:</li>
+          <li>Ramos Huamanchumo, Javier: </li>
+        </ul> 
+      </td>
+      <td><p><strong>TB1</strong></p>
+        <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
+        <br>
     </tr>
   </tbody>
 </table>
 
 # **Project Report Online**
 
-URL Project Report (Github):
+URL Project Report (Github): https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths
           
 # Contenido
 ## Tabla de contenidos
 
-### [Capítulo I: Introducción]()
+### [Capítulo I: Introducción](#capítulo-i-introducción-1)
 - [1.1. Startup Profile]()
     - [1.1.1 Descripción de la Startup]()
     - [1.1.2 Perfiles de integrantes del equipo]()
@@ -155,7 +164,7 @@ URL Project Report (Github):
         - [1.2.2.4. Lean UX Canvas]()
 - [1.3. Segmentos objetivo]()
 
-### [Capítulo II: Requirements Elicitation & Analysis]()
+### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
 - [2.1. Competidores]()
     - [2.1.1. Análisis competitivo]()
     - [2.1.2. Estrategias y tácticas frente a competidores]()
@@ -171,14 +180,14 @@ URL Project Report (Github):
     - [2.3.5. As-is Scenario Mapping]()
 - [2.4. Ubiquitous Language]()
 
-### [Capítulo III: Requirements Specification]()
-- [3.1. To-Be Scenario Mapping]()
-- [3.2. User Stories]()
-- [3.3. Impact Mapping]()
-- [3.4. Product Backlog]()
+### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
 
 
-### [Capítulo IV: Product Design]()
+### [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
 - [4.1. Style Guidelines]()
     - [4.1.1. General Style Guidelines]()
     - [4.1.2. Web Style Guidelines]()
@@ -208,7 +217,7 @@ URL Project Report (Github):
     - [4.8.1. Database Diagram]()
 
 
-### [Capítulo V: Product Implementation, Validation & Deployment]()
+### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment-1)
 - [5.1. Software Configuration Management]()
     - [5.1.1. Software Development Environment Configuration]()
     - [5.1.2. Source Code Management]()
@@ -261,15 +270,342 @@ URL Project Report (Github):
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
+
+TakeMyCar es una startup que actua como intermediario entre propietarios e interesando en el uso de un vehiculo. Nuestra plataforma integra una interfaz eficiente, donde los clientes puede contactarnos tanto para ofrecernos su auto, como para el alquiler de alguno ya catalogado y exhibido en nuestra plataforma. Nuestro modelo de negocio es p2p, y contamos con la ventaja de que no tendremos la necesidad de invertir en una flota inicial de vehiculos, ya que dependera exclusivamente de la demanda encontrada en nuestro mercado, generando asi beneficios a ambos segmenos objetivos. En este trabajo veremos esta startup desarrollarse y poder plasmar el potencial de la misma.
+
+<p align="justify">Misión: Facilitar el acceso a vehículos compartidos mediante una plataforma digital que permita a las personas alquilar autos de otros propietarios, Buscando aprovechar la tecnología para ofrecer una alternativa más eficiente y sostenible al modelo tradicional de propiedad de vehículos, reduciendo la necesidad de tener un auto propio y promoviendo un uso más eficiente de los recursos.</p>
+
+<p align="justify">Visión: Crear un mundo donde el acceso a la movilidad sea sencillo y compartido, disminuyendo la cantidad de autos en circulación, contribuyendo a ciudades más limpias y sostenibles, y mejorando la eficiencia del transporte mediante la economía colaborativa.</p>
+
+<p align="justify">Logotipo de la Startup:</p>
+
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.png" alt="Logo Startup" width="20%"></p></p>
+
+<p align="justify">Logotipo del servicio:</p>
+
+<p style="text-align: center" align="center"> <p align="center"><img src="images/take-my-car-logo.png" alt="Logo Servicio" width="20%"></p></p>
+
+
 ### 1.1.2 Perfiles de integrantes del equipo
+
+<table>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="images/fotoAaron.jpg" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Aaron Alejandro Cruz Ticona
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U202213502
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Me llamo Aaron Cruz, me encuentro inmerso en la carrera de Ingenieria de Software. Hablando de mi, me considero una persona curiosa, lo que me lleva a tener constante interes en el aprender nuevas cosas y espero hacerlo en este curso.
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td rowspan="4">
+      <img src="images/fotoKaren.JPG" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Karen Ramos Carpio
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U20201e493
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo       para poder llegar a los objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me        sea asignada será gestionada con diligencia.
+    </td>
+  </tr>
+
+   <tr align="center">
+    <td rowspan="4">
+      <img src="images/fotoAlvaro.jpg" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Alvaro Felipe Pinto Fuentes Rivera
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U202213384
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el género de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.	
+  </tr>
+
+   <tr align="center">
+    <td rowspan="4">
+      <img src="images/fotoJavier.webp" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Javier Ramos
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U201719648
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Sistemas
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Mi nombre es Javier Ramos, actualmente me encuentro en el proceso de traslado hacia la carrera de Ingeniería de Software, ya que deseo formalizar mis conocimientos en el área que me apasiona y a la que me dedico laboralmente.
+Tengo experiencia en AWS, diversas tecnologías frontend, backend y CMS. Además me encuentro certificado en Contentful y AWS
+    </td>
+  </tr>
+   <tr align="center">
+    <td rowspan="4">
+      <img src="images/andres.png" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Luis Andres Arce Huaman
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U20201A300
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Mi nombre es Andres y tengo 20 años , soy estudiante de la carrera de Ingeniería de Software. Mis principales hobbies son: ver películas , dibujar y hacer deporte. Me comprometo como miembro a aportar en la realización de las entregas correspondientes
+    </td>
+  </tr>
+
+</table>
+
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
+#### Antecedentes
+
+Dentro de nuestro pais, la densidad de poblacion y las consecuencia del mismo genera un aumento significativo en la demanda de soluciones en cuanto a la movilidad temporal y flexible, por lo que, existe la necesidad de una plataforma que simplifique la gestion entre los propietarios y los arrendatarios para el alquiler de vehículos mediante una plataforma como la que planeamos ofrecer.
+
+#### Problemática
+
+El problema principal, a grandes rasgos, radica en la falta de plataformas que faciliten el alquiler de vehículos de manera eficiente entre propietarios y arrendatarios ha creado una barrera para aquellos que requieran dun automóvil de manera rápida y temporal. Lo que limita a los arrendatarios y perjudica a los propietarios al no poder rentabilizar sus vehículos, problematica que solventaremos mediante nuestro modelo p2p, titulado "TakeMyCar".
+
+#### Técnica de las 5 'W's y 2' H's
+
+**What?**
+
+El problema que abarcamos, si bien es cierto, no resuelve alguno de alerta considerable, se busca solventar la necesidad de la personas por el uso de un vehiculo en distintas situaciones. 
+
+**When?**
+
+La problematica ocurre cuando los propietarios desean generar rentabilidad y los arrendatarios necesitan el uso de un auto por un corto periodo de tiempo.  El producto se utiliza cuando los propietarios nos otorgan sus vehiculos, y son catalogados dentro de nuestra plataforma.
+
+**Where?**
+
+Estas necesidad surgiran comunmente en las zonas urbanas donde existe una demanda por el uso de vehiculos, y en este caso, el alquiler de los mismos. Podemos mencionar las ciudades de alto trafico y extension considerable, aunque puede ser usado para todo tipo de necesidad.
+
+**Who?**
+
+Los involucrados son los propietarios de vehiculos que desean alquilar su auto y no tienen el tiempo ni la confianza en una plataforma para hacerlo. Y tambien, los arrendatarios que buscan alquilar un vehiculo rapido, eficiente y sin complicaciones.
+
+**Why?**
+
+Las causas principales de la necesidad en cuestion son:
+
+- Activo sin uso, los vehiculos que no estan siendo usados ni aprovechados.
+- Falta de una plataforma interactiva y confiable para el alquiler de vehiculos.
+- Mercado poco explorado para la demanda existente
+
+**How?**
+
+Nuestros clientes utilizaran nuestra plataforma cuando necesitan reentabilizar su vehiculo o cuando necesitan acceder rapidamente a un vehiculo para un uso especifico.
+
+**How much?**
+
+Para los propietarios no va a existir un costo mas que el tiempo invertido en brindar toda la informacion necesaria para la catalogacion de su vehiculo dentro de nuestra plataforma.
+
+Para los arrendatarios, ademas de su pago por alquiler no tendran costo adicional, ya que con la finalidad de brindar un servicio completo, todo se encontrara incluido dentro del pago del alquiler.
+
+Por nuestra parte, ya se menciono que no vamos a requerir una inversion en una flota de vehiculos. Por lo que, solo necesitaremos costo en publicidad y desarrollo de nuestra plataforma.
+
 ### 1.2.2 Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
-#### 1.2.2.2. Lean UX Assumptions
-#### 1.2.2.3. Lean UX Hypothesis Statements
-#### 1.2.2.4. Lean UX Canvas
+#### 1.2.2.1 Lean UX Problem Statements
+
+La idea central de TakeMyCar, surge debido a la necesidad de nuestros segmentos en busca de una opción innovadora aún no explotada en nuestro entorno. Nos encontramos dentro del sector del alquiler de vehículos, centrandonos principalmente en la falta de disponibilidad y en los costos otorgados por parte de las empresas de alquiler de vehículos. 
+
+De la misma forma, lo que otras escasas empresas, las cuales buscan brindar el servicio de alquiler no logran abordar es el hecho de que no muchas de ellas poseen el modelo de no uso de autos que sean propios, es decir, TakeMyCar esta pensada para no tener que realizar una inversión considerable en la obtencion de autos propios. 
+
+Nuestro producto sobrepasa este limite, ofreciendo un modelo tanto de entrada como de salida, recibiremos carros de propietarios y lo alquilaremos a usuarios, lo que abarca con la necesidad de un modelo más flexible, rentable y escalable que permita tanto a los propietarios como a los arrendatarios obtener un beneficio económico. 
+
+Finalmente, podremos sentir el trabajo concluido cuando veamos un numero considerable y en aumento de propietarios que, compartan su rentibilidad con sus conocidos, y que tengamos disponibles un catalogo considerable de vehiculos que concuerden a la demanda presente.
+
+#### 1.2.2.2 Lean UX Assumptions
+
+#### Segmento de Usuarios:
+
+#### ¿Quién es el usuario?
+Nuestros usuarios son propietarios de vehículos que buscan monetizar sus activos sin la carga de gestionarlos y arrendatarios que desean opciones flexibles y accesibles para alquilar sin preocupaciones y a precios cómodos.
+
+#### ¿Dónde encaja nuestro servicio? ¿En su trabajo o vida?
+Nuestro producto se integra en la vida de los propietarios de vehículos que desean obtener ingresos adicionales de manera pasiva y en la vida de los arrendatarios que necesitan una solución conveniente y asequible para alquilar un vehículo sin los compromisos de la propiedad.
+
+#### ¿Cuando y cómo es usado nuestro servicio?
+Los propietarios nos contactaran principalmente para listar sus vehículos y monitorear sus ingresos, mientras que los arrendatarios la utilizarán cuando necesiten alquilar un vehículo para diversas ocasiones, como viajes, mudanzas o tareas cotidianas.
+
+#### ¿Qué problemas tiene nuestro servicio?
+Un posible desafío es asegurar la confianza y satisfacción de los propietarios de vehículos en cuanto a la seguridad y cuidado de sus activos, y garantizar que los arrendatarios encuentren la experiencia de alquiler simple, rápida y sin complicaciones.
+
+#### Business Outcomes:
+
+* Creemos que a nuestros clientes les interesaría una plataforma que les permita alquilar sus vehículos sin gestión operativa y a los arrendatarios les ofrecería una opción accesible y diversa de vehículos.
+
+* Creemos que nuestro público objetivo incluye a propietarios de vehículos que desean monetizar su activo de manera pasiva y arrendatarios que buscan soluciones de alquiler convenientes y asequibles.
+
+* Reconocemos que hay competidores en el mercado, pero creemos que podemos diferenciarnos proporcionando un servicio sin la necesidad de inversión inicial en flota, lo que nos permitirá ofrecer precios más competitivos y una experiencia de usuario optimizada.
+
+* Creemos que debemos asegurar la calidad y confiabilidad de nuestra plataforma, implementando rigurosas pruebas y manteniendo una comunicación activa con nuestros usuarios para abordar cualquier problema o inquietud que pueda surgir.
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+1. Creemos que los propietarios de vehículos que buscan monetizar sus activos sin la necesidad de involucrar tiempo e inversión considerable, quienes nos contactaran mediante nuestra plataforma par obtener ingresos pasivos bajo una fuente segura.
+
+2. Creemos que los arrendatarios que buscan opciones de alquiler de vehículos flexibles y accesibles preferirán nuestra plataforma por su facilidad de uso, precios competitivos, seguridad y confianza.
+
+3. Creemos que ofrecer un modelo de negocio sin inversión inicial en flota (no poseer autos propios para su alquiler), nos va a permitir inversión en otras areas y mantener un precio plano el cual sera competitivo bajo distintas métricas, y así, atraer tanto a arrendadores como a arrendatarios.
+
+#### 1.2.2.4 Lean UX Canvas
+
+<img src="/images/leanuxcanva.png" >
+
 ## 1.3. Segmentos objetivo
+
+<h3> Segmento #1: Propietarios de uno o más vehículos propios</h3>
+
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculino y Femenino </li>
+  <li> Edades: Entre 18 y 60 años </li>
+  <li> Nivel Socioeconómico: Clases A, B y C (Clase alta, clase media alta y clase media) </li>
+</ul>
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Personas naturales o jurídicas que no utilicen con frecuencia su activo (vehículo). </li>
+  <li> Personas que deseen obtener ingresos pasivos sin la necesidad de invertir un gran cantidad de su tiempo. </li>
+  <li> Personas que no encuentran una manera rápida y confiable de alquilar sus vehículos. </li>
+</ul>
+
+<br>
+<h3> Segmento #2: Usuarios que tienen la necesidad de alquilar un vehículo </h3>
+
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculo y Femenino </li>
+  <li> Edades: Entre 18 y 50 años </li>
+  <li> Nivel Socioeconómico: Clases A. B y C (Clase alta, clase media alta y clase media) </li>
+</ul>
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Usuarios que gasten demasiadas horas semanales dentro del tráfico y el transporte público. </li>
+  <li> Personas que no tienen la posibilidad de adquirir un auto nuevo o seminuevo para ciertas ocasiones. </li>
+  <li> Personas que necesitan un medio de transporte propio por un tiempo corto de uso. </li>
+</ul>
+
+<br><br>
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ## 2.2. Entrevistas
@@ -285,10 +621,353 @@ URL Project Report (Github):
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+Objetivo
+Crear una plataforma que simplifique la gestión entre propietarios y arrendatarios para el alquiler de vehículos, maximizando la rentabilidad de los vehículos no utilizados y proporcionando una solución de movilidad flexible.
+
+<p align="center">
+  <img src="images/tobe.png" alt="To be scenario mapping" width="100%">
+</p>
+
+
 ## 3.2. User Stories
+
+| Epic/Story ID|Titulo|Descripción|Criterios de Aceptación|Relacionado con (Epic Id)| 
+|--------------|--------|----------|---------|--------|
+| US001 |	Registro de Propietarios |	Como propietario, quiero poder registrarme en la plataforma para poder listar mis vehículos.	| - El propietario puede crear una cuenta. <br> - El propietario puede iniciar sesión.| EP001 |
+| US002 |	Listado de Vehículos |	Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.	| - El propietario puede añadir un nuevo vehículo. <br> - Se deben poder especificar detalles y disponibilidad.	| EP001 |
+| US003 |	Búsqueda de Vehículos |	Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible.	| - Los arrendatarios pueden filtrar vehículos por ubicación y fecha. <br> - Los resultados se muestran correctamente.	| EP002 |
+| US004 |	Reserva de Vehículo |	Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.	| - Los arrendatarios pueden seleccionar un vehículo y reservarlo. <br> - La reserva se confirma al arrendatario.	| EP002 |
+| US005 |	Pago del Alquiler |	Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.	| - Integración de un sistema de pago seguro. <br> - Confirmación del pago al arrendatario y al propietario.	| EP002 |
+| US006 |	Gestión de Perfiles |	Como usuario, quiero gestionar mi perfil para actualizar mi información personal.	| - Los usuarios pueden editar su perfil. <br> - Los cambios se guardan correctamente.	| EP003 |
+| US007 |	Valoraciones y Reseñas |	Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.	| - Los usuarios pueden dejar valoraciones y reseñas. <br> - Las valoraciones y reseñas son visibles para otros usuarios.	| EP003 |
+| US008 |	Soporte al Usuario	| Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.	| - Implementación de un chat en vivo. <br> - Respuestas oportunas a las consultas de los usuarios.	| EP003 |
+| US009 |	Cancelación de Reserva |	Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.	| - Los arrendatarios pueden cancelar reservas. <br> - Se notifica la cancelación al propietario.	| EP002 |
+| US010 |	Notificaciones |	Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas.	| - Los usuarios reciben notificaciones relevantes. <br> - Las notificaciones son personalizables.	| EP003 |
+
 ## 3.3. Impact Mapping
+
+<p align="center">
+  <img src="images/impact-mapping.png" alt="To be scenario mapping" width="100%">
+</p>
+
 ## 3.4. Product Backlog
+
+
+| #Orden | User Story Id	| Título	| Descripción |	Story Points |
+|--------|----------------|---------|-------------|--------------|
+| 1	| US001 |	Registro de Propietarios | Como propietario, quiero poder registrarme en la plataforma para poder listar mis vehículos.	| 5 |
+| 2	| US006 |	Gestión de Perfiles |	Como usuario, quiero gestionar mi perfil para actualizar mi información personal.	| 3 |
+| 3	| US002 |	Listado de Vehículos	| Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.	| 3 |
+| 4	| US003 |	Búsqueda de Vehículos |	Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible.	| 5 |
+| 5	| US004 |	Reserva de Vehículo |	Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.	| 3 |
+| 6	| US005 |	Pago del Alquiler |	Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.	| 5 |
+| 7	| US007 |	Valoraciones y Reseñas |	Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.	| 2 |
+| 8	| US008 |	Soporte al Usuario	| Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.	| 2 |
+| 9	| US009 |	Cancelación de Reserva	| Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.	| 2 |
+| 10 |	US010	| Notificaciones	| Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas. |	2 |
+
+
 # Capítulo IV: Product Design
+## 4.1. Style Guidelines
+## 4.2. Information Architecture
+## 4.3. Landing Page UI Design
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.3. Web Applications Mock-ups
+### 4.4.4. Web Applications User Flow Diagrams
+## 4.5. Web Applications Prototyping
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+### 4.6.2. Software Architecture Container Diagrams
+### 4.6.3. Software Architecture Components Diagrams
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+
+### 2.1.1 Análisis competitivo
+<table>
+    <thead>
+        <tr >
+            <th colspan=6 style="text-align: center">
+				<h2>
+					Competitive Analisis Landscape
+				</h2>
+			</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2 rowspan=2 style="text-align: center" align="center">¿Por qué llevar a cabo este análisis?</td>
+            <td colspan=4 style="text-align: center" align="center">¿Quiénes son nuestros principales competidores?</td>
+        </tr>
+		<tr>
+            <td colspan=4 style="text-align: center" align="center">Gracias al análisis de la competencia, se logra comprender el entorno competitivo en el que operará nuestro producto. Esto proporciona una visión detallada de quienes son nuestros competidores directos e indirectos, logrando así, trazar 
+ una estretegia sólida para alcanzar la máxima exposición de nuestro producto, llegando así a más posibles consumidores.</td>
+        </tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
+			<td rowspan=2 style="text-align: center" align="center">Overview</td>
+      <td style="text-align: center" align="center">TakeMyCar <p align="center"><img src="images/TakeMyCar.png" alt="Logo TakeMyCar" width="25%">
+</p></td>
+			<td style="text-align: center" align="center">Turo <p align="center"><img src="images/turo.png" alt="Logo Turo" width="40%"></p></td>
+			<td style="text-align: center" align="center">Getaround<p align="center"><img src="images/getaround.png" alt="Logo Getaround" width="40%"></p></td>
+			<td style="text-align: center" align="center">SIXT <p align="center"><img src="images/SIXT.png" alt="Logo Sixt" width="40%"></p></td>
+		</tr>
+		<tr>
+<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por nuestra startup:Pixel Smiths. TakeMyCarofrece una manera segura y sencilla de listar sus vehículos, con la ventaja de no requerir ninguna inversión inicial. Además, los propietarios solo son remunerados cuando su vehículo es alquilado, reduciendo riesgos y asegurando una fuente de ingresos sin compromisos
+</td>
+			<td style="text-align: center" align="center">Aplicativo de alquiler de vehículos creado por la empresa RelayRides. actualmente llamada Turo Inc.Turo ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad que proporciona una plataforma global, junto con seguros integrados que protegen sus activos durante los alquileres
+
+</td>
+			<td style="text-align: center" align="center"> Aplicativo de alquiler de vehículos creado por la empresa Getaround Inc.
+Getaround genera ingresos pasivos al alquilar sus vehículos de manera flexible, incluso por horas. La plataforma facilita el proceso con tecnología de acceso remoto al vehículo, eliminando la necesidad de interacciones en persona y ofreciendo seguros para mayor tranquilidad
+
+</td>
+			<td style="text-align: center" align="center">
+Aplicativo de alquiler de vehículos creado por la empresa de Sixt SE.
+ofrece a sus clientes una experiencia de alquiler de vehículos premium, con acceso a una extensa flota de autos bien mantenidos y una variedad de opciones que van desde alquileres de corto plazo hasta soluciones de movilidad compartida. La empresa actualmente es líder global en renta de vehículos. 
+
+</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Ventaja Competitiva ¿Qué valor ofrecen a los clientes</td>
+			<td style="text-align: center" align="center">TakeMyCarofrece una manera segura y sencilla de listar sus vehículos, con la ventaja de no requerir ninguna inversión inicial. Además, los propietarios solo son remunerados cuando su vehículo es alquilado, reduciendo riesgos y asegurando una fuente de ingresos sin compromisos
+
+</td>
+			<td style="text-align: center" align="center">Turo
+ofrece ingresos pasivos donde los propietarios se benefician de la visibilidad que proporciona una plataforma global, junto con seguros integrados que protegen sus activos durante los alquileres
+</td>
+			<td style="text-align: center" align="center">Getaround genera ingresos pasivos al alquilar sus vehículos de manera flexible, incluso por horas. La plataforma facilita el proceso con tecnología de acceso remoto al vehículo, eliminando la necesidad de interacciones en persona y ofreciendo seguros para mayor tranquilidad</td>
+			<td style="text-align: center" align="center">ofrece a sus clientes una experiencia de alquiler de vehículos premium, con acceso a una extensa flota de autos bien mantenidos y una variedad de opciones que van desde alquileres de corto plazo hasta soluciones de movilidad compartida. La empresa actualmente es líder global en renta de vehículos. </td>
+		</tr>
+		<tr>
+			<td rowspan=2 style="text-align: center" align="center">Perfil del Marketing</td>
+			<td style="text-align: center" align="center">Mercado Objetivo</td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 25 a 60 años con un claro manejo de un dispositivo móvil.</td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 22 años en adelante con un claro manejo de un dispositivo móvil.</td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 22 años en adelante con un claro manejo de un dispositivo móvil.</td>
+			<td style="text-align: center" align="center">Personas adultas con un vehículo y de edad comprendida entre 22 años en adelante con un claro manejo de un dispositivo móvil.</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Estrategias de Marketing</td>
+			<td style="text-align: center" align="center"><ul><li>Uso de publicidad en redes sociales</li> <li>Recomendación de voz a voz</li> <li>Prueba gratis de 30 días del plan premium para lograr retención</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Promoción de la app en su cuenta de Twitter</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Presentación de referencias en su landing page</li> <li>Cuentas activas de Facebook y Twitter</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Presentación en una landing page vistosa</li> <li>Fácil acceso a los contactos para invitar más personas</li> <li>Página de redes sociales</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil del Producto</td>
+			<td style="text-align: center" align="center">Productos & Servicios</td>
+			<td style="text-align: center" align="center">Sitio web para el registro y uso de nuestro aplicativo</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Precios & Costos</td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 9.90 soles</li> <li>Suscripción de un año - 29.90 soles</li> <li>Suscripción empresarial - 169.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Pase de un mes - 2.90 soles</li> <li>Suscripción de un año - 11.90 soles</li> <li>Pase de por vida - 39.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 12.90 soles</li> <li>Suscripción de un año - 35.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 19.90 soles</li> <li>Suscripción de un año - 149.90 soles</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Canales de distribución (web/móvil)</td>
+			<td style="text-align: center" align="center">Plataforma web</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+		</tr>
+		<tr>
+			<td rowspan=4 style="text-align: center" align="center">Análisis SWOT</td>
+			<td style="text-align: center" align="center">Fortalezas</td>
+			<td style="text-align: center" align="center"><ul><li>Canales de atención disponibles</li> <li>Cálculo automático de saldos</li> <li>Uso de etiquetas para categorizar y filtrar las transacciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Funciona offline</li> <li>Se sincroniza de forma automática con nuestros amigos</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Uso de imágenes como evidencia</li> <li>Uso de claves de color para mejor visualización</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Integración con cuentas de banco para realizar los pagos dentro de la misma aplicación</li> <li>División en partes iguales o desiguales</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Debilidades</td>
+			<td style="text-align: center" align="center"><ul><li>Requiere de conección a internet</li> <li>No soporta muchos idiomas</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>El diseño es demasiado simple</li> <li>Carece de diferenciadores con la competencia</li> <li>Cobra por features que se encuentran gratis en otras aplicaciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>La interfaz no es fácil de usar</li> <li>Cobra por features que se encuentran gratis en otras aplicaciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Te da una cantidad de gastos limitados en el plan gratuito</li> <li>Los planes premium son demasiado costosos</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Oportunidades</td>
+			<td style="text-align: center" align="center"><ul><li>Es posible agregar más funcionalidades</li> <li>Ya se está empezando a crear un mercado gracias a las otras apps</li></ul> </td>
+			<td style="text-align: center" align="center">Se puede agregar un poco más de profundidad al diseño</td>
+			<td style="text-align: center" align="center">Se puede mejorar la interfaz para que sea más intuitiva</td>
+			<td style="text-align: center" align="center">Es la aplicación con más features</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Amenazas</td>
+			<td style="text-align: center" align="center">Es comlpicado competir con aplicaciones ya establecidas en el mercado</td>
+			<td style="text-align: center" align="center">Sigue quedándose atrás en la cantidad de features que tiene comparado con la competencia</td>
+			<td style="text-align: center" align="center">Los consumidores están acostumbrados a aplicaciones intuitivas, por lo que aprender a utilizar una app va a ser complicaco para algunos usuarios</td>
+			<td style="text-align: center" align="center">Los precios altos ocasionan que los usuarios no deseen pagar la suscripción</td>
+		</tr>
+    </tbody>
+</table>
+
+### 2.1.2 Estrategias y tácticas frente a competidores
+<li>Nuestra estrategia primordial implica una expansión estratégica a través de la publicidad en redes sociales y otras aplicaciones, con el objetivo de atraer y retener un mayor número de usuarios. Dado el entorno altamente competitivo en el que operamos, consideramos esencial aumentar nuestra visibilidad en línea y alcanzar a una audiencia más amplia.</li><br>
+<li>En resumen, nuestra estrategia abarca tanto la expansión a través de la publicidad en línea como la construcción de una sólida reputación de marca, ya que creemos que estos elementos son fundamentales para nuestro éxito continuo en un mercado altamente competitivo.</li>
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+El objetivo principal de las entrevistas es comprender las necesidades de nuestros segmentos objetivo. Para lograr esto, definiremos las siguientes preguntas clave:
+
+<h3>Arrendatario de un vehículo:</h3>
+<li>¿Con qué frecuencia usas tu vehículo actualmente?</li>
+<li>¿Cuál es tu principal motivación para alquilar tu vehículo a través de una plataforma como la nuestra?</li>
+<li>¿Qué tipo de preocupaciones tienes sobre alquilar tu vehículo a extraños?</li>
+  <li>¿Qué tipo de seguro tienes para tu vehículo actualmente?</li>
+  <li>¿Qué tan cómodo te sentirías con otras personas conduciendo tu vehículo?</li>
+  <li>¿Qué tipo de compensación esperas obtener por alquilar tu vehículo?</li>
+  <li>¿Qué información te gustaría conocer sobre la persona que alquila tu vehículo?</li>
+  <li>¿Estarías dispuesto a instalar dispositivos tecnológicos en tu vehículo para facilitar el alquiler (como GPS o sistemas de entrada sin llave)?</li>
+  <li>¿Has alquilado tu vehículo anteriormente a través de alguna plataforma o a conocidos?</li>
+  <li>¿Qué tipo de soporte o asistencia esperarías de nuestra plataforma durante el alquiler de tu vehículo?</li>
+  <h3>Persona arrendataria:</h3>
+  <li>¿Con qué frecuencia te transportas en el día a día?</li>
+  <li>¿Qué características buscas en un vehículo al considerar alquilarlo?</li>
+  <li>¿Cuál es tu presupuesto promedio para alquilar un vehículo?</li>
+  <li>¿Qué tan importante es para ti la flexibilidad en los términos del alquiler?</li>
+  <li>¿Qué factores consideras al elegir una plataforma para alquilar un vehículo?</li>
+  <li>¿Qué tipo de seguros y garantías esperas que estén incluidos en el alquiler del vehículo?</li>
+  <li>¿Cuáles son tus expectativas respecto a la calidad del servicio y la atención al cliente durante el alquiler?</li>
+  <li>¿Qué tan importante es para ti la transparencia en el proceso de alquiler, desde la reserva hasta la devolución del vehículo?</li>
+  <li>¿Qué aspectos negativos has experimentado en alquileres de vehículos anteriores que te gustaría evitar?</li>
+  <li>¿Qué tan cómodo te sientes usando una plataforma digital para alquilar un vehículo?</li>
+
+### 2.2.2. Registro de entrevistas
+
+<b> Entrevista 1 </b>
+Entrevistador: Alvaro Pinto
+
+- Nombre: Diego
+- Apellidos: Cano Acero
+- Edad: 22 años
+- Distrito: Lima
+- Link de la entrevista: [Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/EfELYv151I5Kui6rEtJQV0sBHB77UhrNxgbz7ODTbZuJyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Zp9b7b)
+- Duración: 5:00 minutos
+- Inicio de la entrevista: 0:02
+
+Evidencia de la reunión: 
+
+<p align="center">
+  <img src="images/Entrevista_1_Cano.png" alt="Entrevista_1_Cano" width="100%">
+</p>
+
+Resumen de la entrevista:
+
+En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funcionalidades pensadas para el producto TakeMyCar. Durante la conversación, expresó su interés en probar la plataforma, ya que muchas de las funciones le parecieron bastante atractivas. En particular, destacó las relacionadas con la seguridad, pues como es comprensible, siente cierta desconfianza al dejar su vehículo en manos de un desconocido. Este aspecto le resulta crucial, dado que considera fundamental que el sistema ofrezca garantías de protección tanto para los arrendadores como para los propietarios de los vehículos.
+
+
+<b> Entrevista 2 </b> 
+Entrevistador: Aaron Cruz
+
+- Nombre: Franchesco
+- Apellidos: Soto Morales
+- Edad: 22 años
+- Distrito: Comas
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EbhcYmyn-y1JlD7N3pR5cwoBN9sSJpjLNJq1wA_k8zbvuQ?e=4LeGyW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista</a>
+- Duración: 5:18 minutos
+- Inicio de la entrevista: 0:02 
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="./img/screenshot-entrevista-3.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+- El entrevistado menciona que posee un vehículo de uso familiar y que su uso se limita a los fines de semana o rara vez.
+- Menciona que nunca tuvo una experiencia con lo que alquiler se refiere, sin embargo, se encuentra dispuesto a hacerlo dependiendo del nivel de confianza que tenga con la persona alquilada.
+- Menciona también que no conoce de ninguna plataforma o medio por el cual pueda disponivilizar su vehículo para su futuro alquiler.
+- Considera que la principal garantía además de la compesación monetaria por el alquiler, es el poseer un seguro que protega su bien tanto de accidentes, robos, entre otros incidentes presentes.
+- Menciona que utilizaría nuestra plataforma y que además recomendaria el uso, ya que entiende los beneficios que conlleva.
+
+### 2.2.3. Análisis de entrevistas
+<br>
+<p>Las entrevistas realizadas a usuarios de ambos segmentos, arrendadores y arrendatarios, revelaron perspectivas claves sobre sus expectativas y preocupaciones al usar la plataforma. Los arrendadores, en su mayoría propietarios de vehículos, destacaron su motivación por generar ingresos adicionales. Sin embargo, mostraron inquietud respecto al estado en el que quedará su vehículo después del alquiler, así como la puntualidad en los pagos. Consideran esencial un proceso eficiente y claro para la entrega y devolución del auto, así como garantías de protección en caso de daños. Por otro lado, los arrendatarios valoran la flexibilidad que ofrece la plataforma para alquilar vehículos según sus necesidades, pero subrayaron la importancia de una experiencia de uso fluida y sin complicaciones. Sus preocupaciones principales incluyen la transparencia en los precios, evitando costos ocultos, y la calidad de los vehículos disponibles.</p>
+<br>
+
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+<p>En este segmento creamos las User Personas en base a los segmentos objetivos planteados.</p>
+<h3>User Persona:Arrendador de Vehiculo</h3>
+<img src="images/Martin.png" alt="User Persona 1" />
+<br>
+<h3>User Persona:Arrendatario de vehiculo</h3>
+<img src="images/Maria.png" alt="User Persona 2" />
+
+
+### 2.3.2. User Task Matrix
+En este segmento se crea el user task matrix apartir de los user persona
+<img src="images/UserTaskMatrix.png" alt="UTM" />
+
+
+### 2.3.3. User Journey Mapping
+User Journey Map: Arrendador
+<img src="images/User Journey Mapping.png" alt="UTM" />
+<br>
+<br>
+User Journey Map: Arrendatario
+<img src="images/User Journey Mapping-2.png" alt="UTM" />
+
+### 2.3.4. Empathy Mapping
+En este segmento se definen los Empathy Map de nuestros segmentos objetivo
+<br>
+Empathy Map: Arrendador
+<br>
+<br>
+<img src="images/Empathy map-3.png" alt="Empathy Map" />
+Empathy Map: Arrendatario
+<br>
+<br>
+<img src="images/Empathy map-2.png" alt="Empathy Map" />
+<br>
+<br>
+### 2.3.5. As-is Scenario Mapping
+<br>
+En este segmento se define el As-Is Scenario Map
+<br>
+<br>
+As-Is scenario: Arrendador
+<br>
+<br>
+<img src="images/ASarrendador.png" alt="Empathy Map" />
+<br>
+<br>
+As-Is scenario: Arrendatario
+<img src="images/ASarrendatario.png" alt="Empathy Map" />
+## 2.4. Ubiquitous Language
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
+
+# Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines
 ### 4.1.1 General Style Guidelines
 **Paleta de colores**: Nuestra selección en la paleta de colores se basa en la atención a la legibilidad y buen aspecto de nuestra landing page. El color #002e43 se usa como color principal para resaltar elemento importantes, luego el color #406378 se usa para subtítulos y otros apartados de una ligera menor relevancia, en el caso del color #6a90a9 se utiliza en el cuerpo y en otras áreas para contrastar con los títulos y subtítulos, finalmente para los colores #b2c3d3 y #d7dce0 se usarán de fondo. Estos colores se usarán de forma inteligente para poder presentar una jerarquía visual clara e intuitiva.
@@ -587,7 +1266,9 @@ Usuarios que tienen la necesidad de alquilar un vehículo:
 <p align="center">
   <img src="images/MockUp_Wireflow_Seg2_3.png" alt="MockUp_Wireflow_Seg2_3" width="100%">
 </p>
+
 ## 4.5. Web Applications Prototyping
+
 ## 4.6. Domain-Driven Software Architecture
 Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
 
@@ -957,37 +1638,223 @@ En este apartado detallamos cada clase de nuestro diagrama
   </div>
 
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagram
 
 <img src="images/bd.png" alt="Database Diagram">
 
 # Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management
-### 5.1.1. Software Development Environment Configuration
 
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+**Requirements Management**
+
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
+
+**Product UX/UI Design**
+
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En elcaso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.Ruta de referencia https://www.figma.com/login2.
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama declases asociado a la aplicación. Ruta de referencia https://www.lucidchart.com/
+
+**Software Testing**
+
+1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story.Ruta de referencia https://cucumber.io/docs/gherkin/
+
+**Software Development**
+
+1. WebStorm: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos dedominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltipleslenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia https://www.jetbrains.com/webstorm/
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Seráempleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referenciahttps://www.w3schools.com/html/html5_syntax.asp
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la manocon HTML. Ruta de referencia https://google.github.io/styleguide/htmlcssguide.html
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz deusuario dentro de la aplicación. Ruta de referencia https://developer.mozilla.org/es/docs/Web/JavaScript
+5. Angular: Angular es un framework de desarrollo de aplicaciones web de código abierto y basado en TypeScript, mantenido por Google y una comunidad de desarrolladores. Es utilizado para crear aplicaciones web de una sola página (SPA) y aplicaciones web dinámicas. Angular proporciona un conjunto de herramientas y bibliotecas que simplifican el desarrollo de aplicaciones web complejas al seguir el patrón de arquitectura Modelo-Vista-Controlador (MVC) y ofrecer funcionalidades como enlace de datos bidireccional, inyección de dependencias, rutas, formularios reactivos, animaciones y mucho más https://angular.io/
+
+**Software Deployment**
+
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Seutilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederána través de la línea de comandos en sus sistemas locales. Ruta de referencia https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración entiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través desus navegadores web. Ruta de referencia https://github.com/
+   
 ### 5.1.2. Source Code Management
+
+El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones.
+**Liks del repositorio de GitHub**:
+
+- Link de la organización: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths
+- Link de la landing page: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/LandingPage
+- Link del informe: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Report
+- Link del front end: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend
+- Link del back end: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Backend
+
+Estrucutra de las ramas:
+
+- **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
+- **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
+- **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
+- **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
+- **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+**HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
+
+- Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
+- Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: `<p> Código claro y legible.</p>`
+- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: `<img src="image.img" alt="brief image name">`
+- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
+  al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
+- No omitir las etiquetas `<html>`, `<body>` y `<header>`.
+- Escribir en una línea los comentarios cortos.
+
+**CSS**: Entre las prácticas se mencionan:
+
+- Los nombres de clases son intuitivos, legibles y autodescriptivos.
+- Separar los nombres de las clases y ID con guión, por ejemplo: `#userViajero-id` y`.userImg-shape{}`
+- Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+- Usar comentarios para explicar el código.
+- Aplicar sangría a todo el contenido de un bloque.
+
+**JavaScript**: Principales prácticas aplicadas:
+
+- Uso de camelCase para nombrar variables y funciones. Por ejemplo, `myVariable` y `myFunction`.
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, `myClass`.
+- Evitar el uso de nombres de variables genéricos o ambiguos.
+- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
+- Uso de punto y coma al final de cada declaración.
+- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Uso de el operador ternario `(condición ? resultadoTrue : resultadoFalse)` de manera adecuada y legible.
+- Evitar el uso de funciones obsoletas o en desuso.
+- Uso de try-catch para manejar y gestionar errores de manera adecuada.
+
+**Gherking Language:** Lenguaje de dominio específico utilizado en Behavior Driven Development (BDD), se enfoca en facilitar la comunicación entre los equipos de negocios y técnicos al abordar los problemas concretos. Para mejorar la legibilidad y la organización de nuestrosd escenarios, se emplean saltos de línea y palabras clave como "Given", "When", "Then" y "And". Estas prácticas nos ayudan a estructurar de manera clara y efectiva los diferentes tipos de escenarios en BDD.
+
 ### 5.1.4. Software Deployment Configuration
+
+<p align="justify"> 
+  Para la implementación de la aplicación TakeMyCar, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación. 
+  Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
+</p>
+
+- Paso uno: Crear un archivo de configuración de flujo de trabajo en la carpeta .github/workflows/main.yml.
+En este caso obtaremos por una ya creada por la comunidad de Github Actions exactamente el de Jekyll que nos permitira desplegar nuestra aplicación en Github Pages simplemente haciendo push a la rama main.
+
+  <img align="center" src="images/5-1-4-1.png" alt="Configuracion Github Actions" width="90%">
+
+- Paso dos: Subir nuestros cambios a la rama main.
+
+- Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
+  <img align="center" src="images/5-1-4-2.png" alt="Despliegue en Github Pages" width="90%">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
+
+<table>
+  <caption>Sprint #1</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>22/08/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>21:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de google meet</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Ramos Carpio, Karen</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de PixelSmiths</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará la organización de PixelSmiths en Github y el repositorio de la organización. Además, se implementará el single page landing page.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el landing se ha realizado mediante html y css.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
+
+En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/b/jaPO8QbP/takemycar-sprint-1
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+A continuación se presentan informacion de los commits de la Landing page de PocketPartners, con el uso de HTML, CSS y JavaScript
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.
+
+En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages.
+
+Se puede acceder a la página de inicio a través del siguiente enlace:
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+A continuación se presentan capturas de los insights del repositorio del landing page en Github
 
 # Conclusiones
 ### Conclusiones y recomendaciones
