@@ -446,40 +446,67 @@ El objetivo principal de las entrevistas es comprender las necesidades de nuestr
 
 ### 2.2.2. Registro de entrevistas
 
-Entrevista 1
+<b> Segmento 1: Propietarios de Vehículos </b>
+
+<b> Entrevista 1 </b> <br>
 Entrevistador: Alvaro Pinto
 
-Nombre: Diego
-Apellidos: Cano Acero
-Edad: 22 años
-Distrito: Lima
-Link de la entrevista: [el link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/EfELYv151I5Kui6rEtJQV0sBHB77UhrNxgbz7ODTbZuJyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Zp9b7b)
-Duración: 5:00 minutos
-Inicio de la entrevista: 0:02
-Evidencia de la reunión: la foto de la reunion
+- Nombre: Diego
+- Apellidos: Cano Acero
+- Edad: 22 años
+- Distrito: Lima
+- Link de la entrevista: [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/EfELYv151I5Kui6rEtJQV0sBHB77UhrNxgbz7ODTbZuJyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Zp9b7b)
+- Duración: 5:00 minutos
+- Inicio de la entrevista: 0:01
 
+Evidencia de la reunión:
 <p align="center">
-  <img src="images/Entrevista_1_Cano.png" alt="Entrevista_1_Cano" width="100%">
+  <img src="images/Entrevista_1_Cano.png" alt="Entrevista_1_Cano" width="500px">
 </p>
 
 Resumen de la entrevista:
 
 En la entrevista, Diego Cano nos comparte su opinión sobre algunas de las funcionalidades pensadas para el producto TakeMyCar. Durante la conversación, expresó su interés en probar la plataforma, ya que muchas de las funciones le parecieron bastante atractivas. En particular, destacó las relacionadas con la seguridad, pues como es comprensible, siente cierta desconfianza al dejar su vehículo en manos de un desconocido. Este aspecto le resulta crucial, dado que considera fundamental que el sistema ofrezca garantías de protección tanto para los arrendadores como para los propietarios de los vehículos.
 
-Entrevista 2 <br>
-Entrevistador: Luis Andres Arce H <br>
-Entrevistado: Luis Angel Cisneros Machado. <br>
-Edad:26 años <br>
-Distrito: Lima<br>
-Link de la entrevista: https://drive.google.com/drive/folders/1reYiYDw77zsWpNHyKBE0rSQRouw1oCa0?usp=share_link <br>
-Duracion: 10 minutos. <br>
-Inicio de la entrevista:0.02 <br>
-Evidencia: Foto de la reunion 
-<br>
+<b> Entrevista 2 </b> <br>
+Entrevistador: Aaron Cruz
+
+- Nombre: Franchesco Alexis
+- Apellidos: Soto Morales
+- Edad: 22 años
+- Distrito: Lima
+- Link de la entrevista: [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EbhcYmyn-y1JlD7N3pR5cwoBN9sSJpjLNJq1wA_k8zbvuQ?e=orHWDs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Duración: 5:18 minutos
+- Inicio de la entrevista: 0:02
+
+Evidencia de la reunión:
 <p align="center">
-  <img src="images/entrevista2.png" alt="Entrevista_2" width="100%">
+  <img src="images/Entrevista_2_Soto.png" alt="Entrevista_1_Cano" width="500px">
 </p>
 
+Resumen de la entrevista:
+
+Franchesco Soto, nos comenta que su posee un vehículo de uso personal y familiar, por lo que, comenta que nornalmente no usa su auto y se encuentra guardado en el interior de su hogar. Con respecto al tema de alquiler, comenta que no conoce alguna plataforma o medio para alquilar su vehículo de confianza, argumentando que la principal condición será la confianza al momento de alquilar su vehículo y la correcta compesación monetaria, la cual le agrada porque menciona que son ingresos pasivos bajo una modalidad sencilla.
+
+<b> Segmento 2: Usuarios Arrendatarios </b>
+
+<b> Entrevista 1 </b> <br>
+Entrevistador: Andres Arce
+
+- Nombre: Luis Angel 
+- Apellidos: Cisneros Machado. 
+- 0Edad:26 años 
+- Distrito: Lima
+- Link de la entrevista: [Link Entrevista](https://drive.google.com/drive/folders/1reYiYDw77zsWpNHyKBE0rSQRouw1oCa0?usp=share_link) 
+- Duracion: 10 minutos. 
+- Inicio de la entrevista:0.02 
+
+Evidenciade la reunión:
+<p align="center">
+  <img src="images/entrevista2.png" alt="Entrevista_2" width="500px 0">
+</p>
+
+Resumen de la entrevista:
 
 ### 2.2.3. Análisis de entrevistas
 <br>
