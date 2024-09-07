@@ -490,14 +490,14 @@ Franchesco Soto, nos comenta que su posee un vehículo de uso personal y familia
 
 <b> Segmento 2: Usuarios Arrendatarios </b>
 
-<b> Entrevista 1 </b> <br>
+<b> Entrevista 3 </b> <br>
 Entrevistador: Andres Arce
 
 - Nombre: Luis Angel 
 - Apellidos: Cisneros Machado. 
 - 0Edad:26 años 
 - Distrito: Lima
-- Link de la entrevista: [Link Entrevista](https://drive.google.com/drive/folders/1reYiYDw77zsWpNHyKBE0rSQRouw1oCa0?usp=share_link) 
+- Link de la entrevista: [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a300_upc_edu_pe/EaDsZbmPN0hEvMjf6rvzNPIBfIzc3RIp9dfPoT25VaER8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9OdDIu) 
 - Duracion: 10 minutos. 
 - Inicio de la entrevista:0.02 
 
