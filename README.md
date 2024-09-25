@@ -113,7 +113,7 @@ Agosto del 2024
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;"><strong> Comunica oralmente con efectividad a diferentes rangos de audiencia</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
@@ -123,11 +123,11 @@ Agosto del 2024
           <li>Cruz Ticona, Aaron Alejandro:</li>
           <li>Ramos Huamanchumo, Javier: </li>
         </ul> 
-      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sera la base para el sustento oral para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;"><strong> Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
