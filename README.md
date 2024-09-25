@@ -593,35 +593,46 @@ Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
 
 ### 4.6.1. Software Architecture Context Diagram
 <p align="center">
-  <img src="images/Software Architecture Context Diagram.png" alt="Software Architecture Context Diagram" width="100%">
-</p>
-
-Elementos del diagrama:
-
-<p align="center">
-  <img src="images/Software Architecture Context Diagram_Elementos del diagrama.png" alt="Software Architecture Context Diagram_Elementos del diagrama" width="100%">
+  <img src="images/structurizr-95615-Contexto.png" alt="Software Architecture Context Diagram" width="100%">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="images/Software Architecture Container Diagrams.png" alt="Software Architecture Container Diagrams" width="100%">
+  <img src="images/structurizr-95615-Contenedor.png" alt="Software Architecture Container Diagrams" width="100%">
 </p>
 
-Elementos del diagrama:
-<p align="center">
-  <img src="images/Software Architecture Container Diagrams_Elementos del diagrama.png" alt="Software Architecture Container Diagrams" width="100%">
-</p>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+#### Bounded Context: Account
+
 <p align="center">
-  <img src="images/Software Architecture Components Diagrams.png" alt="Software Architecture Components Diagrams" width="100%">
+  <img src="images/structurizr-95615-Account BC Component Diagram.png" alt="Software Architecture Components Diagrams" width="100%">
 </p>
 
-Elementos del diagrama:
+#### Bounded Context: Users
+
 <p align="center">
-  <img src="images/Software Architecture Components Diagrams_Elementos del diagrama.png" alt="Software Architecture Components Diagrams_Elementos del diagrama" width="100%">
+  <img src="images/structurizr-95615-Users BC Component Diagram.png" alt="Software Architecture Components Diagrams" width="100%">
+</p>
+
+#### Bounded Context: Payment
+
+<p align="center">
+  <img src="images/structurizr-95615-Payment BC Component Diagram.png" alt="Software Architecture Components Diagrams" width="100%">
+</p>
+
+#### Bounded Context: Publication
+
+<p align="center">
+  <img src="images/structurizr-95615-Publication BC Component Diagram.png" alt="Software Architecture Components Diagrams" width="100%">
+</p>
+
+#### Bounded Context: Security
+
+<p align="center">
+  <img src="images/structurizr-95615-Security BC Component Diagram.png" alt="Software Architecture Components Diagrams" width="100%">
 </p>
 
 ## 4.7. Software Object-Oriented Design
