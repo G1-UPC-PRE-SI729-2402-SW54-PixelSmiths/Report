@@ -510,8 +510,15 @@ Resumen de la entrevista:
 
 ### 2.2.3. Análisis de entrevistas
 <br>
-<p>Las entrevistas realizadas a usuarios de ambos segmentos, arrendadores y arrendatarios, revelaron perspectivas claves sobre sus expectativas y preocupaciones al usar la plataforma. Los arrendadores, en su mayoría propietarios de vehículos, destacaron su motivación por generar ingresos adicionales. Sin embargo, mostraron inquietud respecto al estado en el que quedará su vehículo después del alquiler, así como la puntualidad en los pagos. Consideran esencial un proceso eficiente y claro para la entrega y devolución del auto, así como garantías de protección en caso de daños. Por otro lado, los arrendatarios valoran la flexibilidad que ofrece la plataforma para alquilar vehículos según sus necesidades, pero subrayaron la importancia de una experiencia de uso fluida y sin complicaciones. Sus preocupaciones principales incluyen la transparencia en los precios, evitando costos ocultos, y la calidad de los vehículos disponibles.</p>
+
+<h2>Analisis Segmento 1:</h2>
+
+<p>Las entrevistas realizadas a los arrendadores, revelaron perspectivas claves sobre sus expectativas y preocupaciones al usar la plataforma y el sistema. Los arrendadores, en su mayoría propietarios de vehículos, destacaron su motivación por generar ingresos adicionales. Sin embargo, mostraron inquietud respecto al estado en el que quedará su vehículo después del alquiler, así como la puntualidad en los pagos. Consideran esencial un proceso eficiente y claro para la entrega y devolución del auto, así como garantías de protección en caso de daños. </p>
 <br>
+
+<h2>Analisis Segmento 2:</h2>
+
+<p>Las entrevistas para el segmento 2, quien se identifica como un usuario que tiene la necesidad de alquilar un auto por la necesidad de uso y el ahorro que existira con respecto a tiempo y disponibilidad. Menciona que su experiencia alquilando vehículos no es tan amplia, pero bajo una plataforma no existe la confianza debido al desconocimiento de este servicio. De la misma manera, encuentra ideal encontrar un lugar para alquilar a precios accesibles y justos, mencionando que también le gustaría una interfaz interactiva sencilla.</p>
 
 
 ## 2.3. Needfinding
@@ -526,8 +533,20 @@ Resumen de la entrevista:
 
 
 ### 2.3.2. User Task Matrix
-En este segmento se crea el user task matrix apartir de los user persona
-<img src="images/UserTaskMatrix.png" alt="UTM" />
+
+En esta sección, el User Task Matrix esta centrada en las principales actividades dee uestros dos User Personas. Cada uno de estos segmentos tiene necesidades y objetivos específicos.
+
+|Tareas / User Persona|Frecuencia (Martin Ruiz)|Importancia (Martin Ruiz)|Frecuencia (Maria Sanchez)|Importancia (Maria Sanchez)|
+| :- | :- | :- | :- | :- |
+|Visualización de vehículos|A menudo|Media|Muy a menudo|Alta|
+|Alquilar un vehículo|Poco|Media|Muy a menudo|Alta|
+|Pasarela de Pagos|A menudo|Alta|A menudo|Alta|
+|Registrar mi reserva|Muy a menudo|Media|A menudo|Alta|
+|Gestión de reservas|A menudo|Alta|A menudo|Media|
+|Implementación de garantías y condiciones|Siempre|Alta|A menudo|Media|
+|Especificar disponibilidades|A menudo|Alta|A menudo|Media|
+|Comunicación con la plataforma|Muy a menudo|Alta|A menudo|Alta|
+|Seguimiento de operaciones|A menudo|Media|Siempre|Media|
 
 
 ### 2.3.3. User Journey Mapping
