@@ -85,6 +85,30 @@ Agosto del 2024
         </ul>
       </td>
   </tr>
+      <tr>
+      <td><strong>TP</strong></td>
+      <td>Miercoles 25 de Setiembre</td>
+      <td>
+        <ul>
+          <li>Ramos Carpio, Karen</li>
+          <li>Arce Huaman, Luis Andres</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
+          <li>Cruz Ticona, Aaron Alejandro</li>
+          <li>Ramos Huamanchumo, Javier</li>
+        </ul>
+      </td>
+      <td>
+        Se han editado los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -118,13 +142,14 @@ Agosto del 2024
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li>Ramos Carpio, Karen:</li>
-          <li>Arce Huaman, Luis Andres:</li>
-          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
-          <li>Cruz Ticona, Aaron Alejandro:</li>
-          <li>Ramos Huamanchumo, Javier: </li>
+          <li>Ramos Carpio, Karen: Me siento satisfecha por haber trabajado en un entorno colaborativo donde se valoran las contribuciones de todos los miembros del equipo, lo que me ha hecho sentir parte de un equipo               cohesionado y alineado con los objetivos, tranaje en el capitulo 5, recopilando toda la informacion de las herramientas trabajadas asi como de los despligues de lo trabajado.</li>
         </ul> 
-      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+        <ul>
+          <p><strong>TP</strong></p>
+          <li>Ramos Carpio, Karen: Trabaje en subsanar todo lo que tenia errores para poder alcanzar una nota maxima, La experiencia de trabajar con equipos multidisciplinarios y enfrentar los desafíos técnicos y de                 coordinación ha sido enriquecedora. He podido mejorar mis habilidades técnicas y de comunicación, además de desarrollar una mayor capacidad para adaptarme a diferentes contextos y perspectivas. </li>
+        </ul> 
+      <td><strong>TB1:</strong><p align="justify">Se logró realizar el trabajo cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+        <strong>TP:</strong><p align="justify">En el marco del desarrollo de este proyecto, he adquirido la capacidad de comunicar de manera efectiva y objetiva ideas y resultados a públicos con diferentes niveles de especialización. Esta habilidad fue especialmente valiosa al trabajar en el desarrollo del front, donde fue necesario coordinar con equipos técnicos y no técnicos para garantizar que los objetivos del proyecto se entendieran y ejecutaran correctamente. A lo largo del proceso, la comunicación clara facilitó la toma de decisiones estratégicas y la resolución de problemas, asegurando así el éxito de la implementación del producto.</p>
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
@@ -132,15 +157,18 @@ Agosto del 2024
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li>Ramos Carpio, Karen:</li>
-          <li>Arce Huaman, Luis Andres:</li>
-          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
-          <li>Cruz Ticona, Aaron Alejandro:</li>
-          <li>Ramos Huamanchumo, Javier: </li>
+          <li>Ramos Carpio, Karen: Durante el desarrollo del proyecto, trabajé en la implementación del producto, específicamente en el Capítulo 5, donde participé activamente en la creación y optimización de la landing           page. A lo largo de esta fase, me aseguré de comunicar de manera clara y objetiva los avances y resultados a un público diverso, desde especialistas técnicos hasta partes interesadas no técnicas. Esta                     comunicación fue clave para alinear las expectativas del equipo y tomar decisiones informadas sobre el diseño, funcionalidad y despliegue de la landing page, logrando una implementación efectiva y sin                     contratiempos</li>
+        </ul> 
+         <ul>
+          <p><strong>TP</strong></p>
+          <li>Ramos Carpio, Karen: A lo largo del desarrollo del proyecto, he tenido la oportunidad de comunicar oralmente las ideas y resultados obtenidos de manera clara y objetiva a audiencias de diferentes                       especialidades y niveles jerárquicos. En particular, mi trabajo en el desarrollo del frontend y la solución de fallas en capítulos clave del proyecto me permitió presentar de manera efectiva los avances                    técnicos y desafíos, asegurando que todos los involucrados, desde desarrolladores hasta responsables de toma de decisiones, comprendieran el estado actual del proyecto y pudieran colaborar de manera eficiente           en la resolución de problemas.</li>
         </ul> 
       </td>
       <td><p><strong>TB1</strong></p>
         <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
+        <br>
+        <p><strong>TP</strong></p>
+        <p align="justify">En conclusión, el desarrollo del proyecto nos ha permitido fortalecer mis habilidades técnicas y de comunicación, especialmente al enfrentar desafíos relacionados con la implementación y despliegue de componentes clave como el frontend. Esta experiencia ha sido altamente enriquecedora, no solo por los resultados alcanzados, sino también por el crecimiento personal y profesional obtenido durante el proceso.</p>
         <br>
     </tr>
   </tbody>
