@@ -7,17 +7,17 @@
 **Paleta de colores**: Nuestra selección en la paleta de colores se basa en la atención a la legibilidad y buen aspecto de nuestra landing page. El color #002e43 se usa como color principal para resaltar elemento importantes, luego el color #406378 se usa para subtítulos y otros apartados de una ligera menor relevancia, en el caso del color #6a90a9 se utiliza en el cuerpo y en otras áreas para contrastar con los títulos y subtítulos, finalmente para los colores #b2c3d3 y #d7dce0 se usarán de fondo. Estos colores se usarán de forma inteligente para poder presentar una jerarquía visual clara e intuitiva.
 
 <p align="center">
-  <img src="../images/paletaColores.png" alt="Paleta de Colores" width="50%">
+  <img src="../../images/paletaColores.png" alt="Paleta de Colores" width="50%">
 </p>
 
 **Branding**: Para el branding de nuestra empresa se creó el nombre de la marca con el objetivo de establecer una identidad, presencia relevante e imponente en el mercado. Para una mejor identificación de nuestra empresa se creó el logo:
 
-<p style="text-align: center" align="center"> <p align="center"><img src="../images/logoStartup.png" alt="Logo Startup" width="20%"></p></p>
+<p style="text-align: center" align="center"> <p align="center"><img src="../../images/logoStartup.png" alt="Logo Startup" width="20%"></p></p>
 
 **Tipografía**: Para dar una aire diferente a nuestra marca se ha optado por el uso de la fuente “Suse" que presenta una gran variedad de estilos. Esta fuente debe ser símbolo de nuestra marca y de cumplir el objetivo de transmitir información con una identidad visual sólida y reconocible. Adicionalmente, esta tipografía es apropiada para lograr un diseño cohesivo y equilibrado que contribuye a nuestro reconocimiento en el mercado objetivo.
 
 <p align="center">
-  <img src="../images/SuseFont.png" alt="Roboto Mono Font" width="80%">
+  <img src="../../images/SuseFont.png" alt="Roboto Mono Font" width="80%">
 </p>
 
 **Spacing**: Se hará uso de un espaciado pertinente para no abrumar al cliente con textos abarrotados que no contribuyen a la estética y contrariamente desmotivan a leer. Además, un correcto uso del espaciado en el texto también puede dar la impresión de una página más limpia y moderna, que es uno de los objetivos que hemos planteado para crear un mejor ambiente para el cliente.
@@ -29,13 +29,13 @@
 **Colores**: En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el azul eléctrico como color principal, buscamos transmitir una sensación de energía, modernidad y confianza a nuestros visitantes.Adicionalmente utilizamos colores complementarios como #406378,#6a90a9 ,#b2c3d3,#d7dce0 y el color negro para dar contraste en los menus.
 
 <p align="center">
-  <img src="../images/paletaColores.png" alt="Paleta de Colores" width="50%">
+  <img src="../../images/paletaColores.png" alt="Paleta de Colores" width="50%">
 </p>
 
 **Tipografía**: Además, hemos optado por emplear la tipografía Reboto Mono debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web, adicionalmente pensamos usar los distintos tamaños de letra según sea necesario en el texto de cara a dar una mejor perspectiva de jerarquía en el texto, así podremos separar los títulos, subtítulos y el cuerpo de una mejor forma.
 
 <p align="center">
-  <img src="../images/robotoMonoFont.png" alt="Roboto Mono Font" width="80%">
+  <img src="../../images/robotoMonoFont.png" alt="Roboto Mono Font" width="80%">
 </p>
 
 **Formas**: Se decidió emplear figuras con bordes ligeramente redondeados en el proyecto para proporcionar una apariencia más ordenada y pulida, lo que contribuye a una experiencia visual más agradable para los usuarios.
@@ -169,19 +169,19 @@ El sistema de navegación debe proporcionar una experiencia fluida para que los 
 
 <b>Inicio</b>
 
-<img src="../images/Wireframe_LP_1.png" alt="Wireframe_LP_1" widht="100%"> <br>
+<img src="../../images/Wireframe_LP_1.png" alt="Wireframe_LP_1" widht="100%"> <br>
 
 <b>¿Qué Ofrecemos?</b>
 
-<img src="../images/Wireframe_LP_2.png" alt="Wireframe_LP_2" widht="100%"> <br>
+<img src="../../images/Wireframe_LP_2.png" alt="Wireframe_LP_2" widht="100%"> <br>
 
 <b>Sobre Nosotros</b>
 
-<img src="../images/Wireframe_LP_3.png" alt="Wireframe_LP_3" widht="100%"> <br>
+<img src="../../images/Wireframe_LP_3.png" alt="Wireframe_LP_3" widht="100%"> <br>
 
 <b>Contactanos</b>
 
-<img src="../images/Wireframe_LP_4.png" alt="Wireframe_LP_4" widht="100%"> <br>
+<img src="../../images/Wireframe_LP_4.png" alt="Wireframe_LP_4" widht="100%"> <br>
 
 Link Figma: https://www.figma.com/design/MBSIX1vJn3vkom8QoemG9p/Landing-Page-Wireframes-and-Mock-Up?node-id=0-1&t=ZaWVeTFBY7IddA7d-1
 
@@ -191,19 +191,19 @@ Tomando en cuenta los Wireframes, adoptado una estructura uniforme para todas la
 
 <b>Inicio</b>
 
-<img src="../images/Moch-Up_LP_1.png" alt="Moch-Up_LP_1" widht="100%"> <br>
+<img src="../../images/Moch-Up_LP_1.png" alt="Moch-Up_LP_1" widht="100%"> <br>
 
 <b>¿Qué Ofrecemos?</b>
 
-<img src="../images/Moch-Up_LP_2.png" alt="Moch-Up_LP_2" widht="100%"> <br>
+<img src="../../images/Moch-Up_LP_2.png" alt="Moch-Up_LP_2" widht="100%"> <br>
 
 <b>Sobre Nosotros</b>
 
-<img src="../images/Moch-Up_LP_3.png" alt="Moch-Up_LP_3" widht="100%"> <br>
+<img src="../../images/Moch-Up_LP_3.png" alt="Moch-Up_LP_3" widht="100%"> <br>
 
 <b>Contactanos</b>
 
-<img src="../images/Moch-Up_LP_4.png" alt="Moch-Up_LP_4" widht="100%"> <br>
+<img src="../../images/Moch-Up_LP_4.png" alt="Moch-Up_LP_4" widht="100%"> <br>
 
 Link Figma: https://www.figma.com/design/MBSIX1vJn3vkom8QoemG9p/Landing-Page-Wireframes-and-Mock-Up?node-id=0-1&t=ZaWVeTFBY7IddA7d-1
 
@@ -216,29 +216,29 @@ Link Figma : https://www.figma.com/design/IJfwgFrR0vsiqOXYDn6wkZ/Web-Application
 Tomando en cuenta nuestras entrevistas para el segmento de propietarios de uno o más vehículos propios, se prefiere un entorno de escritorio en el que hemos integrado funcionalidades como la gestión de vehiculos, añadir vehiculos, la administración de facturas de alquileres y la modificación del perfil.
 
 <p align="center">
-  <img src="../images/AppWeb_Wireframe_Seg1_Grupo1.png" alt="AppWeb_Wireframe_Seg1_Grupo1" width="100%">
+  <img src="../../images/AppWeb_Wireframe_Seg1_Grupo1.png" alt="AppWeb_Wireframe_Seg1_Grupo1" width="100%">
 </p>
 
 <p align="center">
-  <img src="../images/AppWeb_Wireframe_Seg1_Grupo2.png" alt="AppWeb_Wireframe_Seg1_Grupo2" width="100%">
+  <img src="../../images/AppWeb_Wireframe_Seg1_Grupo2.png" alt="AppWeb_Wireframe_Seg1_Grupo2" width="100%">
 </p>
 
 <p align="center">
-  <img src="../images/AppWeb_Wireframe_Seg1_Grupo3.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
+  <img src="../../images/AppWeb_Wireframe_Seg1_Grupo3.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
 </p>
 
 Por otro lado, para el segmento de usuarios que tienen la necesidad de alquilar un vehículo, se prefiere un entorno movil en el que hemos integrado funcionalidades como la visualización de los vehiculos más populares, la busqueda con los filtros, historial y el perfil.
 
 <p align="center">
-  <img src="../images/AppWeb_Wireframe_Seg2_Grupo1.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
+  <img src="../../images/AppWeb_Wireframe_Seg2_Grupo1.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
 </p>
 
 <p align="center">
-  <img src="../images/AppWeb_Wireframe_Seg2_Grupo2.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
+  <img src="../../images/AppWeb_Wireframe_Seg2_Grupo2.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
 </p>
 
 <p align="center">
-  <img src="../images/AppWeb_Wireframe_Seg2_Grupo3.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
+  <img src="../../images/AppWeb_Wireframe_Seg2_Grupo3.png" alt="AppWeb_Wireframe_Seg1_Grupo3" width="100%">
 </p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -262,37 +262,37 @@ Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
 ### 4.6.1. Software Architecture Context Diagram
 
 <p align="center">
-  <img src="../images/Software Architecture Context Diagram.png" alt="Software Architecture Context Diagram" width="100%">
+  <img src="../../images/Software Architecture Context Diagram.png" alt="Software Architecture Context Diagram" width="100%">
 </p>
 
 Elementos del diagrama:
 
 <p align="center">
-  <img src="../images/Software Architecture Context Diagram_Elementos del diagrama.png" alt="Software Architecture Context Diagram_Elementos del diagrama" width="100%">
+  <img src="../../images/Software Architecture Context Diagram_Elementos del diagrama.png" alt="Software Architecture Context Diagram_Elementos del diagrama" width="100%">
 </p>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="../images/Software Architecture Container Diagrams.png" alt="Software Architecture Container Diagrams" width="100%">
+  <img src="../../images/Software Architecture Container Diagrams.png" alt="Software Architecture Container Diagrams" width="100%">
 </p>
 
 Elementos del diagrama:
 
 <p align="center">
-  <img src="../images/Software Architecture Container Diagrams_Elementos del diagrama.png" alt="Software Architecture Container Diagrams" width="100%">
+  <img src="../../images/Software Architecture Container Diagrams_Elementos del diagrama.png" alt="Software Architecture Container Diagrams" width="100%">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 <p align="center">
-  <img src="../images/Software Architecture Components Diagrams.png" alt="Software Architecture Components Diagrams" width="100%">
+  <img src="../../images/Software Architecture Components Diagrams.png" alt="Software Architecture Components Diagrams" width="100%">
 </p>
 
 Elementos del diagrama:
 
 <p align="center">
-  <img src="../images/Software Architecture Components Diagrams_Elementos del diagrama.png" alt="Software Architecture Components Diagrams_Elementos del diagrama" width="100%">
+  <img src="../../images/Software Architecture Components Diagrams_Elementos del diagrama.png" alt="Software Architecture Components Diagrams_Elementos del diagrama" width="100%">
 </p>
 
 ## 4.7. Software Object-Oriented Design
@@ -305,7 +305,7 @@ En este capitulo veremos el diseño de nuestros "objetos". Estos objetos represe
 En este diagrama de clases se muestran las clases que componen la aplicación TakeMyCar.
 </p>
 
-<img src="../images/TakeMyCar-Diagram-Class-Diagram.png" alt="Class Diagram">
+<img src="./uml.drawio.png" alt="Class Diagram">
 
 ### 4.7.2. Class Dictionary
 
@@ -314,7 +314,7 @@ En este apartado detallamos cada clase de nuestro diagrama
 </p>
 <br>
 
-<div align="center">
+<div >
     <h3>User Class</h3>
     <table>
       <thead>
@@ -326,12 +326,12 @@ En este apartado detallamos cada clase de nuestro diagrama
       </thead>
       <tbody>
           <tr>
-              <td>userID</td>
+              <td>id</td>
               <td>string</td>
               <td>Identificador único del usuario</td>
           </tr>
           <tr>
-              <td>nombre</td>
+              <td>name</td>
               <td>string</td>
               <td>Nombre del usuario</td>
           </tr>
@@ -346,28 +346,28 @@ En este apartado detallamos cada clase de nuestro diagrama
               <td>Contraseña del usuario</td>
           </tr>  
           <tr>
-              <td>direccion</td>
+              <td>address</td>
               <td>string</td>
               <td>Dirección del usuario</td>
           </tr>
           <tr>
-              <td>telefono</td>
+              <td>phone</td>
               <td>string</td>
               <td>Telefono del usuario</td>
           </tr> 
           <tr>
-              <td>FechaRegistro</td>
+              <td>createdAt</td>
               <td>date</td>
               <td>Fecha de Registro del usuario</td>
           </tr>
         <tr>
-              <td>TipoUsuario</td>
+              <td>role</td>
               <td>list</td>
-              <td>Tipo de usuario</td>
+              <td>Rol de usuario</td>
           </tr>
       </tbody>
     </table>
-    <h3>Vehiculo Class</h3>
+    <h3>Vehicle Class</h3>
     <table>
       <thead>
           <tr>
@@ -378,27 +378,37 @@ En este apartado detallamos cada clase de nuestro diagrama
       </thead>
       <tbody>
           <tr>
-              <td>vehicleid</td>
+              <td>id</td>
               <td>int</td>
               <td>Identificador único del vehiculo</td>
           </tr>
           <tr>
-              <td>marca</td>
+              <td>propietaryId</td>
+              <td>int</td>
+              <td>Identificador del Propietario</td>
+          </tr>
+          <tr>
+              <td>brand</td>
               <td>string</td>
               <td>Marca del vehiculo</td>
           </tr>
           <tr>
-              <td>modelo</td>
+              <td>model</td>
               <td>string</td>
               <td>Modelo del vehiculo</td>
           </tr>
           <tr>
-              <td>anno</td>
+              <td>priceByDay</td>
               <td>int</td>
-              <td>Año del vehiculo</td>
+              <td>Precio de arrendamiento vehiculo</td>
           </tr>
           <tr>
-              <td>placa</td>
+              <td>yean</td>
+              <td>int</td>
+              <td>Año de arrendamiento vehiculo</td>
+          </tr>
+          <tr>
+              <td>plate</td>
               <td>string</td>
               <td>Placa del vehiculo</td>
           </tr>
@@ -408,28 +418,18 @@ En este apartado detallamos cada clase de nuestro diagrama
               <td>Color del vehiculo</td>
           </tr>
           <tr>
-              <td>kilometraje</td>
+              <td>km</td>
               <td>float</td>
               <td>Kilometraje del vehiculo</td>
           </tr>
           <tr>
-              <td>precioXdia</td>
-              <td>float</td>
-              <td>Precio por dia del vehiculo</td>
-          </tr>
-          <tr>
-              <td>estado</td>
-              <td>list</td>
-              <td>Estado del vehiculo</td>
-          </tr>
-          <tr>
-              <td>propietarioID</td>
-              <td>string</td>
-              <td>Id del Propietario del vehiculo</td>
+              <td>images</td>
+              <td>string list</td>
+              <td>Imagenes del vehiculo</td>
           </tr>
       </tbody>
     </table>
-    <h3>Reserva class</h3>
+    <h3>Booking class</h3>
     <table>
       <thead>
           <tr>
@@ -440,7 +440,7 @@ En este apartado detallamos cada clase de nuestro diagrama
       </thead>
       <tbody>
           <tr>
-              <td>bookingid</td>
+              <td>id</td>
               <td>int</td>
               <td>Identificador único de la reserva</td>
           </tr>
@@ -450,33 +450,33 @@ En este apartado detallamos cada clase de nuestro diagrama
               <td>Identificardo de cada vehiculo</td>
           </tr>
           <tr>
-              <td>arrendatarioID</td>
+              <td>renterId</td>
               <td>string</td>
               <td>Identificador de cada usuario arrendatario</td>
           </tr>
           <tr>
-              <td>fechaInicio</td>
+              <td>startDate</td>
               <td>date</td>
               <td>Fecha de inicio de cada reserva</td>
           </tr>
           <tr>
-              <td>fechaFin</td>
+              <td>endDate</td>
               <td>date</td>
               <td>Fecha de fin de cada reserva</td>
           </tr>
           <tr>
-              <td>estadoReserva</td>
+              <td>bookingState</td>
               <td>int</td>
               <td>Estado de cada reserva</td>
           </tr>
           <tr>
-              <td>precioTotal</td>
+              <td>totalPrice</td>
               <td>float</td>
               <td>Precio de cada reserva</td>
           </tr>
       </tbody>
     </table>
-    <h3>Pago class</h3>
+    <h3>Invoice class</h3>
     <table>
       <thead>
           <tr>
@@ -487,32 +487,32 @@ En este apartado detallamos cada clase de nuestro diagrama
       </thead>
       <tbody>
         <tr>
-            <td>paymentID</td>
+            <td>id</td>
             <td>int</td>
             <td>Identificador único de los pagos</td>
         </tr>
         <tr>
-            <td>bookingID</td>
+            <td>bookingId</td>
             <td>Booking</td>
             <td>Identificador de las reservas</td>
         </tr>
         <tr>
-            <td>monto</td>
+            <td>ammount</td>
             <td>float</td>
             <td>Monto de cada reserva</td>
         </tr>
         <tr>
-            <td>fechaPago</td>
+            <td>paymentDate</td>
             <td>date</td>
             <td>Fecha de la pago de una reserva</td>
         </tr>
         <tr>
-            <td>metoddoPago</td>
+            <td>paymentMethod</td>
             <td>list</td>
             <td>metodo de pago de cada reserva</td>
         </tr>
         <tr>
-            <td>estadoPago</td>
+            <td>paymentState</td>
             <td>list</td>
             <td>Estado de pago dla reserva</td>
         </tr>
@@ -529,38 +529,38 @@ En este apartado detallamos cada clase de nuestro diagrama
       </thead>
       <tbody>
         <tr>
-            <td>reviewID</td>
+            <td>id</td>
             <td>int</td>
             <td>Identificador de las reseñas</td>
         </tr>
         <tr>
-            <td>bookingID</td>
+            <td>authorId</td>
             <td>Booking</td>
             <td>Reserva observada</td>
         </tr>
         <tr>
-            <td>autorID</td>
+            <td>vehicleId</td>
             <td>User</td>
             <td>Usuario relacionado</td>
         </tr>
         <tr>
-            <td>calificacion</td>
+            <td>rating</td>
             <td>int</td>
-            <td></td>
+            <td>Calificacion</td>
         </tr>
         <tr>
-            <td>comentario</td>
+            <td>comment</td>
             <td>string</td>
-            <td></td>
+            <td>Comentario</td>
         </tr>
         <tr>
-            <td>fechaResenna</td>
+            <td>createdAt</td>
             <td>string</td>
-            <td></td>
+            <td>Fecha de la reseña</td>
         </tr>
       </tbody>
     </table>
-    <h3>Mensaje class</h3>
+    <h3>Message class</h3>
       <table>
         <thead>
             <tr>
@@ -571,7 +571,7 @@ En este apartado detallamos cada clase de nuestro diagrama
         </thead>
         <tbody>
           <tr>
-              <td>nessageID</td>
+              <td>id</td>
               <td>int</td>
               <td>Identificador único de cada mensaje</td>
           </tr>
@@ -586,48 +586,21 @@ En este apartado detallamos cada clase de nuestro diagrama
               <td>Usuario que recibe un mensaje</td>
           </tr>
           <tr>
-              <td>contenido</td>
+              <td>content</td>
               <td>string</td>
               <td>Fecha del recordatorio</td>
           </tr>
           <tr>
-              <td>fechaEnvio</td>
+              <td>createdAt</td>
               <td>date</td>
-              <td>Fecha del recordatorio</td>
+              <td>Fecha del mensaje</td>
           </tr>
         </tbody>
       </table>
-    <h3>Subscription class</h3>
-    <table>
-      <thead>
-          <tr>
-              <th>Attribute</th>
-              <th>Type</th>
-              <th>Description</th>
-          </tr>
-      </thead>
-    <tbody>
-        <tr>
-            <td>id</td>
-            <td>int</td>
-            <td>Identifica la suscripción</td>
-        </tr>
-        <tr>
-            <td>paymet_code</td>
-            <td>string</td>
-            <td>Codigo generado por el sistema paymet para la validacion del pago</td>
-        </tr>
-        <tr>
-          <td>Expire_date</td>
-          <td>date</td>
-          <td>Fecha de expiración de la suscripción</td>
-        </tr>
-    </tbody>
-  </table>
   </div>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-<img src="../images/bd.png" alt="Database Diagram"> <br>
+<img src="../../../../images/bd.png" alt="Database Diagram"> <br>

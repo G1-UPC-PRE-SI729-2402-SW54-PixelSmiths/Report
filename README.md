@@ -184,14 +184,14 @@ URL Project Report (Github): https://github.com/G1-UPC-PRE-SI729-2402-SW54-Pixel
   - [2.3.5. As-is Scenario Mapping]()
 - [2.4. Ubiquitous Language]()
 
-### [Capítulo III: Requirements Specification](./chapters/chapter3.md#capítulo-iii-requirements-specification-1)
+### [Capítulo III: Requirements Specification](./chapters/chapter3/chapter3.md#capítulo-iii-requirements-specification-1)
 
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
+- [3.1. To-Be Scenario Mapping](./chapters/chapter3.md#31-to-be-scenario-mapping)
+- [3.2. User Stories](./chapters/chapter3.md#32-user-stories)
+- [3.3. Impact Mapping](./chapters/chapter3.md#33-impact-mapping)
+- [3.4. Product Backlog](./chapters/chapter3.md#34-product-backlog)
 
-### [Capítulo IV: Product Design](./chapters/chapter4.md#capítulo-iv-product-design-1)
+### [Capítulo IV: Product Design](./chapters/chapter4/chapter4.md#capítulo-iv-product-design-1)
 
 - [4.1. Style Guidelines]()
   - [4.1.1. General Style Guidelines]()

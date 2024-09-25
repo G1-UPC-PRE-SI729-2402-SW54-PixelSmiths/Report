@@ -1,12 +1,18 @@
 # Capítulo III: Requirements Specification
 
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
+
+
 ## 3.1. To-Be Scenario Mapping
 
 Objetivo
 Crear una plataforma que simplifique la gestión entre propietarios y arrendatarios para el alquiler de vehículos, maximizando la rentabilidad de los vehículos no utilizados y proporcionando una solución de movilidad flexible.
 
 <p align="center">
-  <img src="../images/tobe.png" alt="To be scenario mapping" width="100%">
+  <img src="../../images/tobe.png" alt="To be scenario mapping" width="100%">
 </p>
 
 ## 3.2. User Stories
@@ -27,7 +33,7 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 ## 3.3. Impact Mapping
 
 <p align="center">
-  <img src="../images/impact-mapping.png" alt="To be scenario mapping" width="100%">
+  <img src="../../images/impact-mapping.png" alt="To be scenario mapping" width="100%">
 </p>
 
 ## 3.4. Product Backlog
