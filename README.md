@@ -1588,11 +1588,79 @@ Por otro lado, para el segmento de usuarios que tienen la necesidad de alquilar 
 
 Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1
 
+Propietarios de uno o más vehículos propios:
+
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg1_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+
+Usuarios que tienen la necesidad de alquilar un vehículo:
+
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg2_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg2_2.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg2_3.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+
 ### 4.4.3. Web Applications Mock-ups
 
-Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1
+Se empleó la estructura definida en los wireframes como base para cada una de las vistas, pero se adaptó al estilo establecido en el styles guidelines.
+
+Propietarios de uno o más vehículos propios:
+
+<p align="center">
+  <img src="images/MockUp_Seg1_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg1_2.png" alt="MockUp_Seg1_2" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg1_3.png" alt="MockUp_Seg1_3" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg1_4.png" alt="MockUp_Seg1_4" width="100%">
+</p>
+
+Usuarios que tienen la necesidad de alquilar un vehículo:
+
+<p align="center">
+  <img src="images/MockUp_Seg2_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg2_2.png" alt="MockUp_Seg2_2" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg2_3.png" alt="MockUp_Seg2_3" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg2_4.png" alt="MockUp_Seg2_4" width="100%">
+</p>
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+Propietarios de uno o más vehículos propios:
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg1.png" alt="MockUp_Wireflow_Seg1" width="100%">
+</p>
+
+Usuarios que tienen la necesidad de alquilar un vehículo:
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg2_1.png" alt="MockUp_Wireflow_Seg2_1" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg2_2.png" alt="MockUp_Wireflow_Seg2_2" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg2_3.png" alt="MockUp_Wireflow_Seg2_3" width="100%">
+</p>
 
 Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1
 
