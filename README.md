@@ -84,6 +84,30 @@ Agosto del 2024
         </ul>
       </td>
   </tr>
+      <tr>
+      <td><strong>TP</strong></td>
+      <td>Miercoles 25 de Setiembre</td>
+      <td>
+        <ul>
+          <li>Ramos Carpio, Karen</li>
+          <li>Arce Huaman, Luis Andres</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
+          <li>Cruz Ticona, Aaron Alejandro</li>
+          <li>Ramos Huamanchumo, Javier</li>
+        </ul>
+      </td>
+      <td>
+        Se han editado los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -113,33 +137,37 @@ Agosto del 2024
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong> Comunica oralmente con efectividad a diferentes rangos de audiencia</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li>Ramos Carpio, Karen:</li>
-          <li>Arce Huaman, Luis Andres:</li>
-          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
-          <li>Cruz Ticona, Aaron Alejandro:</li>
-          <li>Ramos Huamanchumo, Javier: </li>
+          <li>Ramos Carpio, Karen: Me siento satisfecha por haber trabajado en un entorno colaborativo donde se valoran las contribuciones de todos los miembros del equipo, lo que me ha hecho sentir parte de un equipo               cohesionado y alineado con los objetivos, tranaje en el capitulo 5, recopilando toda la informacion de las herramientas trabajadas asi como de los despligues de lo trabajado.</li>
         </ul> 
-      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sera la base para el sustento oral para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+        <ul>
+          <p><strong>TP</strong></p>
+          <li>Ramos Carpio, Karen: Trabaje en subsanar todo lo que tenia errores para poder alcanzar una nota maxima, La experiencia de trabajar con equipos multidisciplinarios y enfrentar los desafíos técnicos y de                 coordinación ha sido enriquecedora. He podido mejorar mis habilidades técnicas y de comunicación, además de desarrollar una mayor capacidad para adaptarme a diferentes contextos y perspectivas. </li>
+        </ul> 
+      <td><strong>TB1:</strong><p align="justify">Se logró realizar el trabajo cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+        <strong>TP:</strong><p align="justify">En el marco del desarrollo de este proyecto, he adquirido la capacidad de comunicar de manera efectiva y objetiva ideas y resultados a públicos con diferentes niveles de especialización. Esta habilidad fue especialmente valiosa al trabajar en el desarrollo del front, donde fue necesario coordinar con equipos técnicos y no técnicos para garantizar que los objetivos del proyecto se entendieran y ejecutaran correctamente. A lo largo del proceso, la comunicación clara facilitó la toma de decisiones estratégicas y la resolución de problemas, asegurando así el éxito de la implementación del producto.</p>
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong> Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li>Ramos Carpio, Karen:</li>
-          <li>Arce Huaman, Luis Andres:</li>
-          <li>Pinto Fuentes Rivera, Alvaro Felipe:</li>
-          <li>Cruz Ticona, Aaron Alejandro:</li>
-          <li>Ramos Huamanchumo, Javier: </li>
+          <li>Ramos Carpio, Karen: Durante el desarrollo del proyecto, trabajé en la implementación del producto, específicamente en el Capítulo 5, donde participé activamente en la creación y optimización de la landing           page. A lo largo de esta fase, me aseguré de comunicar de manera clara y objetiva los avances y resultados a un público diverso, desde especialistas técnicos hasta partes interesadas no técnicas. Esta                     comunicación fue clave para alinear las expectativas del equipo y tomar decisiones informadas sobre el diseño, funcionalidad y despliegue de la landing page, logrando una implementación efectiva y sin                     contratiempos</li>
+        </ul> 
+         <ul>
+          <p><strong>TP</strong></p>
+          <li>Ramos Carpio, Karen: A lo largo del desarrollo del proyecto, he tenido la oportunidad de comunicar oralmente las ideas y resultados obtenidos de manera clara y objetiva a audiencias de diferentes                       especialidades y niveles jerárquicos. En particular, mi trabajo en el desarrollo del frontend y la solución de fallas en capítulos clave del proyecto me permitió presentar de manera efectiva los avances                    técnicos y desafíos, asegurando que todos los involucrados, desde desarrolladores hasta responsables de toma de decisiones, comprendieran el estado actual del proyecto y pudieran colaborar de manera eficiente           en la resolución de problemas.</li>
         </ul> 
       </td>
       <td><p><strong>TB1</strong></p>
         <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
+        <br>
+        <p><strong>TP</strong></p>
+        <p align="justify">En conclusión, el desarrollo del proyecto nos ha permitido fortalecer mis habilidades técnicas y de comunicación, especialmente al enfrentar desafíos relacionados con la implementación y despliegue de componentes clave como el frontend. Esta experiencia ha sido altamente enriquecedora, no solo por los resultados alcanzados, sino también por el crecimiento personal y profesional obtenido durante el proceso.</p>
         <br>
     </tr>
   </tbody>
@@ -155,34 +183,34 @@ URL Project Report (Github): https://github.com/G1-UPC-PRE-SI729-2402-SW54-Pixel
 
 ### [Capítulo I: Introducción](./chapters/chapter1.md#capítulo-i-introducción-1)
 
-- [1.1. Startup Profile]()
-  - [1.1.1 Descripción de la Startup]()
-  - [1.1.2 Perfiles de integrantes del equipo]()
-- [1.2 Solution Profile]()
-  - [1.2.1 Antecedentes y problemática]()
-  - [1.2.2 Lean UX Process]()
-    - [1.2.2.1. Lean UX Problem Statements]()
-    - [1.2.2.2. Lean UX Assumptions]()
-    - [1.2.2.3. Lean UX Hypothesis Statements]()
-    - [1.2.2.4. Lean UX Canvas]()
-- [1.3. Segmentos objetivo]()
+- [1.1. Startup Profile](./chapters/chapter1)
+  - [1.1.1 Descripción de la Startup](./chapters/chapter1)
+  - [1.1.2 Perfiles de integrantes del equipo](./chapters/chapter1)
+- [1.2 Solution Profile](./chapters/chapter1)
+  - [1.2.1 Antecedentes y problemática](./chapters/chapter1)
+  - [1.2.2 Lean UX Process](./chapters/chapter1)
+    - [1.2.2.1. Lean UX Problem Statements](./chapters/chapter1)
+    - [1.2.2.2. Lean UX Assumptions](./chapters/chapter1)
+    - [1.2.2.3. Lean UX Hypothesis Statements](./chapters/chapter1)
+    - [1.2.2.4. Lean UX Canvas](./chapters/chapter1)
+- [1.3. Segmentos objetivo](./chapters/chapter1)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](./chapters/chapter2.md#capítulo-ii-requirements-elicitation--analysis-1)
 
-- [2.1. Competidores]()
-  - [2.1.1. Análisis competitivo]()
-  - [2.1.2. Estrategias y tácticas frente a competidores]()
-- [2.2. Entrevistas]()
-  - [2.2.1. Diseño de entrevistas]()
-  - [2.2.2. Registro de entrevistas]()
-  - [2.2.3. Análisis de entrevistas]()
-- [2.3. Needfinding]()
-  - [2.3.1. User Personas]()
-  - [2.3.2. User Task Matrix]()
-  - [2.3.3. User Journey Mapping]()
-  - [2.3.4. Empathy Mapping]()
-  - [2.3.5. As-is Scenario Mapping]()
-- [2.4. Ubiquitous Language]()
+- [2.1. Competidores](./chapters/chapter2.md)
+  - [2.1.1. Análisis competitivo](./chapters/chapter2.md)
+  - [2.1.2. Estrategias y tácticas frente a competidores](./chapters/chapter2.md)
+- [2.2. Entrevistas](./chapters/chapter2.md)
+  - [2.2.1. Diseño de entrevistas](./chapters/chapter2.md)
+  - [2.2.2. Registro de entrevistas](./chapters/chapter2.md)
+  - [2.2.3. Análisis de entrevistas](./chapters/chapter2.md)
+- [2.3. Needfinding](./chapters/chapter2.md)
+  - [2.3.1. User Personas](./chapters/chapter2.md)
+  - [2.3.2. User Task Matrix](./chapters/chapter2.md)
+  - [2.3.3. User Journey Mapping](./chapters/chapter2.md)
+  - [2.3.4. Empathy Mapping](./chapters/chapter2.md)
+  - [2.3.5. As-is Scenario Mapping](./chapters/chapter2.md)
+- [2.4. Ubiquitous Language](./chapters/chapter2.md)
 
 ### [Capítulo III: Requirements Specification](./chapters/chapter3/chapter3.md#capítulo-iii-requirements-specification-1)
 
@@ -193,83 +221,83 @@ URL Project Report (Github): https://github.com/G1-UPC-PRE-SI729-2402-SW54-Pixel
 
 ### [Capítulo IV: Product Design](./chapters/chapter4/chapter4.md#capítulo-iv-product-design-1)
 
-- [4.1. Style Guidelines]()
-  - [4.1.1. General Style Guidelines]()
-  - [4.1.2. Web Style Guidelines]()
-- [4.2. Information Architecture]()
-  - [4.2.1. Organization Systems]()
-  - [4.2.2. Labeling Systems]()
-  - [4.2.3. SEO Tags and Meta Tags]()
-  - [4.2.4. Searching Systems]()
-  - [4.2.5. Navigation Systems]()
-- [4.3. Landing Page UI Design]()
-  - [4.3.1. Landing Page Wireframe]()
-  - [4.3.2. Landing Page Mock-up]()
-- [4.4. Web Applications UX/UI Design]()
-  - [4.4.1. Web Applications Wireframes]()
-  - [4.4.2. Web Applications Wireflow Diagrams]()
-  - [4.4.3. Web Applications Mock-ups]()
-  - [4.4.4. Web Applications User Flow Diagrams]()
-- [4.5. Web Applications Prototyping]()
-- [4.6. Domain-Driven Software Architecture]()
-  - [4.6.1. Software Architecture Context Diagram]()
-  - [4.6.2. Software Architecture Container Diagrams]()
-  - [4.6.3. Software Architecture Components Diagrams]()
-- [4.7. Software Object-Oriented Design]()
-  - [4.7.1. Class Diagrams]()
-  - [4.7.2. Class Dictionary]()
-- [4.8. Database Design]()
-  - [4.8.1. Database Diagram]()
+- [4.1. Style Guidelines](./chapters/chapter4/chapter4.md)
+  - [4.1.1. General Style Guidelines](./chapters/chapter4/chapter4.md)
+  - [4.1.2. Web Style Guidelines](./chapters/chapter4/chapter4.md)
+- [4.2. Information Architecture](./chapters/chapter4/chapter4.md)
+  - [4.2.1. Organization Systems](./chapters/chapter4/chapter4.md)
+  - [4.2.2. Labeling Systems](./chapters/chapter4/chapter4.md)
+  - [4.2.3. SEO Tags and Meta Tags](./chapters/chapter4/chapter4.md)
+  - [4.2.4. Searching Systems](./chapters/chapter4/chapter4.md)
+  - [4.2.5. Navigation Systems](./chapters/chapter4/chapter4.md)
+- [4.3. Landing Page UI Design](./chapters/chapter4/chapter4.md)
+  - [4.3.1. Landing Page Wireframe](./chapters/chapter4/chapter4.md)
+  - [4.3.2. Landing Page Mock-up](./chapters/chapter4/chapter4.md)
+- [4.4. Web Applications UX/UI Design](./chapters/chapter4/chapter4.md)
+  - [4.4.1. Web Applications Wireframes](./chapters/chapter4/chapter4.md)
+  - [4.4.2. Web Applications Wireflow Diagrams](./chapters/chapter4/chapter4.md)
+  - [4.4.3. Web Applications Mock-ups](./chapters/chapter4/chapter4.md)
+  - [4.4.4. Web Applications User Flow Diagrams](./chapters/chapter4/chapter4.md)
+- [4.5. Web Applications Prototyping](./chapters/chapter4/chapter4.md)
+- [4.6. Domain-Driven Software Architecture](./chapters/chapter4/chapter4.md)
+  - [4.6.1. Software Architecture Context Diagram](./chapters/chapter4/chapter4.md)
+  - [4.6.2. Software Architecture Container Diagrams](./chapters/chapter4/chapter4.md)
+  - [4.6.3. Software Architecture Components Diagrams](./chapters/chapter4/chapter4.md)
+- [4.7. Software Object-Oriented Design](./chapters/chapter4/chapter4.md)
+  - [4.7.1. Class Diagrams](./chapters/chapter4/chapter4.md)
+  - [4.7.2. Class Dictionary](./chapters/chapter4/chapter4.md)
+- [4.8. Database Design](./chapters/chapter4/chapter4.md)
+  - [4.8.1. Database Diagram](./chapters/chapter4/chapter4.md)
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](./chapters/chapter5.md#capítulo-v-product-implementation-validation--deployment-1)
 
-- [5.1. Software Configuration Management]()
-  - [5.1.1. Software Development Environment Configuration]()
-  - [5.1.2. Source Code Management]()
-  - [5.1.3. Source Code Style Guide & Conventions]()
-  - [5.1.4. Software Deployment Configuration]()
-- [5.2. Landing Page, Services & Applications Implementation]()
-  - [5.2.1. Sprint 1]()
-    - [5.2.1.1. Sprint Planning 1]()
-    - [5.2.1.2. Sprint Backlog 1]()
-    - [5.2.1.3. Development Evidence for Sprint Review]()
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review]()
-    - [5.2.1.5. Execution Evidence for Sprint Review]()
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review]()
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review]()
-    - [5.2.1.8. Team Collaboration Insights during Sprint]()
-  - [5.2.2. Sprint 2]()
-    - [5.2.2.1. Sprint Planning 2]()
-    - [5.2.2.2. Sprint Backlog 2]()
-    - [5.2.2.3. Development Evidence for Sprint Review]()
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review]()
-    - [5.2.2.5. Execution Evidence for Sprint Review]()
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review]()
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review]()
-    - [5.2.2.8. Team Collaboration Insights during Sprint]()
-  - [5.2.3. Sprint 3]()
-    - [5.2.3.1. Sprint Planning 3]()
-    - [5.2.3.2. Sprint Backlog 3]()
-    - [5.2.3.3. Development Evidence for Sprint Review]()
-    - [5.2.3.4. Testing Suite Evidence for Sprint Review]()
-    - [5.2.3.5. Execution Evidence for Sprint Review]()
-    - [5.2.3.6. Services Documentation Evidence for Sprint Review]()
-    - [5.2.3.7. Software Deployment Evidence for Sprint Review]()
-    - [5.2.3.8. Team Collaboration Insights during Sprint]()
-  - [5.2.4. Sprint 4]()
-    - [5.2.4.1. Sprint Planning 4]()
-    - [5.2.4.2. Sprint Backlog 4]()
-    - [5.2.4.3. Development Evidence for Sprint Review]()
-    - [5.2.4.4. Testing Suite Evidence for Sprint Review]()
-    - [5.2.4.5. Execution Evidence for Sprint Review]()
-    - [5.2.4.6. Services Documentation Evidence for Sprint Review]()
-    - [5.2.4.7. Software Deployment Evidence for Sprint Review]()
-    - [5.2.4.8. Team Collaboration Insights during Sprint]()
-- [5.3. Validation Interviews]()
-  - [5.3.1. Diseño de Entrevistas]()
-  - [5.3.2. Registro de Entrevistas]()
-  - [5.3.3. Evaluaciones según heurísticas]()
-- [5.4. Video About-the-Product]()
+- [5.1. Software Configuration Management](./chapters/chapter5.md)
+  - [5.1.1. Software Development Environment Configuration](./chapters/chapter5.md)
+  - [5.1.2. Source Code Management](./chapters/chapter5.md)
+  - [5.1.3. Source Code Style Guide & Conventions](./chapters/chapter5.md)
+  - [5.1.4. Software Deployment Configuration](./chapters/chapter5.md)
+- [5.2. Landing Page, Services & Applications Implementation](./chapters/chapter5.md)
+  - [5.2.1. Sprint 1](./chapters/chapter5.md)
+    - [5.2.1.1. Sprint Planning 1](./chapters/chapter5.md)
+    - [5.2.1.2. Sprint Backlog 1](./chapters/chapter5.md)
+    - [5.2.1.3. Development Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.1.5. Execution Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](./chapters/chapter5.md)
+  - [5.2.2. Sprint 2](./chapters/chapter5.md)
+    - [5.2.2.1. Sprint Planning 2](./chapters/chapter5.md)
+    - [5.2.2.2. Sprint Backlog 2](./chapters/chapter5.md)
+    - [5.2.2.3. Development Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.2.5. Execution Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](./chapters/chapter5.md)
+  - [5.2.3. Sprint 3](./chapters/chapter5.md)
+    - [5.2.3.1. Sprint Planning 3](./chapters/chapter5.md)
+    - [5.2.3.2. Sprint Backlog 3](./chapters/chapter5.md)
+    - [5.2.3.3. Development Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.3.5. Execution Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](./chapters/chapter5.md)
+  - [5.2.4. Sprint 4](./chapters/chapter5.md)
+    - [5.2.4.1. Sprint Planning 4](./chapters/chapter5.md)
+    - [5.2.4.2. Sprint Backlog 4](./chapters/chapter5.md)
+    - [5.2.4.3. Development Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.4.5. Execution Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](./chapters/chapter5.md)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](./chapters/chapter5.md)
+- [5.3. Validation Interviews](./chapters/chapter5.md)
+  - [5.3.1. Diseño de Entrevistas](./chapters/chapter5.md)
+  - [5.3.2. Registro de Entrevistas](./chapters/chapter5.md)
+  - [5.3.3. Evaluaciones según heurísticas](./chapters/chapter5.md)
+- [5.4. Video About-the-Product](./chapters/chapter5.md)
 
 ---
 
