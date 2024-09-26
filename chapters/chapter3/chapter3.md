@@ -1,11 +1,5 @@
 # Capítulo III: Requirements Specification
 
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
-- [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
-
-
 ## 3.1. To-Be Scenario Mapping
 
 Objetivo
