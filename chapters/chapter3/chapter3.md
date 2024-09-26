@@ -323,7 +323,11 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 ## 3.3. Impact Mapping
 
 <p align="center">
-  <img src="../../images/impact-mapping.png" alt="To be scenario mapping" width="100%">
+  <img src="./impact-mapping-1.jpeg" alt="impact mapping para propietarios" width="100%">
+</p>
+
+<p align="center">
+  <img src="./impact-mapping-2.jpeg" alt="impact mapping para arrendatarios" width="100%">
 </p>
 
 ## 3.4. Product Backlog
