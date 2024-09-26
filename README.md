@@ -2143,7 +2143,7 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
   <tbody>
     <tr>
       <td>Fecha</td>
-      <td>22/08/2024</td>
+      <td>25/08/2024</td>
     </tr>
     <tr>
       <td>Hora</td>
@@ -2155,7 +2155,7 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
     </tr>
     <tr>
       <td>Preparado por</td>
-      <td>Ramos Carpio, Karen</td>
+      <td>Integrantes de PixelSmith</td>
     </tr>
     <tr>
       <td>Asistentes (a la reunión de planificación)</td>
@@ -2203,7 +2203,80 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 
 En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="./images/5-2-1-2.png" alt="Trello" width="100%">
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="1">HU13</td>
+       <td rowspan="1">Navegación intuitiva</td>
+       <td>T01</td>
+       <td>Estructura de la información</td>
+       <td>Identificar todo lo correspondiente para el Landing </td>
+       <td>0.1</td>
+       <td>Karen Ramos</td>
+       <td>Done</td>
+    </tr>
+       <td rowspan="4">HU14</td>
+       <td rowspan="4">Landing Page Interactiva</td>
+       <td>T02</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>Alvaro Pinto</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos al navbar</td>
+       <td>0.5</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+        <tr>
+       <td>T04</td>
+       <td>Agregar CSS styles</td>
+       <td>Asignar stilos generales para la página</td>
+       <td>0.5</td>
+       <td>Javier Ramos</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+        <tr>
+       <td>T04</td>
+       <td>Agregar Secciones Informativas</td>
+       <td>Agregar todas las secciones que brinden información al usuario</td>
+       <td>0.5</td>
+       <td>Javier Ramos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="1">HU15</td>
+       <td rowspan="1">Contacto Accesible</td>
+       <td>T05</td>
+       <td>Contacto visible para los clientes</td>
+       <td>Agregar la sección de contactos</td>
+       <td>1.0</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+</table>
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/b/jaPO8QbP/takemycar-sprint-1
@@ -2214,11 +2287,35 @@ A continuación se presentan informacion de los commits de la Landing page de Po
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.
+Al ser el primer sprint, y solo haber desarrollado el Landing Page no creemo necesario realizar testing de una Landing Page. Por lo que en la sección a continuación se muestra el Landing ya desplegado.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript
+Tras el desarrolo de la Landing Page en el Sprint 1, obtuvimos el siguiente resultado:
+
+<b>Seccion Inicio</b>
+
+<div align="center">
+    <img src="./img/inicioLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion ¿Que Ofrecemos?</b>
+
+<div align="center">
+    <img src="./img/que-ofrecemosLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion Nosotros</b>
+
+<div align="center">
+    <img src="./img/nosotrosLP.png"  style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Seccion Contactanos</b>
+
+<div align="center">
+    <img src="./img/contactanosLP.png" style="margin: 10px 0;" width="90%"/>
+</div>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
