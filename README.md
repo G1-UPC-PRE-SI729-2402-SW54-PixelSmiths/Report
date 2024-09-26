@@ -137,7 +137,7 @@ Agosto del 2024
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
@@ -172,7 +172,7 @@ Agosto del 2024
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
