@@ -155,6 +155,18 @@ Agosto del 2024
           <p><strong>TP</strong></p>
           <li>Pinto Fuentes Rivera, Alvaro: En terminos de correcciones, me encargué de arreglar el diagrama C4 en base al feedback conseguido de nuestra anterior entrega. En un nivel de comunicación, gracias a que realicé nuevamente el diagrama C4 pude comunicar correctamente la estructura de nuestro proyecto, además de que en el código pude mostrar lo expresado en nuestros mockups. </li>
         </ul> 
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>
+            Javier Ramos: Me complace haber participado en un equipo colaborativo donde cada contribución es valorada, lo que reforzó mi sentido de pertenencia y alineación con nuestros objetivos. Me encargué de transmitir nuestra visión del diseño de la aplicación web a nuestros dos segmentos objetivo. 
+          </li>
+        </ul>
+      <ul>
+          <p><strong>TP</strong></p>
+          <li>
+            Javier Ramos: Durante el proyecto, mejoré mi habilidad para comunicar ideas y resultados claramente a audiencias variadas, una destreza clave mientras trabajaba en la base de la aplicación frontend. Esta capacidad fue crucial para colaborar eficazmente con equipos técnicos y no técnicos, asegurando que los objetivos se comprendieran y cumplieran. La comunicación efectiva impulsó decisiones estratégicas y solución de problemas, contribuyendo al éxito del producto.
+          </li>
+        </ul>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar el trabajo cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
         <strong>TP:</strong><p align="justify">En el marco del desarrollo de este proyecto, he adquirido la capacidad de comunicar de manera efectiva y objetiva ideas y resultados a públicos con diferentes niveles de especialización. Esta habilidad fue especialmente valiosa al trabajar en el desarrollo del front, donde fue necesario coordinar con equipos técnicos y no técnicos para garantizar que los objetivos del proyecto se entendieran y ejecutaran correctamente. A lo largo del proceso, la comunicación clara facilitó la toma de decisiones estratégicas y la resolución de problemas, asegurando así el éxito de la implementación del producto.</p>
       <br>
@@ -906,6 +918,7 @@ Evidenciade la reunión:
 Resumen de la entrevista:
 
 ### 2.2.3. Análisis de entrevistas
+
 <br>
 
 <h2>Analisis Segmento 1:</h2>
@@ -932,17 +945,17 @@ Resumen de la entrevista:
 
 En esta sección, el User Task Matrix esta centrada en las principales actividades dee uestros dos User Personas. Cada uno de estos segmentos tiene necesidades y objetivos específicos.
 
-|Tareas / User Persona|Frecuencia (Martin Ruiz)|Importancia (Martin Ruiz)|Frecuencia (Maria Sanchez)|Importancia (Maria Sanchez)|
-| :- | :- | :- | :- | :- |
-|Visualización de vehículos|A menudo|Media|Muy a menudo|Alta|
-|Alquilar un vehículo|Poco|Media|Muy a menudo|Alta|
-|Pasarela de Pagos|A menudo|Alta|A menudo|Alta|
-|Registrar mi reserva|Muy a menudo|Media|A menudo|Alta|
-|Gestión de reservas|A menudo|Alta|A menudo|Media|
-|Implementación de garantías y condiciones|Siempre|Alta|A menudo|Media|
-|Especificar disponibilidades|A menudo|Alta|A menudo|Media|
-|Comunicación con la plataforma|Muy a menudo|Alta|A menudo|Alta|
-|Seguimiento de operaciones|A menudo|Media|Siempre|Media|
+| Tareas / User Persona                     | Frecuencia (Martin Ruiz) | Importancia (Martin Ruiz) | Frecuencia (Maria Sanchez) | Importancia (Maria Sanchez) |
+| :---------------------------------------- | :----------------------- | :------------------------ | :------------------------- | :-------------------------- |
+| Visualización de vehículos                | A menudo                 | Media                     | Muy a menudo               | Alta                        |
+| Alquilar un vehículo                      | Poco                     | Media                     | Muy a menudo               | Alta                        |
+| Pasarela de Pagos                         | A menudo                 | Alta                      | A menudo                   | Alta                        |
+| Registrar mi reserva                      | Muy a menudo             | Media                     | A menudo                   | Alta                        |
+| Gestión de reservas                       | A menudo                 | Alta                      | A menudo                   | Media                       |
+| Implementación de garantías y condiciones | Siempre                  | Alta                      | A menudo                   | Media                       |
+| Especificar disponibilidades              | A menudo                 | Alta                      | A menudo                   | Media                       |
+| Comunicación con la plataforma            | Muy a menudo             | Alta                      | A menudo                   | Alta                        |
+| Seguimiento de operaciones                | A menudo                 | Media                     | Siempre                    | Media                       |
 
 ### 2.3.3. User Journey Mapping
 
@@ -1590,6 +1603,7 @@ Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&
 Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
 
 ### 4.6.1. Software Architecture Context Diagram
+
 <p align="center">
   <img src="./images/structurizr-95615-Contexto.png" alt="Software Architecture Context Diagram" width="100%">
 </p>
@@ -1599,7 +1613,6 @@ Para la construcción de los diagramas, se utilizó la herramienta Structurizr.
 <p align="center">
   <img src="./images/structurizr-95615-Contenedor.png" alt="Software Architecture Container Diagrams" width="100%">
 </p>
-
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1948,6 +1961,7 @@ En este apartado detallamos cada clase de nuestro diagrama
 ## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
+
 **Requirements Management**
 
 1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
@@ -1976,7 +1990,7 @@ En este apartado detallamos cada clase de nuestro diagrama
 **Software Documentation and Project Management**
 
 1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración entiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través desus navegadores web. Ruta de referencia https://github.com/
-   
+
 ### 5.1.2. Source Code Management
 
 El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones.
@@ -2049,9 +2063,10 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
   <img align="center" src="./images/5-1-4-2.png" alt="Despliegue en Github Pages" width="90%">
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
 
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
 
 <table>
   <caption>Sprint #1</caption>
@@ -2157,28 +2172,30 @@ Se puede acceder a la página de inicio a través del siguiente enlace:
 A continuación se presentan capturas de los insights del repositorio del landing page en Github
 
 ## 5.2.2 Sprint 2
+
 ### 5.2.2.1 Sprint Planning 2
 
-|**Sprint #**|Sprint 2|
-| :- | :- |
-|**Sprint Planning Background**||
-|Date|2024-09-24|
-|Time|11:00 PM|
-|Location|Virtual|
-|Prepared by|Cruz Ticona, Aaron Alejandro	|
-|Attendees (to planning meeting)|<p>Ramos Huamanchumo, Javier</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Ramos Carpio, Karen</p><p>Cruz Ticona, Aaron Alejandro</p><p></p>|
-|Sprint n - 1 Review Summary||
-|Sprint n - 1 Retrospective Summary||
-|**Sprint Goal & User Stories**||
-|Sprint 2 Goal|Realizar el FrontEnd Web Applications|
-|Sprint 2 Velocity|30|
-|Sum of Story Points|30|
+| **Sprint #**                       | Sprint 2                                                                                                                                       |
+| :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**     |                                                                                                                                                |
+| Date                               | 2024-09-24                                                                                                                                     |
+| Time                               | 11:00 PM                                                                                                                                       |
+| Location                           | Virtual                                                                                                                                        |
+| Prepared by                        | Cruz Ticona, Aaron Alejandro                                                                                                                   |
+| Attendees (to planning meeting)    | <p>Ramos Huamanchumo, Javier</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Ramos Carpio, Karen</p><p>Cruz Ticona, Aaron Alejandro</p><p></p> |
+| Sprint n - 1 Review Summary        |                                                                                                                                                |
+| Sprint n - 1 Retrospective Summary |                                                                                                                                                |
+| **Sprint Goal & User Stories**     |                                                                                                                                                |
+| Sprint 2 Goal                      | Realizar el FrontEnd Web Applications                                                                                                          |
+| Sprint 2 Velocity                  | 30                                                                                                                                             |
+| Sum of Story Points                | 30                                                                                                                                             |
 
 ### 5.2.2.2 Sprint Backlog 2.
+
 En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 
 | Sprint #   | Sprint 2                    |                  |                                               |                                                          |                   |              |                                             |
-|------------|-----------------------------|------------------|-----------------------------------------------|----------------------------------------------------------|-------------------|--------------|---------------------------------------------|
+| ---------- | --------------------------- | ---------------- | --------------------------------------------- | -------------------------------------------------------- | ----------------- | ------------ | ------------------------------------------- |
 | User Story |                             | Work-Item / Task |                                               |                                                          |                   |              |                                             |
 | Id         | Title                       | Id               | Title                                         | Description                                              | Estimation(Hours) | Assigned To  | Status (To-Do / In-Process / Review / Done) |
 | HU01       | Registrar un vehículo       | TS01             | Registro exitoso de nuevos vehiculos          | Registrar un vehiculo con su información básica          | 3                 | Javier Ramos | Done                                        |
@@ -2189,10 +2206,6 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 | HU06       | Gestión de Perfiles<br><br> | TS06             | Ver perfil                                    | Poder ver y modificar el perfil de usuario               | 1                 | Aaron Cruz   | Done                                        |
 | HU08       | Soporte al Usuario          | TS07             | Acceso al equipo de soporte                   | Poder mandar un ticket al soporte                        | 1                 | Aaron Cruz   | Done                                        |
 | HU16       | Registro de Nuevos Usuarios | TS08             | Registro exitoso de nuevos usuarios           | Registrar un usuario con su correo y contraseña          | 2                 | Karen Ramos  | Done                                        |
-
-
-
-
 
 # Conclusiones
 
