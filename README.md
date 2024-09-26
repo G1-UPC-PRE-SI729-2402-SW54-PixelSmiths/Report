@@ -1588,11 +1588,76 @@ Por otro lado, para el segmento de usuarios que tienen la necesidad de alquilar 
 
 Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1
 
+Propietarios de uno o más vehículos propios:
+
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg1_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+
+Usuarios que tienen la necesidad de alquilar un vehículo:
+
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg2_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg2_2.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/Wireframe-Wireflow_Seg2_3.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+
 ### 4.4.3. Web Applications Mock-ups
 
-Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1
+Se empleó la estructura definida en los wireframes como base para cada una de las vistas, pero se adaptó al estilo establecido en el styles guidelines.
+
+Propietarios de uno o más vehículos propios:
+
+<p align="center">
+  <img src="images/MockUp_Seg1_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg1_2.png" alt="MockUp_Seg1_2" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg1_3.png" alt="MockUp_Seg1_3" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg1_4.png" alt="MockUp_Seg1_4" width="100%">
+</p>
+
+Usuarios que tienen la necesidad de alquilar un vehículo:
+
+<p align="center">
+  <img src="images/MockUp_Seg2_1.png" alt="MockUp_Seg1_1" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg2_2.png" alt="MockUp_Seg2_2" width="100%">
+</p>
+<p align="center">
+  <img src="images/MockUp_Seg2_3.png" alt="MockUp_Seg2_3" width="100%">
+</p>
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+Propietarios de uno o más vehículos propios:
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg1.png" alt="MockUp_Wireflow_Seg1" width="100%">
+</p>
+
+Usuarios que tienen la necesidad de alquilar un vehículo:
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg2_1.png" alt="MockUp_Wireflow_Seg2_1" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg2_2.png" alt="MockUp_Wireflow_Seg2_2" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/MockUp_Wireflow_Seg2_3.png" alt="MockUp_Wireflow_Seg2_3" width="100%">
+</p>
 
 Link Figma: https://www.figma.com/design/dZSCx2YrXRhKRyAgHA4z5a/Diagrams?m=auto&t=e87i3klynaRUQMdm-1
 
@@ -2303,6 +2368,21 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 | HU06       | Gestión de Perfiles<br><br> | TS06             | Ver perfil                                    | Poder ver y modificar el perfil de usuario               | 1                 | Aaron Cruz   | Done                                        |
 | HU08       | Soporte al Usuario          | TS07             | Acceso al equipo de soporte                   | Poder mandar un ticket al soporte                        | 1                 | Aaron Cruz   | Done                                        |
 | HU16       | Registro de Nuevos Usuarios | TS08             | Registro exitoso de nuevos usuarios           | Registrar un usuario con su correo y contraseña          | 2                 | Karen Ramos  | Done                                        |
+
+### 5.2.2.3 Development Evidence for Sprint Review
+
+| Repository                                              | Branch           | Commit Title                                                           | Commit Message                                                         | Author       |
+|---------------------------------------------------------|------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|--------------|
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(server-routes): added atributes and routes for the new components | feat(server-routes): added atributes and routes for the new components | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoice-create): components and extra user service created        | feat(invoice-create): components and extra user service created        | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoice-card): component created                                  | feat(invoice-card): component created                                  | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(add-invoice): component created                                   | feat(add-invoice): component created                                   | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoices): component, service and entity added                    | feat(invoices): component, service and entity added                    | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/profile  | feature(profile): add profile form and update method                   | feature(profile): add profile form and update method                   | Javier Ramos |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/profile  | Merge branch 'feature/invoices' into dev                               | Merge branch 'feature/invoices' into dev                               | Javier Ramos |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat(vehicles): add new vehicle form, delete vehicle and validations   | feat(vehicles): add new vehicle form, delete vehicle and validations   | Javier Ramos |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat: add random vehicle image to login                                | feat: add random vehicle image to login                                | Javier Ramos |
+
 
 # Conclusiones
 
