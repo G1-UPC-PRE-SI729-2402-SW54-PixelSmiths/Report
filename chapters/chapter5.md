@@ -210,3 +210,39 @@ Se puede acceder a la página de inicio a través del siguiente enlace:
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 A continuación se presentan capturas de los insights del repositorio del landing page en Github
+
+## 5.2.2 Sprint 2
+### 5.2.2.1 Sprint Planning 2
+
+|**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-09-24|
+|Time|11:00 PM|
+|Location|Virtual|
+|Prepared by|Cruz Ticona, Aaron Alejandro	|
+|Attendees (to planning meeting)|<p>Ramos Huamanchumo, Javier</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Ramos Carpio, Karen</p><p>Cruz Ticona, Aaron Alejandro</p><p></p>|
+|Sprint n - 1 Review Summary||
+|Sprint n - 1 Retrospective Summary||
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|Realizar el FrontEnd Web Applications|
+|Sprint 2 Velocity|30|
+|Sum of Story Points|30|
+
+### 5.2.2.2 Sprint Backlog 2.
+En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
+
+| Sprint #   | Sprint 2                    |                  |                                               |                                                          |                   |              |                                             |
+|------------|-----------------------------|------------------|-----------------------------------------------|----------------------------------------------------------|-------------------|--------------|---------------------------------------------|
+| User Story |                             | Work-Item / Task |                                               |                                                          |                   |              |                                             |
+| Id         | Title                       | Id               | Title                                         | Description                                              | Estimation(Hours) | Assigned To  | Status (To-Do / In-Process / Review / Done) |
+| HU01       | Registrar un vehículo       | TS01             | Registro exitoso de nuevos vehiculos          | Registrar un vehiculo con su información básica          | 3                 | Javier Ramos | Done                                        |
+|            |                             | TS02             | Editar vehiculo del cliente<br>               | Modificar la información de un vehiculo                  | 2                 | Javier Ramos | Done                                        |
+| HU02       | Alquilar un vehículo<br>    | TS03             | Seleccionar un vehiculo                       | Poder seleccionar un vehiculo de la lista disponible     | 2                 | Javier Ramos | Done                                        |
+| HU04       | Buscar un vehículo<br>      | TS04             | Busqueda de vehiculo                          | Poder buscar un vehiculo de la lista disponible          | 2                 | Javier Ramos | Done                                        |
+| HU05       | Gestionar reservaS          | TS05             | Agregar reservas y su invoice correspondiente | Poder realizar un invoice teniendo en cuenta el vehiculo | 2                 | Alvaro Pinto | Done                                        |
+| HU06       | Gestión de Perfiles<br><br> | TS06             | Ver perfil                                    | Poder ver y modificar el perfil de usuario               | 1                 | Aaron Cruz   | Done                                        |
+| HU08       | Soporte al Usuario          | TS07             | Acceso al equipo de soporte                   | Poder mandar un ticket al soporte                        | 1                 | Aaron Cruz   | Done                                        |
+| HU16       | Registro de Nuevos Usuarios | TS08             | Registro exitoso de nuevos usuarios           | Registrar un usuario con su correo y contraseña          | 2                 | Karen Ramos  | Done                                        |
+
+
