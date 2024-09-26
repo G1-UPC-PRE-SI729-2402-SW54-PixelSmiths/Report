@@ -2272,6 +2272,21 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 | HU08       | Soporte al Usuario          | TS07             | Acceso al equipo de soporte                   | Poder mandar un ticket al soporte                        | 1                 | Aaron Cruz   | Done                                        |
 | HU16       | Registro de Nuevos Usuarios | TS08             | Registro exitoso de nuevos usuarios           | Registrar un usuario con su correo y contraseña          | 2                 | Karen Ramos  | Done                                        |
 
+### 5.2.2.3 Development Evidence for Sprint Review
+
+| Repository                                              | Branch           | Commit Title                                                           | Commit Message                                                         | Author       |
+|---------------------------------------------------------|------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|--------------|
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(server-routes): added atributes and routes for the new components | feat(server-routes): added atributes and routes for the new components | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoice-create): components and extra user service created        | feat(invoice-create): components and extra user service created        | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoice-card): component created                                  | feat(invoice-card): component created                                  | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(add-invoice): component created                                   | feat(add-invoice): component created                                   | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoices): component, service and entity added                    | feat(invoices): component, service and entity added                    | Alvaro Pinto |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/profile  | feature(profile): add profile form and update method                   | feature(profile): add profile form and update method                   | Javier Ramos |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/profile  | Merge branch 'feature/invoices' into dev                               | Merge branch 'feature/invoices' into dev                               | Javier Ramos |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat(vehicles): add new vehicle form, delete vehicle and validations   | feat(vehicles): add new vehicle form, delete vehicle and validations   | Javier Ramos |
+| G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat: add random vehicle image to login                                | feat: add random vehicle image to login                                | Javier Ramos |
+
+
 # Conclusiones
 
 ### Conclusiones y recomendaciones
