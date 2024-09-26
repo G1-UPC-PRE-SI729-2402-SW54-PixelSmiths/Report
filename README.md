@@ -1636,9 +1636,6 @@ Usuarios que tienen la necesidad de alquilar un vehículo:
 <p align="center">
   <img src="images/MockUp_Seg2_3.png" alt="MockUp_Seg2_3" width="100%">
 </p>
-<p align="center">
-  <img src="images/MockUp_Seg2_4.png" alt="MockUp_Seg2_4" width="100%">
-</p>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
