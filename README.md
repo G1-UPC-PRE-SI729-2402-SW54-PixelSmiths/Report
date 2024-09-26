@@ -146,6 +146,14 @@ Agosto del 2024
         <ul>
           <p><strong>TP</strong></p>
           <li>Ramos Carpio, Karen: Trabaje en subsanar todo lo que tenia errores para poder alcanzar una nota maxima, La experiencia de trabajar con equipos multidisciplinarios y enfrentar los desafíos técnicos y de                 coordinación ha sido enriquecedora. He podido mejorar mis habilidades técnicas y de comunicación, además de desarrollar una mayor capacidad para adaptarme a diferentes contextos y perspectivas. </li>
+        </ul>
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: Me encargué de comunicar nuestra visión del diseño de nuestra aplicación web para nustros 2 segmentos objetivos, además de realizar el diagrama de contexto, contenedor y componentes.</li>
+        </ul> 
+        <ul>
+          <p><strong>TP</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: En terminos de correcciones, me encargué de arreglar el diagrama C4 en base al feedback conseguido de nuestra anterior entrega. En un nivel de comunicación, gracias a que realicé nuevamente el diagrama C4 pude comunicar correctamente la estructura de nuestro proyecto, además de que en el código pude mostrar lo expresado en nuestros mockups. </li>
         </ul> 
       <td><strong>TB1:</strong><p align="justify">Se logró realizar el trabajo cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
         <strong>TP:</strong><p align="justify">En el marco del desarrollo de este proyecto, he adquirido la capacidad de comunicar de manera efectiva y objetiva ideas y resultados a públicos con diferentes niveles de especialización. Esta habilidad fue especialmente valiosa al trabajar en el desarrollo del front, donde fue necesario coordinar con equipos técnicos y no técnicos para garantizar que los objetivos del proyecto se entendieran y ejecutaran correctamente. A lo largo del proceso, la comunicación clara facilitó la toma de decisiones estratégicas y la resolución de problemas, asegurando así el éxito de la implementación del producto.</p>
@@ -162,6 +170,14 @@ Agosto del 2024
           <p><strong>TP</strong></p>
           <li>Ramos Carpio, Karen: A lo largo del desarrollo del proyecto, he tenido la oportunidad de comunicar oralmente las ideas y resultados obtenidos de manera clara y objetiva a audiencias de diferentes                       especialidades y niveles jerárquicos. En particular, mi trabajo en el desarrollo del frontend y la solución de fallas en capítulos clave del proyecto me permitió presentar de manera efectiva los avances                    técnicos y desafíos, asegurando que todos los involucrados, desde desarrolladores hasta responsables de toma de decisiones, comprendieran el estado actual del proyecto y pudieran colaborar de manera eficiente           en la resolución de problemas.</li>
         </ul> 
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: Mi enfoque consiste en redactar de manera objetiva, utilizando un lenguaje claro y preciso que sea comprensible para audiencias con diferentes niveles de experiencia y especialidades. Esto garantiza que la información se transmita de manera eficiente y que todos los miembros del equipo estén al tanto del progreso y los hallazgos del proyecto.</li>
+        </ul> 
+         <ul>
+          <p><strong>TP</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: En el ámbito de la ingeniería, al redactar las correcciones de nuestro documento me esfuerzo por esta vez utilizar un lenguaje claro y preciso que sea comprensible para no generar complicaciones en realización de sesiones futuras.</li>
+        </ul>
       </td>
       <td><p><strong>TB1</strong></p>
         <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
