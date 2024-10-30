@@ -2383,6 +2383,147 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat(vehicles): add new vehicle form, delete vehicle and validations   | feat(vehicles): add new vehicle form, delete vehicle and validations   | Javier Ramos |
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat: add random vehicle image to login                                | feat: add random vehicle image to login                                | Javier Ramos |
 
+## 5.2.3 Sprint 3
+
+### 5.2.3.1 Sprint Planning 3
+
+| **Sprint #**                       | Sprint 3                                                                                                                                       |
+| :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**     |                                                                                                                                                |
+| Date                               | 2024-10-29                                                                                                                                     |
+| Time                               | 10:30 PM                                                                                                                                       |
+| Location                           | Virtual                                                                                                                                        |
+| Prepared by                        | Cruz Ticona, Aaron Alejandro                                                                                                                   |
+| Attendees (to planning meeting)    | <p>Ramos Huamanchumo, Javier</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Ramos Carpio, Karen</p><p>Cruz Ticona, Aaron Alejandro</p><p></p> |
+| Sprint 3 - 1 Review Summary        | En el sprint 2, se realizó la implementación de la vista del arrendador de vehiculos.                                                          |
+| Sprint 3 - 1 Retrospective Summary |  En la última entrega, enfrentamos diversos contratiempos y demoras en los plazos establecidos para finalizar las labores asignadas a cada integrante del equipo. Por ello, hemos mantenido conversaciones para evitar una repetición de esta situación y garantizar el cumplimiento de los plazos acordados inicialmente.                                                                                                                                              |
+| **Sprint Goal & User Stories**     |                                                                                                                                                |
+| Sprint 3 Goal                      | Nuestro enfoque está en completar al menos un 50% del backend de nuestra aplicacion web cumpliendo con los requerimientos de neustros usuarios |
+| Sprint 3 Velocity                  | 28                                                                                                                                             |
+| Sum of Story Points                | 28                                                                                                                                             |
+
+### 5.2.3.2 Sprint backlog 3
+
+En el tercer sprint, se desarrollará el backend de nuestra aplicacion web.
+
+| Sprint #   | Sprint 3                    |                  |                                               |                                                          |                   |              |                                             |
+| ---------- | --------------------------- | ---------------- | --------------------------------------------- | -------------------------------------------------------- | ----------------- | ------------ | ------------------------------------------- |
+| User Story |                             | Work-Item / Task |                                               |                                                          |                   |              |                                             |
+| Id         | Title                       | Id               | Title                                         | Description                                              | Estimation(Hours) | Assigned To  | Status (To-Do / In-Process / Review / Done) |
+| HU01       | Registrar un vehículo       | TS01             | Registro exitoso de nuevos vehiculos          | Registrar un vehiculo con su información básica          | 3                 | Javier Ramos | Done                                        |
+|            |                             | TS02             | Editar vehiculo del cliente<br>               | Modificar la información de un vehiculo                  | 2                 | Javier Ramos | Done                                        |
+| HU02       | Alquilar un vehículo<br>    | TS03             | Seleccionar un vehiculo                       | Poder seleccionar un vehiculo de la lista disponible     | 2                 | Javier Ramos | Done                                        |
+| HU04       | Buscar un vehículo<br>      | TS04             | Busqueda de vehiculo                          | Poder buscar un vehiculo de la lista disponible          | 2                 | Javier Ramos | Done                                        |
+| HU05       | Gestionar reservaS          | TS05             | Agregar reservas y su invoice correspondiente | Poder realizar un invoice teniendo en cuenta el vehiculo | 2                 | Alvaro Pinto | Done                                        |
+| HU06       | Gestión de Perfiles<br><br> | TS06             | Ver perfil                                    | Poder ver y modificar el perfil de usuario               | 1                 | Aaron Cruz   | Done                                        |
+| HU08       | Soporte al Usuario          | TS07             | Acceso al equipo de soporte                   | Poder mandar un ticket al soporte                        | 1                 | Aaron Cruz   | Done                                        |
+| HU16       | Registro de Nuevos Usuarios | TS08             | Registro exitoso de nuevos usuarios           | Registrar un usuario con su correo y contraseña          | 2                 | Karen Ramos  | Done                                        |
+
+
+### 5.2.3.3.Development Evidence for Sprint Review.
+
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+Los endpoints son puntos de acceso específicos en una aplicación web que permiten la comunicación entre el cliente y el servidor. Cada uno tiene una URL única, y cuando un cliente envía una solicitud, el servidor procesa y responde según la función del endpoint. Actúan como controladores que dirigen las solicitudes a distintas partes de la aplicación, permitiendo desde mostrar información hasta realizar operaciones en la base de datos. Documentarlos facilita que otros desarrolladores integren y comprendan cómo interactuar con la aplicación.
+
+| Endpoint   | Detalles                                                                                              |
+|------------|-------------------------------------------------------------------------------------------------------|
+| /vehicle   | En esta ruta se gestionan los vehículos disponibles para alquiler, incluyendo información de precios, disponibilidad y características. |
+| /user      | En esta ruta se gestiona la información de los usuarios, incluyendo el registro y actualización de datos personales.                     |
+| /support   | En esta ruta se encuentra la funcionalidad de soporte al usuario, gestionando solicitudes y consultas de asistencia técnica.             |
+| /booking   | En esta ruta se gestiona la funcionalidad de reservas de vehículos, permitiendo a los usuarios realizar y administrar sus reservas.      |
+| /review    | En esta ruta se gestionan las reseñas y valoraciones de los vehículos, permitiendo a los usuarios dejar su opinión y calificación.        |
+
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Para la parte del Front End
+Hemos trabajado en las siguientes ramas:
+
+<div align="center">
+    <img src="./images/Ramas_FrontEnd.png" style="margin: 10px 0;" width="90%"/>
+</div>
+
+Ramos Carpio, Karen: Vehicles
+Ramos Huamanchumo, Javier: Users
+Pinto Fuentes Rivera, Alvaro Felipe: Invoices
+Cruz Ticona, Aaron Alejandro: Support
+
+Como siguiente se va a mostrar los commits que hizo cada participante
+
+<div align="center">
+    <img src="./images/Commits_FrontEnd.png" style="margin: 10px 0;" width="90%"/>
+</div>
+
+Para la parte del Back End:
+
+
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+Segmento #1: Propietarios de uno o más vehículos propios
+Landing Page.
+- ¿Cuál es tu impresión general de la landing page?
+- ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+- ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+- ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+- ¿El llamado a la acción es directo y convincente?
+- ¿La navegación resulta intuitiva y fácil de usar?
+- ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+- ¿El contenido te brinda confianza en la calidad del producto ofrecido?
+- ¿Identificas algún aspecto confuso o que no contribuya al valor de la página?
+- ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
+
+Aplicacion Web.
+- ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para verificar el estado de tu vehículo?
+- ¿Te parece agradable y atractiva la combinación de colores de la aplicación? ¿Por qué?
+- ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad cuando revisas la información de tu vehículo?
+- ¿Encuentras útiles y claros los iconos e imágenes al navegar por la aplicación?
+- ¿La organización y disposición de los elementos en la pantalla facilitan la revisión tus vehiculos?
+- ¿Percibes consistencia en el diseño estético a lo largo de toda la aplicación?
+- ¿Cómo calificarías el equilibrio entre la estética visual y la funcionalidad de la aplicación para tus necesidades?
+- ¿Consideras la aplicación visualmente atractiva y adecuada para el seguimiento de las facturas efectuadas? ¿Qué aspectos destacarías?
+- ¿Hay algún elemento visual que consideres innecesario o que distraiga tu atención durante el uso de la aplicación?
+- ¿Qué recomendaciones harías para mejorar la apariencia visual de la aplicación para que sea más efectiva al revisar el estado de tu vehículo?
+
+Segmento #2: Usuarios que tienen la necesidad de alquilar un vehículo
+Landing Page.
+- ¿Cuál es tu impresión general de la landing page?
+- ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+- ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+- ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+- ¿El llamado a la acción es directo y convincente?
+- ¿La navegación resulta intuitiva y fácil de usar?
+- ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+- ¿El contenido te brinda confianza en la calidad del producto ofrecido?
+- ¿Identificas algún aspecto confuso o que no contribuya al valor de la página?
+- ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
+
+Aplicacion Web.
+- ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para tus tareas diarias?
+- ¿Te resulta agradable la combinación de colores de la aplicación mientras gestionas el taller? ¿Por qué?
+- ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad mientras trabajas?
+- ¿Encuentras útiles y claros los iconos e imágenes al navegar por la aplicación?
+- ¿La organización y disposición de los elementos en la pantalla facilitan tu trabajo?
+- ¿Percibes consistencia en el diseño estético a lo largo de toda la aplicación?
+- ¿Cómo calificarías la armonía entre la estética visual y la funcionalidad necesaria para alquilar un vehiculo?
+- ¿Consideras la aplicación visualmente atractiva y adecuada para el entorno de alquiler de vehiculos? ¿Qué aspectos destacarías?
+- ¿Hay algún elemento visual que consideres innecesario o que distraiga tu atención durante el uso de la aplicación?
+- ¿Qué recomendaciones harías para mejorar la apariencia visual de la aplicación para que sea más efectiva en uso diario?
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
 
 # Conclusiones
 
