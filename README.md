@@ -354,7 +354,7 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
 <table>
   <tr align="center">
     <td rowspan="4">
-      <img src="./images/fotoAaron.jpg" style="margin-bottom: 5px;" width="900"/>
+      <img src="./images/fotoAaron.jpg" style="margin-bottom: 5px;" width="400"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
@@ -364,29 +364,29 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
   </tr>
   <tr>
     <td align="left">
-    <b>Código:</b>
-    <br>
-    U202213502
+      <b>Código:</b>
+      <br>
+      U202213502
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Carrera:</b>
-    <br>
-    Ingeniería de Software
+      <b>Carrera:</b>
+      <br>
+      Ingeniería de Software
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Acerca de:</b>
-    <br>
-    Me llamo Aaron Cruz, me encuentro inmerso en la carrera de Ingenieria de Software. Hablando de mi, me considero una persona curiosa, lo que me lleva a tener constante interes en el aprender nuevas cosas y espero hacerlo en este curso.
+      <b>Acerca de:</b>
+      <br>
+      Me llamo Aaron Cruz, me encuentro inmerso en la carrera de Ingeniería de Software. Me considero una persona curiosa, lo que me lleva a tener constante interés en aprender nuevas cosas y espero hacerlo en este curso.
     </td>
   </tr>
 
   <tr align="center">
     <td rowspan="4">
-      <img src="./images/fotoKaren.JPG" style="margin-bottom: 5px;" width="900"/>
+      <img src="./images/fotoKaren.JPG" style="margin-bottom: 5px;" width="400"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
@@ -396,29 +396,29 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
   </tr>
   <tr>
     <td align="left">
-    <b>Código:</b>
-    <br>
-    U20201e493
+      <b>Código:</b>
+      <br>
+      U20201e493
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Carrera:</b>
-    <br>
-    Ingeniería de Software
+      <b>Carrera:</b>
+      <br>
+      Ingeniería de Software
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Acerca de:</b>
-    <br>
-    Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo       para poder llegar a los objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me        sea asignada será gestionada con diligencia.
+      <b>Acerca de:</b>
+      <br>
+      Cuento con gran capacidad de autoaprendizaje, lo cual me permite alcanzar mejores índices de productividad individualmente y en equipo, cumpliendo con los objetivos de la empresa. Tengo un alto sentido de compromiso y responsabilidad, garantizando que la tarea asignada será gestionada con diligencia.
     </td>
   </tr>
 
-   <tr align="center">
+  <tr align="center">
     <td rowspan="4">
-      <img src="./images/fotoAlvaro.jpg" style="margin-bottom: 5px;" width="900"/>
+      <img src="./images/fotoAlvaro.jpg" style="margin-bottom: 5px;" width="400"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
@@ -428,28 +428,29 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
   </tr>
   <tr>
     <td align="left">
-    <b>Código:</b>
-    <br>
-    U202213384
+      <b>Código:</b>
+      <br>
+      U202213384
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Carrera:</b>
-    <br>
-    Ingeniería de Software
+      <b>Carrera:</b>
+      <br>
+      Ingeniería de Software
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Acerca de:</b>
-    <br>
-    Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el género de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.	
+      <b>Acerca de:</b>
+      <br>
+      Hola, soy Alvaro, estudiante del quinto ciclo de Ingeniería de Software. Me gusta leer, especialmente fantasía y ciencia ficción. Disfruto escribir en mi tiempo libre y tengo buen nivel de programación en C# y C++, por lo que espero aportar al equipo con ideas creativas y resolver problemas técnicos.
+    </td>
   </tr>
 
-   <tr align="center">
+  <tr align="center">
     <td rowspan="4">
-      <img src="./images/fotoJavier.webp" style="margin-bottom: 5px;" width="900"/>
+      <img src="./images/fotoJavier.webp" style="margin-bottom: 5px;" width="400"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
@@ -459,29 +460,29 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
   </tr>
   <tr>
     <td align="left">
-    <b>Código:</b>
-    <br>
-    U201719648
+      <b>Código:</b>
+      <br>
+      U201719648
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Carrera:</b>
-    <br>
-    Ingeniería de Sistemas
+      <b>Carrera:</b>
+      <br>
+      Ingeniería de Sistemas
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Acerca de:</b>
-    <br>
-    Mi nombre es Javier Ramos, actualmente me encuentro en el proceso de traslado hacia la carrera de Ingeniería de Software, ya que deseo formalizar mis conocimientos en el área que me apasiona y a la que me dedico laboralmente.
-Tengo experiencia en AWS, diversas tecnologías frontend, backend y CMS. Además me encuentro certificado en Contentful y AWS
+      <b>Acerca de:</b>
+      <br>
+      Mi nombre es Javier Ramos, en proceso de traslado a Ingeniería de Software para formalizar mi experiencia en el área que me apasiona. Tengo experiencia en AWS, tecnologías frontend, backend, y CMS, y cuento con certificaciones en Contentful y AWS.
     </td>
   </tr>
-   <tr align="center">
+
+  <tr align="center">
     <td rowspan="4">
-      <img src="./images/andres.png" style="margin-bottom: 5px;" width="900"/>
+      <img src="./images/andres.png" style="margin-bottom: 5px;" width="400"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
@@ -491,27 +492,27 @@ Tengo experiencia en AWS, diversas tecnologías frontend, backend y CMS. Además
   </tr>
   <tr>
     <td align="left">
-    <b>Código:</b>
-    <br>
-    U20201A300
+      <b>Código:</b>
+      <br>
+      U20201A300
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Carrera:</b>
-    <br>
-    Ingeniería de software
+      <b>Carrera:</b>
+      <br>
+      Ingeniería de Software
     </td>
   </tr>
   <tr>
     <td align="left">
-    <b>Acerca de:</b>
-    <br>
-    Mi nombre es Andres y tengo 20 años , soy estudiante de la carrera de Ingeniería de Software. Mis principales hobbies son: ver películas , dibujar y hacer deporte. Me comprometo como miembro a aportar en la realización de las entregas correspondientes
+      <b>Acerca de:</b>
+      <br>
+      Mi nombre es Andres, tengo 20 años y soy estudiante de Ingeniería de Software. Mis principales hobbies son ver películas, dibujar y hacer deporte. Como miembro del equipo, me comprometo a aportar en cada entrega correspondiente.
     </td>
   </tr>
-
 </table>
+
 
 ## 1.2 Solution Profile
 
@@ -615,7 +616,7 @@ Un posible desafío es asegurar la confianza y satisfacción de los propietarios
 
 #### 1.2.2.4 Lean UX Canvas
 
-<img src="/./images/leanuxcanva.png" >
+<img src="./images/leanuxcanva.png" >
 
 ## 1.3. Segmentos objetivo
 
@@ -2019,7 +2020,7 @@ En este apartado detallamos cada clase de nuestro diagrama
 
 ### 4.8.1. Database Diagram
 
-<img src="../.././images/bd.png" alt="Database Diagram"> <br>
+<img src="./images/bd.png" alt="Database Diagram"> <br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2296,25 +2297,25 @@ Tras el desarrolo de la Landing Page en el Sprint 1, obtuvimos el siguiente resu
 <b>Seccion Inicio</b>
 
 <div align="center">
-    <img src="./img/inicioLP.png" style="margin: 10px 0;" width="90%"/>
+    <img src="./images/inicioLP.png" style="margin: 10px 0;" width="90%"/>
 </div>
 
 <b>Seccion ¿Que Ofrecemos?</b>
 
 <div align="center">
-    <img src="./img/que-ofrecemosLP.png"  style="margin: 10px 0;" width="90%"/>
+    <img src="./images/que-ofrecemosLP.png"  style="margin: 10px 0;" width="90%"/>
 </div>
 
 <b>Seccion Nosotros</b>
 
 <div align="center">
-    <img src="./img/nosotrosLP.png"  style="margin: 10px 0;" width="90%"/>
+    <img src="./images/nosotrosLP.png"  style="margin: 10px 0;" width="90%"/>
 </div>
 
 <b>Seccion Contactanos</b>
 
 <div align="center">
-    <img src="./img/contactanosLP.png" style="margin: 10px 0;" width="90%"/>
+    <img src="./images/contactanosLP.png" style="margin: 10px 0;" width="90%"/>
 </div>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -2422,8 +2423,25 @@ En el tercer sprint, se desarrollará el backend de nuestra aplicacion web.
 
 ### 5.2.3.3.Development Evidence for Sprint Review.
 
+| Repository              | Branch            | Commit ID | Mensaje de Confirmación                      | Cuerpo del Mensaje de Confirmación           | Fecha de Commit |
+|-------------------------|-------------------|-----------|----------------------------------------------|----------------------------------------------|-----------------|
+| ConnectionLink-Frontend | feature/auth      | 549c853   | feat: Implementar registro y login           | Modificaciones en frontend y backend         | 31/10/2024      |
+| ConnectionLink-Frontend | feature/invoice   | 8e75097   | feat: Agregar funcionalidad de facturas      | Modificaciones en frontend y backend         | 31/10/2024      |
+| ConnectionLink-Frontend | feature/vehicle   | e97100d   | feat: Desarrollar funcionalidad de vehículos | Modificaciones en frontend y backend         | 31/10/2024      |
+| ConnectionLink-Frontend | feature/review    | dfa3cb6   | feat: Añadir funcionalidad de reseñas        | Modificaciones en frontend y backend         | 31/10/2024      |
+| ConnectionLink-Frontend | feature/support   | d291f81   | feat: Incorporar funcionalidad de soporte    | Modificaciones en frontend y backend         | 31/10/2024      |
+
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+| Repository              | Branch                     | Commit ID                                | Mensaje de Confirmación                      | Cuerpo del Mensaje de Confirmación            | Fecha de Commit |
+|-------------------------|----------------------------|------------------------------------------|----------------------------------------------|----------------------------------------------|-----------------|
+| ConnectionLink-Frontend | main                       | 549c853fa8f881f0812bde6388c5d6f688d1212f | Fusionar rama 'feature/auth'       | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main                       | 8e750977c6f2b1eab62bff810de16a80281ffc75 | Fusionar rama 'feature/invoice'      | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main                       | e9721c01e07a7abdf5effbfcaea451cb2ce47feb | Fusionar rama 'feature/vehicle'      | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main                       | e94100d6d283537db2c705afdc436444eaefd807 | Fusionar rama 'feature/support'       | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main                       | dfa3cb61a25c4cbb63b544601189322e70cebdf7 | Fusionar rama 'feature/review'        | Fusión de frontend y backend para validaciones | 31/10/2024      |
+
 
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
@@ -2439,8 +2457,12 @@ Los endpoints son puntos de acceso específicos en una aplicación web que permi
 | /support   | En esta ruta se encuentra la funcionalidad de soporte al usuario, gestionando solicitudes y consultas de asistencia técnica.             |
 | /booking   | En esta ruta se gestiona la funcionalidad de reservas de vehículos, permitiendo a los usuarios realizar y administrar sus reservas.      |
 | /review    | En esta ruta se gestionan las reseñas y valoraciones de los vehículos, permitiendo a los usuarios dejar su opinión y calificación.        |
+| /invoice    | En esta ruta se gestionan los pagos de los vehículos, permitiendo a los usuarios mantener un control de sus facturas pendientes|
+
 
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
@@ -2521,13 +2543,18 @@ Aplicacion Web.
 
 ### 5.3.2. Registro de Entrevistas.
 
-### 5.3.3. Evaluaciones según heurísticas.
-
 ## 5.4. Video About-the-Product.
 
 # Conclusiones
-
 ### Conclusiones y recomendaciones
+
+- Conocimiento en desarrollo web: Durante el proyecto, dominamos herramientas y tecnologías de desarrollo web, incluyendo HTML, CSS y JavaScript. Gracias a este aprendizaje, implementamos diseños visualmente atractivos y responsivos, adaptables a distintas pantallas y dispositivos.
+
+- Enfoque en el usuario: Adoptamos una metodología de diseño centrada en el usuario para la creación de la landing page y la aplicación web. Este enfoque nos permitió identificar y entender mejor las necesidades y expectativas de los usuarios, creando una experiencia de uso más intuitiva y satisfactoria.
+
+- Experiencia en funcionalidades interactivas: A lo largo del desarrollo de la aplicación web, integramos diversas funcionalidades interactivas, como formularios de registro personalizados, ganando experiencia en la creación de elementos que mejoran la interactividad del usuario.
+
+- Principios de optimización para motores de búsqueda (SEO): La creación de la landing page también nos permitió profundizar en la importancia de aplicar buenas prácticas de SEO, como la optimización del contenido y el uso de palabras clave estratégicas. Esto contribuye a mejorar la visibilidad de la página en los motores de búsqueda, facilitando su indexación y mejorando su posicionamiento en los resultados.
 
 ### Video About-the-Team
 
