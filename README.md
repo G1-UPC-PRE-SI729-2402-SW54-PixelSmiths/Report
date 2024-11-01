@@ -66,7 +66,6 @@ Agosto del 2024
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
-          <li>Arce Huaman, Luis Andres</li>
           <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
           <li>Cruz Ticona, Aaron Alejandro</li>
           <li>Ramos Huamanchumo, Javier</li>
@@ -90,7 +89,6 @@ Agosto del 2024
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
-          <li>Arce Huaman, Luis Andres</li>
           <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
           <li>Cruz Ticona, Aaron Alejandro</li>
           <li>Ramos Huamanchumo, Javier</li>
@@ -105,6 +103,26 @@ Agosto del 2024
           <li>Capítulo IV: Product Design</li>
           <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
           <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+    </tr>
+      <tr>
+      <td><strong>TB2</strong></td>
+      <td>Viernes 01 de Noviembre</td>
+      <td>
+        <ul>
+          <li>Ramos Carpio, Karen</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
+          <li>Cruz Ticona, Aaron Alejandro</li>
+          <li>Ramos Huamanchumo, Javier</li>
+        </ul>
+      </td>
+      <td>
+        Se han editado los siguientes capítulos:
+        <ul>
+          <li>Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Conclusiones, Bibliografía y Anexos</li>
         </ul>
       </td>
   </tr>
