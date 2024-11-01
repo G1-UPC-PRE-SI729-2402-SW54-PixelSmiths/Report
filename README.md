@@ -184,7 +184,11 @@ Agosto del 2024
         <ul>
           <p><strong>TP</strong></p>
           <li>Pinto Fuentes Rivera, Alvaro: En terminos de correcciones, me encargué de arreglar el diagrama C4 en base al feedback conseguido de nuestra anterior entrega. En un nivel de comunicación, gracias a que realicé nuevamente el diagrama C4 pude comunicar correctamente la estructura de nuestro proyecto, además de que en el código pude mostrar lo expresado en nuestros mockups. </li>
-        </ul> 
+        </ul>
+        <ul>
+          <p><strong>TB2</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: Para esta entrega en el desarrollo de la exposiscion y entrevistas me enfoque en comunicar y mostrar de la mejor forma el estado de nuestro proyecto asi como incitar a quienes escuchan a probar nuestro proyecto.</li>
+        </ul>  
         <ul>
           <p><strong>TB1</strong></p>
           <li>
@@ -220,6 +224,10 @@ Agosto del 2024
           <p><strong>TP</strong></p>
           <li>Pinto Fuentes Rivera, Alvaro: En el ámbito de la ingeniería, al redactar las correcciones de nuestro documento me esfuerzo por esta vez utilizar un lenguaje claro y preciso que sea comprensible para no generar complicaciones en realización de sesiones futuras.</li>
         </ul>
+        <ul>
+          <p><strong>TB2</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: Durante el desarrollo del sprint 3 me enfoque en comunicar de la mejor forma los avances y misiones que tenemos como equipo.</li>
+        </ul> 
       </td>
       <td><p><strong>TB1</strong></p>
         <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
@@ -2582,19 +2590,17 @@ Aplicacion Web.
 <b> Entrevista 1 </b> <br>
 Entrevistador: Alvaro Pinto
 
-- Nombre: 
-- Apellidos: 
-- Edad: 
-- Distrito: 
-- Link de la entrevista: [Link Entrevista](https:/)
+- Nombre: Diego
+- Apellidos: Cano Acero
+- Edad: 22 años
+- Distrito: Lima
+- Link de la entrevista: [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/EfELYv151I5Kui6rEtJQV0sBHB77UhrNxgbz7ODTbZuJyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Zp9b7b)
 - Duración: 5:00 minutos
 - Inicio de la entrevista: 0:01
 
 Evidencia de la reunión:
 
-<p align="center">
-  <img src="./images/Entrevista1a.png" alt="Entrevista1a" width="500px">
-</p>
+![alt text](image-3.png)
 
 Resumen de la entrevista:
 
