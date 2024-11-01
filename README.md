@@ -159,6 +159,18 @@ Agosto del 2024
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
+          <li>Cruz Ticona, Aaron: Existio buena organizacón luego de un comienzo complicado, sin embargo aún tenemos que mejorar la comunicación para poder desarrollar un mejor producto final.</li>
+        </ul> 
+        <ul>
+          <p><strong>TP</strong></p>
+          <li>Cruz Ticona, Aaron: Para esta entrega se trabajo de mejor manera los aspectos a realizar, hubo cooperación para completar satisfactoriamente la gran parte del FrontEnd. Finalmente mencionar que si hubo comunicación oral. </li>
+        </ul>
+        <ul>
+          <p><strong>TB2</strong></p>
+          <li>Cruz Ticona, Aaron: Se realizo un considerable avance del backend siendo fortalecido principalmente por lo realizado por un integrante del grupo. Por el momento el avance se esta logrando. </li>
+        </ul>
+        <ul>
+          <p><strong>TB1</strong></p>
           <li>Ramos Carpio, Karen: Me siento satisfecha por haber trabajado en un entorno colaborativo donde se valoran las contribuciones de todos los miembros del equipo, lo que me ha hecho sentir parte de un equipo               cohesionado y alineado con los objetivos, tranaje en el capitulo 5, recopilando toda la informacion de las herramientas trabajadas asi como de los despligues de lo trabajado.</li>
         </ul> 
         <ul>
