@@ -2462,7 +2462,11 @@ Los endpoints son puntos de acceso específicos en una aplicación web que permi
 
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+![alt text](image.png)
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
