@@ -2565,3 +2565,8 @@ Aplicacion Web.
 ---
 
 # Anexos
+
+Link FrontEnd: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend
+Link Backend: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Backend
+
+Link Deploy FrontEnd: https://take-my-car.netlify.app/sign-in
