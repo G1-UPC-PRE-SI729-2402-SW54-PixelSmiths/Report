@@ -2543,6 +2543,53 @@ Aplicacion Web.
 
 ### 5.3.2. Registro de Entrevistas.
 
+<h3>Segmento 1:</h3>
+
+<b> Entrevista 1 </b> <br>
+Entrevistador: Alvaro Pinto
+
+- Nombre: 
+- Apellidos: 
+- Edad: 
+- Distrito: 
+- Link de la entrevista: [Link Entrevista](https:/)
+- Duración: 5:00 minutos
+- Inicio de la entrevista: 0:01
+
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="./images/Entrevista1a.png" alt="Entrevista1a" width="500px">
+</p>
+
+Resumen de la entrevista:
+
+
+
+<h3>Segmento 2: Usuarios que tienen la necesidad de alquilar un vehículo</h3>
+
+<b> Entrevista 1 </b> <br>
+Entrevistador: Alvaro Pinto
+
+- Nombre: Adriano
+- Apellido: Igreda
+- Edad: 20 años
+- Distrito: Callao
+- Link de la entrevista: [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EbmOVbZK7n1IjFIBra-OibYBB8uHXfhLuQzFkoEI0tZhOw?e=e7VvkA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Duración: 6:26 minutos
+- Inicio de la entrevista: 0:01
+
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="./images/Entrevista1b.png" alt="Entrevista1b" width="500px">
+</p>
+
+Resumen de la entrevista:
+
+En la entrevista, Adriano Igreda interactua principalmente con nuestro Landing Page y nuestro Front End, donde encuentra atractiva la organización visual de nuestra plataforma, donde podemos resaltar su recomendación en cuento a la parte estitica de colores dentro de la aplicación Front End. Lo que en términos se resume en una falta de colores, ya que al momento predomina el blanco sin que hay mucha variedad, lo cual es un punto a mejorar.
+
+
 ## 5.4. Video About-the-Product.
 
 # Conclusiones
