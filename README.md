@@ -2462,7 +2462,11 @@ Los endpoints son puntos de acceso específicos en una aplicación web que permi
 
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+![alt text](image.png)
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
@@ -2612,3 +2616,8 @@ En la entrevista, Adriano Igreda interactua principalmente con nuestro Landing P
 ---
 
 # Anexos
+
+Link FrontEnd: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend
+Link Backend: https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Backend
+
+Link Deploy FrontEnd: https://take-my-car.netlify.app/sign-in
