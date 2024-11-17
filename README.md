@@ -2634,7 +2634,23 @@ Evidencia de la reunión:
 
 Resumen de la entrevista:
 
+<b> Entrevista 2 </b> <br>
+Entrevistador: Karen Ramos
 
+- Nombre: Braython
+- Apellidos: Chuctaya Ramirez
+- Edad: 22 años
+- Distrito: Lima
+- Link de la entrevista: [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/EfELYv151I5Kui6rEtJQV0sBHB77UhrNxgbz7ODTbZuJyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Zp9b7b)
+- Duración: 5:20 minutos
+- Inicio de la entrevista: 0:01
+
+<p align="center">
+  <img src="./images/EntrevistaBryton.png" alt="Entrevista1d" width="500px">
+</p>
+
+Resumen de la entrevista:
+Braython de 25 años, propietario de un vehículo, considera que la landing page es clara y profesional, pero podría ser más interactiva y detallada para captar mejor su interés. Sugiere incluir herramientas como calculadoras de ingresos y testimonios de otros usuarios. Respecto a la aplicación web, valora su funcionalidad y consistencia, pero señala que el diseño podría ser más moderno, con colores vivos y mayor intuición en los iconos. También recomienda optimizar la legibilidad del texto y simplificar los formularios para mejorar la experiencia general.
 
 <h3>Segmento 2: Usuarios que tienen la necesidad de alquilar un vehículo</h3>
 
