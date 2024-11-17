@@ -27,9 +27,9 @@ Startup: PixelSmiths
 Producto: TakeMyCar
 
 |             Integrantes             |   Código   |
-| :---------------------------------: | :--------: |
+|:-----------------------------------:|:----------:|
 |         Ramos Carpio, Karen         | U20201E493 |
-|       Arce Huaman Luis Andres       | U20201A300 |
+|      Marzál Pérez, Jamir Ángel      | U201824409 |
 |      Ramos Huamanchumo, Javier      | U201719648 |
 | Pinto Fuentes Rivera, Alvaro Felipe | U202213384 |
 |    Cruz Ticona, Aaron Alejandro     | U202213502 |
@@ -195,10 +195,28 @@ Agosto del 2024
             Javier Ramos: Me complace haber participado en un equipo colaborativo donde cada contribución es valorada, lo que reforzó mi sentido de pertenencia y alineación con nuestros objetivos. Me encargué de transmitir nuestra visión del diseño de la aplicación web a nuestros dos segmentos objetivo. 
           </li>
         </ul>
-      <ul>
+        <ul>
           <p><strong>TP</strong></p>
           <li>
             Javier Ramos: Durante el proyecto, mejoré mi habilidad para comunicar ideas y resultados claramente a audiencias variadas, una destreza clave mientras trabajaba en la base de la aplicación frontend. Esta capacidad fue crucial para colaborar eficazmente con equipos técnicos y no técnicos, asegurando que los objetivos se comprendieran y cumplieran. La comunicación efectiva impulsó decisiones estratégicas y solución de problemas, contribuyendo al éxito del producto.
+          </li>
+        </ul>
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>
+            Marzál Pérez, Jamir: El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.
+          </li>
+        </ul>
+        <ul>
+          <p><strong>TP</strong></p>
+          <li>
+            Marzál Pérez, Jamir: En esta entrega, corregí un problema con los wireflows que se presentó en la entrega anterior. Además, desarrollé el componente Resources del frontend en la aplicación.
+          </li>
+        </ul>
+        <ul>
+          <p><strong>TB2</strong></p>
+          <li>
+            Marzál Pérez, Jamir: En esta entrega, trabajé en el desarrollo del bounded context Vehicles para el backend. Implementé las funcionalidades clave relacionadas con la gestión de vehículos, asegurando que cumplan con los requisitos del proyecto y siguiendo las mejores prácticas de diseño y desarrollo.
           </li>
         </ul>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar el trabajo cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
@@ -227,7 +245,19 @@ Agosto del 2024
         <ul>
           <p><strong>TB2</strong></p>
           <li>Pinto Fuentes Rivera, Alvaro: Durante el desarrollo del sprint 3 me enfoque en comunicar de la mejor forma los avances y misiones que tenemos como equipo.</li>
+        </ul>
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Marzál Pérez, Jamir: En esta entrega, trabajé en el Empathy Mapping para comprender mejor a los usuarios, elaboré los As-Is y To-Be Scenario Mapping para analizar y mejorar procesos, redacté las User Stories necesarias, estructuré los Organization Systems y diseñé los Web Applications Wireflow Diagrams para definir la navegación de la aplicación.</li>
         </ul> 
+         <ul>
+          <p><strong>TP</strong></p>
+          <li>Marzál Pérez, Jamir: Durante el transcurso del segundo sprint, se llevó a cabo la implementación de los componentes esenciales para el frontend del proyecto. Este proceso implicó la traducción de los diseños y especificaciones en código funcional y estéticamente atractivo para el usuario final.</li>
+        </ul>
+        <ul>
+          <p><strong>TB2</strong></p>
+          <li>Marzál Pérez, Jamir: Durante el desarrollo del sprint 3 prioricé que todo lo escrito fuera de fácil entendimiento dejando los principales conceptos claros para asegurar el entendimiento de mis ideas.</li>
+        </ul>
       </td>
       <td><p><strong>TB1</strong></p>
         <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
@@ -520,19 +550,19 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
 
   <tr align="center">
     <td rowspan="4">
-      <img src="./images/andres.png" style="margin-bottom: 5px;" width="400"/>
+      <img src="./images/fotoJamir.jpg" style="margin-bottom: 5px;" width="400"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
       <br>            
-      Luis Andres Arce Huaman
+      Jamir Ángel Marzál Pérez
     </td>
   </tr>
   <tr>
     <td align="left">
       <b>Código:</b>
       <br>
-      U20201A300
+      U201824409
     </td>
   </tr>
   <tr>
@@ -546,7 +576,7 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
     <td align="left">
       <b>Acerca de:</b>
       <br>
-      Mi nombre es Andres, tengo 20 años y soy estudiante de Ingeniería de Software. Mis principales hobbies son ver películas, dibujar y hacer deporte. Como miembro del equipo, me comprometo a aportar en cada entrega correspondiente.
+      Soy estudiante de Ingeniería de Software. Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de programación C++, C# y Python.
     </td>
   </tr>
 </table>
