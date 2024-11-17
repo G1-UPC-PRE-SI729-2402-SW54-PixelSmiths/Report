@@ -2660,6 +2660,27 @@ Resumen de la entrevista:
 En la entrevista, Adriano Igreda interactua principalmente con nuestro Landing Page y nuestro Front End, donde encuentra atractiva la organización visual de nuestra plataforma, donde podemos resaltar su recomendación en cuento a la parte estitica de colores dentro de la aplicación Front End. Lo que en términos se resume en una falta de colores, ya que al momento predomina el blanco sin que hay mucha variedad, lo cual es un punto a mejorar.
 
 
+<b> Entrevista 2 </b> <br>
+Entrevistador: Karen Ramos
+
+- Nombre: Jhon
+- Apellido: Hernanadez
+- Edad: 21 años
+- Distrito: Lima
+- Link de la entrevista: [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/Ee4pbeUYbhhLsqayh209K0oBhdOpWdj1w6H4SUGGak2gNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LZAw7e)
+- Duración: 4:56 minutos
+- Inicio de la entrevista: 0:01
+
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="./images/EntrevistaJhon.png" alt="Entrevista1b" width="500px">
+</p>
+
+Resumen de la entrevista:
+
+El encuestado, Jhon de 21 años de Lima, valora el diseño de la landing page por su modernidad y claridad, pero sugiere enriquecer el contenido con más ejemplos visuales, testimonios y detalles sobre precios. Considera que el diseño de la aplicación es funcional y consistente, aunque podría beneficiarse de mejoras en contraste, tipografía y disposición. Para ambos casos, resalta la importancia de la navegación intuitiva y de priorizar funcionalidad sobre estética.
+
 ## 5.4. Video About-the-Product.
 
 # Conclusiones
