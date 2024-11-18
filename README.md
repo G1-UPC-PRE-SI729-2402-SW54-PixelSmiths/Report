@@ -217,6 +217,10 @@ Agosto del 2024
           <li>Pinto Fuentes Rivera, Alvaro: Para esta entrega en el desarrollo de la exposiscion y entrevistas me enfoque en comunicar y mostrar de la mejor forma el estado de nuestro proyecto asi como incitar a quienes escuchan a probar nuestro proyecto.</li>
         </ul>  
         <ul>
+          <p><strong>TF</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: En la conclusión de nuestro trabajo pude comunicar satisfactoriamente mi pensar sobre como fue nuestro trabajo en el grupo.</li>
+        </ul> 
+        <ul>
           <p><strong>TB1</strong></p>
           <li>
             Javier Ramos: Me complace haber participado en un equipo colaborativo donde cada contribución es valorada, lo que reforzó mi sentido de pertenencia y alineación con nuestros objetivos. Me encargué de transmitir nuestra visión del diseño de la aplicación web a nuestros dos segmentos objetivo. 
@@ -290,6 +294,10 @@ Agosto del 2024
         <ul>
           <p><strong>TB2</strong></p>
           <li>Pinto Fuentes Rivera, Alvaro: Durante el desarrollo del sprint 3 me enfoque en comunicar de la mejor forma los avances y misiones que tenemos como equipo.</li>
+        </ul>
+        <ul>
+          <p><strong>TF</strong></p>
+          <li>Pinto Fuentes Rivera, Alvaro: Para el TF he concluido con los endpoints restantes asegurandome de cumplir con lo comunicado en nuestro proyecto, asimismo, para no tener conflictos con el front estuvimos comunicandonos para agilizar el trabajo.</li>
         </ul>
         <ul>
           <p><strong>TB1</strong></p>
@@ -2618,6 +2626,22 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat(vehicles): add new vehicle form, delete vehicle and validations   | feat(vehicles): add new vehicle form, delete vehicle and validations   | Javier Ramos |
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat: add random vehicle image to login                                | feat: add random vehicle image to login                                | Javier Ramos |
 
+
+### 5.2.2.4 Execution Evidence for Sprint Review
+
+FrontEnd Inicio:
+
+![alt text](image-4.png)
+
+FrontEnd Invoices:
+![alt text](image-5.png)
+
+FrontEnd Vehicles:
+![alt text](image-6.png)
+
+FrontEnd Profile:
+![alt text](image-7.png)
+
 ## 5.2.3 Sprint 3
 
 ### 5.2.3.1 Sprint Planning 3
@@ -2689,7 +2713,7 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
     </tr>
   </tbody>
 </table>
-                                                                          
+
 
 ### 5.2.3.2 Sprint backlog 3
 
