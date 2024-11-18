@@ -2254,7 +2254,7 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
     </tr>
     <tr>
       <td>Ubicación</td>
-      <td>Modalidad remota a través de google meet</td>
+      <td>Modalidad remota a través de Google Meet</td>
     </tr>
     <tr>
       <td>Preparado por</td>
@@ -2265,23 +2265,17 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
       <td>Todos los miembros de PixelSmiths</td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
         <strong>Sprint n - 1 Review</strong>
       </td>
-    </tr>
-    <tr>
-      <td>Resumen</td>
       <td>
-        Se creará la organización de PixelSmiths en Github y el repositorio de la organización. Además, se implementará el single page landing page.
+        Se creó la organización de PixelSmiths en Github y el repositorio de la organización. Además, se implementará el single page landing page.
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
         <strong>Sprint n - 1 Retrospective</strong>
       </td>
-    </tr>
-    <tr>
-      <td>Resumen</td>
       <td>
         La implementación para el landing se ha realizado mediante html y css.
       </td>
@@ -2292,12 +2286,20 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
       </td>
     </tr>
     <tr>
-      <td>Sprint 1 Velocity</td>
+      <td>
+        <strong>Sprint 1 Goal</strong>
+      </td>
+      <td>
+        El enfoque para este primer sprint es implementar y desarrollar el Landing Page de nuestro producto el cual va a incluir nuestra presentación como equipo y mostrar a nuestro público que les ofrecemos de la forma más sencilla y precisa posible.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 1 Velocity</strong></td>
       <td>5</td>
     </tr>
     <tr>
-      <td>Sum of Story Points</td>
-      <td>8</td>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>6</td>
     </tr>
   </tbody>
 </table>
@@ -2331,7 +2333,7 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
        <td>T01</td>
        <td>Estructura de la información</td>
        <td>Identificar todo lo correspondiente para el Landing </td>
-       <td>0.1</td>
+       <td>4</td>
        <td>Karen Ramos</td>
        <td>Done</td>
     </tr>
@@ -2340,7 +2342,7 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
        <td>T02</td>
        <td>Estructura Navbar</td>
        <td>Crear HTML del navbar con direccionamiento a secciones</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Alvaro Pinto</td>
        <td>Done</td>
     </tr>
@@ -2348,7 +2350,7 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
        <td>T03</td>
        <td>Estilos Navbar</td>
        <td>Asignar stilos al navbar</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -2356,7 +2358,7 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
        <td>T04</td>
        <td>Agregar CSS styles</td>
        <td>Asignar stilos generales para la página</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Javier Ramos</td>
        <td>Done</td>
     </tr>
@@ -2365,7 +2367,7 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
        <td>T04</td>
        <td>Agregar Secciones Informativas</td>
        <td>Agregar todas las secciones que brinden información al usuario</td>
-       <td>0.5</td>
+       <td>4</td>
        <td>Javier Ramos</td>
        <td>Done</td>
     </tr>
@@ -2375,7 +2377,7 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
        <td>T05</td>
        <td>Contacto visible para los clientes</td>
        <td>Agregar la sección de contactos</td>
-       <td>1.0</td>
+       <td>4</td>
        <td>Aaron Cruz</td>
        <td>Done</td>
     </tr>
@@ -2440,37 +2442,167 @@ A continuación se presentan capturas de los insights del repositorio del landin
 
 ### 5.2.2.1 Sprint Planning 2
 
-| **Sprint #**                       | Sprint 2                                                                                                                                       |
-| :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint Planning Background**     |                                                                                                                                                |
-| Date                               | 2024-09-24                                                                                                                                     |
-| Time                               | 11:00 PM                                                                                                                                       |
-| Location                           | Virtual                                                                                                                                        |
-| Prepared by                        | Cruz Ticona, Aaron Alejandro                                                                                                                   |
-| Attendees (to planning meeting)    | <p>Ramos Huamanchumo, Javier</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Ramos Carpio, Karen</p><p>Cruz Ticona, Aaron Alejandro</p><p></p> |
-| Sprint n - 1 Review Summary        |                                                                                                                                                |
-| Sprint n - 1 Retrospective Summary |                                                                                                                                                |
-| **Sprint Goal & User Stories**     |                                                                                                                                                |
-| Sprint 2 Goal                      | Realizar el FrontEnd Web Applications                                                                                                          |
-| Sprint 2 Velocity                  | 30                                                                                                                                             |
-| Sum of Story Points                | 30                                                                                                                                             |
+<table>
+  <caption>Sprint #2</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>24/09/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>23:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de Google Meet</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Integrantes de PixelSmith</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de PixelSmiths</td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint n - 2 Review</strong>
+      </td>
+      <td>
+        Se complemento el desarrollo del Landing Page.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint n - 2 Retrospective</strong>
+      </td>
+      <td>
+        Como grupo necesitamos comunicarnos de forma más precisa y mantener dicha comunicación de forma continua.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint 2 Goal</strong>
+      </td>
+      <td>
+        El enfoque para este segundo sprint luego de terminar de implementar y desarrollar el Landing Page, es pasar a realizar el mismo proceso pero en esta ocación dirigido a la aplicación web, o al menos generar una primera vista de como será la presentación de nuestro producto TakeMyCar.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Velocity</strong></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>                                                          
 
 ### 5.2.2.2 Sprint Backlog 2.
 
 En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 
-| Sprint #   | Sprint 2                    |                  |                                               |                                                          |                   |              |                                             |
-| ---------- | --------------------------- | ---------------- | --------------------------------------------- | -------------------------------------------------------- | ----------------- | ------------ | ------------------------------------------- |
-| User Story |                             | Work-Item / Task |                                               |                                                          |                   |              |                                             |
-| Id         | Title                       | Id               | Title                                         | Description                                              | Estimation(Hours) | Assigned To  | Status (To-Do / In-Process / Review / Done) |
-| HU01       | Registrar un vehículo       | TS01             | Registro exitoso de nuevos vehiculos          | Registrar un vehiculo con su información básica          | 3                 | Javier Ramos | Done                                        |
-|            |                             | TS02             | Editar vehiculo del cliente<br>               | Modificar la información de un vehiculo                  | 2                 | Javier Ramos | Done                                        |
-| HU02       | Alquilar un vehículo<br>    | TS03             | Seleccionar un vehiculo                       | Poder seleccionar un vehiculo de la lista disponible     | 2                 | Javier Ramos | Done                                        |
-| HU04       | Buscar un vehículo<br>      | TS04             | Busqueda de vehiculo                          | Poder buscar un vehiculo de la lista disponible          | 2                 | Javier Ramos | Done                                        |
-| HU05       | Gestionar reservaS          | TS05             | Agregar reservas y su invoice correspondiente | Poder realizar un invoice teniendo en cuenta el vehiculo | 2                 | Alvaro Pinto | Done                                        |
-| HU06       | Gestión de Perfiles<br><br> | TS06             | Ver perfil                                    | Poder ver y modificar el perfil de usuario               | 1                 | Aaron Cruz   | Done                                        |
-| HU08       | Soporte al Usuario          | TS07             | Acceso al equipo de soporte                   | Poder mandar un ticket al soporte                        | 1                 | Aaron Cruz   | Done                                        |
-| HU16       | Registro de Nuevos Usuarios | TS08             | Registro exitoso de nuevos usuarios           | Registrar un usuario con su correo y contraseña          | 2                 | Karen Ramos  | Done                                        |
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+         </tr>
+       <td rowspan="1">HU01</td>
+       <td rowspan="1">Registro de Usuarios</td>
+       <td>T01</td>
+       <td>Registro exitoso de nuevos usuarios</td>
+       <td>Registrar un usuario con su correo y contraseña</td>
+       <td>4</td>
+       <td>Karen Ramos</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td rowspan="1">HU02</td>
+       <td rowspan="1">Listado de Vehículos</td>
+       <td>T02</td>
+       <td>Listado de nuevos vehiculos. </td>
+       <td>Registrar un vehiculo con su información básica y modificar la información de un vehículo.</td>
+       <td>5</td>
+       <td>Javier Ramos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="1">HU03</td>
+       <td rowspan="1">Búsqueda de Vehículos</td>
+       <td>T03</td>
+       <td>Buscar un vehiculo</td>
+       <td>Poder buscar un vehiculo de la lista disponible </td>
+       <td>4</td>
+       <td>Javier Ramos</td>
+       <td>Done</td>
+    </tr>
+       <td rowspan="1">HU04</td>
+       <td rowspan="1">Reserva de Vehiculo</td>
+       <td>T04</td>
+       <td>Seleccionar un vehiculo</td>
+       <td>Poder seleccionar un vehiculo de la lista disponible </td>
+       <td>5</td>
+       <td>Alvaro Pinto</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+       <td rowspan="1">HU05</td>
+       <td rowspan="1">Gestionar Alquiler</td>
+       <td>T05</td>
+       <td>Agregar reservas y su invoice correspondiente</td>
+       <td>Poder realizar un invoice teniendo en cuenta el vehiculo</td>
+       <td>5</td>
+       <td>Alvaro Pinto</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+       <td rowspan="1">HU06</td>
+       <td rowspan="1">Gestión de Perfiles</td>
+       <td>T06</td>
+       <td>Ver perfil</td>
+       <td>Poder ver y modificar el perfil de usuario </td>
+       <td>4</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+       <td rowspan="1">HU08</td>
+       <td rowspan="1">Soporte al Usuario</td>
+       <td>T07</td>
+       <td>Acceso al equipo de soporte</td>
+       <td>Poder acceder a la información de soporte</td>
+       <td>4</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+</table>
 
 ### 5.2.2.3 Development Evidence for Sprint Review
 
@@ -2490,37 +2622,168 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 
 ### 5.2.3.1 Sprint Planning 3
 
-| **Sprint #**                       | Sprint 3                                                                                                                                       |
-| :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint Planning Background**     |                                                                                                                                                |
-| Date                               | 2024-10-29                                                                                                                                     |
-| Time                               | 10:30 PM                                                                                                                                       |
-| Location                           | Virtual                                                                                                                                        |
-| Prepared by                        | Cruz Ticona, Aaron Alejandro                                                                                                                   |
-| Attendees (to planning meeting)    | <p>Ramos Huamanchumo, Javier</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Ramos Carpio, Karen</p><p>Cruz Ticona, Aaron Alejandro</p><p></p> |
-| Sprint 3 - 1 Review Summary        | En el sprint 2, se realizó la implementación de la vista del arrendador de vehiculos.                                                          |
-| Sprint 3 - 1 Retrospective Summary |  En la última entrega, enfrentamos diversos contratiempos y demoras en los plazos establecidos para finalizar las labores asignadas a cada integrante del equipo. Por ello, hemos mantenido conversaciones para evitar una repetición de esta situación y garantizar el cumplimiento de los plazos acordados inicialmente.                                                                                                                                              |
-| **Sprint Goal & User Stories**     |                                                                                                                                                |
-| Sprint 3 Goal                      | Nuestro enfoque está en completar al menos un 50% del backend de nuestra aplicacion web cumpliendo con los requerimientos de neustros usuarios |
-| Sprint 3 Velocity                  | 28                                                                                                                                             |
-| Sum of Story Points                | 28                                                                                                                                             |
+<table>
+  <caption>Sprint #3</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>29/10/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>20:30 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de Google Meet</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Integrantes de PixelSmith</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de PixelSmiths</td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint n - 3 Review</strong>
+      </td>
+      <td>
+        En el sprint 2, se realizó la implementación de la vista del arrendador de vehiculos.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint n - 3 Retrospective</strong>
+      </td>
+      <td>
+        En la última entrega, enfrentamos diversos contratiempos y demoras en los plazos establecidos para finalizar las labores asignadas a cada integrante del equipo. Por ello, hemos mantenido conversaciones para evitar una repetición de esta situación y garantizar el cumplimiento de los plazos acordados inicialmente.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint 3 Goal</strong>
+      </td>
+      <td>
+        Nuestro enfoque está en completar al menos un 50% del backend de nuestra aplicacion web cumpliendo con los requerimientos de nuestros usuarios
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 3 Velocity</strong></td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>
+                                                                          
 
 ### 5.2.3.2 Sprint backlog 3
 
 En el tercer sprint, se desarrollará el backend de nuestra aplicacion web.
 
-| Sprint #   | Sprint 3                    |                  |                                               |                                                          |                   |              |                                             |
-| ---------- | --------------------------- | ---------------- | --------------------------------------------- | -------------------------------------------------------- | ----------------- | ------------ | ------------------------------------------- |
-| User Story |                             | Work-Item / Task |                                               |                                                          |                   |              |                                             |
-| Id         | Title                       | Id               | Title                                         | Description                                              | Estimation(Hours) | Assigned To  | Status (To-Do / In-Process / Review / Done) |
-| HU01       | Registrar un vehículo       | TS01             | Registro exitoso de nuevos vehiculos          | Registrar un vehiculo con su información básica          | 3                 | Javier Ramos | Done                                        |
-|            |                             | TS02             | Editar vehiculo del cliente<br>               | Modificar la información de un vehiculo                  | 2                 | Javier Ramos | Done                                        |
-| HU02       | Alquilar un vehículo<br>    | TS03             | Seleccionar un vehiculo                       | Poder seleccionar un vehiculo de la lista disponible     | 2                 | Javier Ramos | Done                                        |
-| HU04       | Buscar un vehículo<br>      | TS04             | Busqueda de vehiculo                          | Poder buscar un vehiculo de la lista disponible          | 2                 | Javier Ramos | Done                                        |
-| HU05       | Gestionar reservaS          | TS05             | Agregar reservas y su invoice correspondiente | Poder realizar un invoice teniendo en cuenta el vehiculo | 2                 | Alvaro Pinto | Done                                        |
-| HU06       | Gestión de Perfiles<br><br> | TS06             | Ver perfil                                    | Poder ver y modificar el perfil de usuario               | 1                 | Aaron Cruz   | Done                                        |
-| HU08       | Soporte al Usuario          | TS07             | Acceso al equipo de soporte                   | Poder mandar un ticket al soporte                        | 1                 | Aaron Cruz   | Done                                        |
-| HU16       | Registro de Nuevos Usuarios | TS08             | Registro exitoso de nuevos usuarios           | Registrar un usuario con su correo y contraseña          | 2                 | Karen Ramos  | Done                                        |
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+         </tr>
+       <td rowspan="1">HU01</td>
+       <td rowspan="1">Registro de Usuarios</td>
+       <td>T01</td>
+       <td>Registro exitoso de nuevos usuarios</td>
+       <td>Registrar un usuario con su correo y contraseña</td>
+       <td>5</td>
+       <td>Karen Ramos</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td rowspan="1">HU02</td>
+       <td rowspan="1">Listado de Vehículos</td>
+       <td>T02</td>
+       <td>Listado de nuevos vehiculos. </td>
+       <td>Registrar un vehiculo con su información básica y modificar la información de un vehículo.</td>
+       <td>6</td>
+       <td>Javier Ramos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="1">HU03</td>
+       <td rowspan="1">Búsqueda de Vehículos</td>
+       <td>T03</td>
+       <td>Buscar un vehiculo</td>
+       <td>Poder buscar un vehiculo de la lista disponible </td>
+       <td>4</td>
+       <td>Javier Ramos</td>
+       <td>Done</td>
+    </tr>
+       <td rowspan="1">HU04</td>
+       <td rowspan="1">Reserva de Vehiculo</td>
+       <td>T04</td>
+       <td>Seleccionar un vehiculo</td>
+       <td>Poder seleccionar un vehiculo de la lista disponible </td>
+       <td>5</td>
+       <td>Alvaro Pinto</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+       <td rowspan="1">HU05</td>
+       <td rowspan="1">Gestionar Alquiler</td>
+       <td>T05</td>
+       <td>Agregar reservas y su invoice correspondiente</td>
+       <td>Poder realizar un invoice teniendo en cuenta el vehiculo</td>
+       <td>6</td>
+       <td>Alvaro Pinto</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+       <td rowspan="1">HU06</td>
+       <td rowspan="1">Gestión de Perfiles</td>
+       <td>T06</td>
+       <td>Ver perfil</td>
+       <td>Poder ver y modificar el perfil de usuario </td>
+       <td>6</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+       <td rowspan="1">HU08</td>
+       <td rowspan="1">Soporte al Usuario</td>
+       <td>T07</td>
+       <td>Acceso al equipo de soporte</td>
+       <td>Poder acceder a la información de soporte</td>
+       <td>4</td>
+       <td>Aaron Cruz</td>
+       <td>Done</td>
+    </tr>
+</table>                                   |
 
 
 ### 5.2.3.3.Development Evidence for Sprint Review.
