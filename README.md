@@ -2879,7 +2879,79 @@ Como siguiente se va a mostrar los commits que hizo cada participante
 
 Para la parte del Back End:
 
+## 5.2.3 Sprint 4
 
+### 5.2.3.1 Sprint Planning 4
+
+<table>
+  <caption>Sprint #4</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>18/11/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>09:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de Google Meet</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Integrantes de PixelSmith</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de PixelSmiths</td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint n - 4 Review</strong>
+      </td>
+      <td>
+        En el sprint 3, realizamos la implementación de los ultimos detalles tanto en el FrontEnd, Backend en lo que ha desarrollo se refiere.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint n - 4 Retrospective</strong>
+      </td>
+      <td>
+        Durante la entrega pasada, nos encontramos con dificultades tecnicas, sin embargo se logro alcanzar mediante una comunicación escasa pero efectiva,
+        lo solicitado para la misma.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Sprint 4 Goal</strong>
+      </td>
+      <td>
+        Para esta último sprint solo faltaría corregir puntos específicos dentro del reportey pulir detalles de 
+        desarrollo tanto en la Landing Page, FrontEnd y Backend.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 4 Velocity</strong></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
