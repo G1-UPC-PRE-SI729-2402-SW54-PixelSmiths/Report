@@ -1140,11 +1140,27 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
     <tbody>
         <tr style="text-align:center">
             <td>HU01</td>
-            <td>Registrar un vehículo</td>
-            <td><strong>Como</strong> propietario, <strong>Quiero</strong> registrar un vehículo en la plataforma <strong>Para</strong> que los arrendatarios puedan alquilarlo.</td>
+            <td>Registro de Usuarios</td>
+            <td><strong>Como</strong> usuario no registrado, <strong>Quiero</strong>  crear una cuenta en la plataforma <strong>Para</strong> poder acceder a los servicios de alquiler de vehículos.</td>
+            <td>
+                <h5>Escenario 01: Registro exitoso</h5>
+                <strong>Dado</strong> que un usuario no registrado accede a la página de registro <br>
+                <strong>Cuando</strong> ingresa correctamente toda la información requerida (nombre, email, contraseña) <br>
+                <strong>Entonces</strong> el sistema crea la cuenta y envía un email de confirmación.<br><br>
+                <h5>Escenario 02: Email ya registrado.</h5>
+                <strong>Dado</strong> que un usuario intenta registrarse <br>
+                <strong>Cuando</strong> ingresa un email que ya está en uso  <br>
+                <strong>Entonces</strong> el sistema muestra un mensaje de error indicando que el email ya está registrado. <br><br>
+            </td>
+            <td>EP01</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU02</td>
+            <td>Listado de Vehiculos</td>
+            <td><strong>Como</strong> propietario, <strong>Quiero</strong> listar un vehículo en la plataforma <strong>Para</strong> que los arrendatarios puedan alquilarlo.</td>
             <td>
                 <h5>Escenario 01: Registro exitoso.</h5>
-                <strong>Dado</strong> que el propietario desea registrar un vehículo.<br>
+                <strong>Dado</strong> que el propietario desea listar un vehículo.<br>
                 <strong>Cuando</strong> ingresa los detalles requeridos (marca, modelo, año, precio, etc.).<br>
                 <strong>Entonces</strong> el sistema guarda el vehículo y lo pone disponible para ser alquilado.<br>
                 <h5>Escenario 02: Fallo en el registro.</h5>
@@ -1152,39 +1168,11 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
                 <strong>Cuando</strong> falta información o hay datos incorrectos.<br>
                 <strong>Entonces</strong> el sistema muestra un mensaje de error y no permite completar el registro hasta que se corrijan los datos.
             </td>
-            <td>EP01</td>
-        </tr>
-        <tr style="text-align:center">
-            <td>HU02</td>
-            <td>Alquilar un vehículo</td>
-            <td><strong>Como</strong> arrendatario, <strong>Quiero</strong> poder alquilar un vehículo <strong>Para</strong> usarlo por una cantidad de días específica.</td>
-            <td>
-                <h5>Escenario 01: Alquiler exitoso.</h5>
-                <strong>Dado</strong> que el arrendatario selecciona un vehículo.<br>
-                <strong>Cuando</strong> ingresa las fechas de reserva.<br>
-                <strong>Entonces</strong> el sistema confirma la disponibilidad y permite realizar la reserva.<br>
-                <h5>Escenario 02: Fechas no disponibles.</h5>
-                <strong>Dado</strong> que el arrendatario intenta reservar un vehículo.<br>
-                <strong>Cuando</strong> selecciona fechas que no están disponibles.<br>
-                <strong>Entonces</strong> el sistema sugiere fechas alternativas.
-            </td>
             <td>EP02</td>
-        </tr>
-        <tr style="text-align:center">
+          </tr>
+                <tr style="text-align:center">
             <td>HU03</td>
-            <td>Subir un vehículo</td>
-            <td><strong>Como</strong> propietario, <strong>Quiero</strong> subir un vehículo a la plataforma <strong>Para</strong> que los arrendatarios puedan verlo y alquilarlo.</td>
-            <td>
-                <h5>Escenario 01: Subida exitosa.</h5>
-                <strong>Dado</strong> que el propietario desea subir un vehículo.<br>
-                <strong>Cuando</strong> completa el formulario con la información requerida.<br>
-                <strong>Entonces</strong> el sistema guarda los detalles y muestra el vehículo en la plataforma.
-            </td>
-            <td>EP03</td>
-        </tr>
-        <tr style="text-align:center">
-            <td>HU04</td>
-            <td>Buscar un vehículo</td>
+            <td>Busquéda de vehículos</td>
             <td><strong>Como</strong> arrendatario, <strong>Quiero</strong> buscar vehículos <strong>Para</strong> encontrar el que mejor se adapte a mis necesidades.</td>
             <td>
                 <h5>Escenario 01: Búsqueda exitosa.</h5>
@@ -1196,21 +1184,37 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
                 <strong>Cuando</strong> no hay vehículos que cumplan con los criterios.<br>
                 <strong>Entonces</strong> el sistema sugiere modificar los filtros.
             </td>
+            <td>EP03</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>HU04</td>
+            <td>Reserva de vehículo</td>
+            <td><strong>Como</strong> arrendatario, <strong>Quiero</strong> poder reservar un vehículo <strong>Para</strong> usarlo por una cantidad de días específica.</td>
+            <td>
+                <h5>Escenario 01: Alquiler exitoso.</h5>
+                <strong>Dado</strong> que el arrendatario selecciona un vehículo.<br>
+                <strong>Cuando</strong> ingresa las fechas de reserva.<br>
+                <strong>Entonces</strong> el sistema confirma la disponibilidad y permite realizar la reserva.<br>
+                <h5>Escenario 02: Fechas no disponibles.</h5>
+                <strong>Dado</strong> que el arrendatario intenta reservar un vehículo.<br>
+                <strong>Cuando</strong> selecciona fechas que no están disponibles.<br>
+                <strong>Entonces</strong> el sistema sugiere fechas alternativas.
+            </td>
             <td>EP04</td>
         </tr>
         <tr style="text-align:center">
             <td>HU05</td>
-            <td>Gestionar reservas</td>
-            <td><strong>Como</strong> propietario, <strong>Quiero</strong> gestionar las reservas de mis vehículos <strong>Para</strong> mantener control sobre los alquileres.</td>
+            <td>Gestionar Alquiler</td>
+            <td><strong>Como</strong> arrendatario, <strong>Quiero</strong> pagar el alquiler del vehiculo de forma segura <strong>Para</strong> mantener control sobre los alquileres y mis finanzas.</td>
             <td>
-                <h5>Escenario 01: Gestión de reservas exitosa.</h5>
-                <strong>Dado</strong> que el propietario revisa las reservas.<br>
-                <strong>Cuando</strong> accede a la lista de reservas de su vehículo.<br>
-                <strong>Entonces</strong> puede visualizar y gestionar cada una de las reservas.<br>
-                <h5>Escenario 02: Cancelación de reserva.</h5>
-                <strong>Dado</strong> que el propietario decide cancelar una reserva.<br>
-                <strong>Cuando</strong> lo hace dentro del plazo permitido.<br>
-                <strong>Entonces</strong> el sistema cancela la reserva y actualiza la disponibilidad del vehículo.
+                <h5>Escenario 01: Gestión de Alquier exitoso.</h5>
+                <strong>Dado</strong> que el arrendatario realiza el pago de su alquiler.<br>
+                <strong>Cuando</strong> culmina el proceso de alquiler.<br>
+                <strong>Entonces</strong> puede visualizar y gestionar de forma segura el pago correcto.<br>
+                <h5>Escenario 02: Gestión de Alquiler dudoso.</h5>
+                <strong>Dado</strong> que el arrendatario planea pagar su alquiler.<br>
+                <strong>Cuando</strong> realiza una reserva de un vehiculo.<br>
+                <strong>Entonces</strong> decide no pagar debido a que no existe la confianza para realizar el pago.
             </td>
             <td>EP05</td>
         </tr>
@@ -1411,22 +1415,6 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
             </td>
             <td>EP15</td>
         </tr>
-        <tr style="text-align:center">
-            <td>HU16</td>
-            <td>Registro de Nuevos Usuarios</td>
-            <td><strong>Como</strong> usuario no registrado, <strong>Quiero</strong>  crear una cuenta en la plataforma <strong>Para</strong> poder acceder a los servicios de alquiler de vehículos.</td>
-            <td>
-                <h5>Escenario 01: Registro exitoso</h5>
-                <strong>Dado</strong> que un usuario no registrado accede a la página de registro <br>
-                <strong>Cuando</strong> ingresa correctamente toda la información requerida (nombre, email, contraseña) <br>
-                <strong>Entonces</strong> el sistema crea la cuenta y envía un email de confirmación.<br><br>
-                <h5>Escenario 02: Email ya registrado.</h5>
-                <strong>Dado</strong> que un usuario intenta registrarse <br>
-                <strong>Cuando</strong> ingresa un email que ya está en uso  <br>
-                <strong>Entonces</strong> el sistema muestra un mensaje de error indicando que el email ya está registrado. <br><br>
-            </td>
-            <td>EP16</td>
-        </tr>
     </tbody>
 </table>
 
@@ -1444,16 +1432,16 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 
 | #Orden | User Story Id | Título                   | Descripción                                                                                     | Story Points |
 | ------ | ------------- | ------------------------ | ----------------------------------------------------------------------------------------------- | ------------ |
-| 1      | US001         | Registro de Propietarios | Como propietario, quiero poder registrarme en la plataforma para poder listar mis vehículos.    | 5            |
-| 2      | US006         | Gestión de Perfiles      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal.               | 3            |
-| 3      | US002         | Listado de Vehículos     | Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.   | 3            |
-| 4      | US003         | Búsqueda de Vehículos    | Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible. | 5            |
-| 5      | US004         | Reserva de Vehículo      | Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.                 | 3            |
-| 6      | US005         | Pago del Alquiler        | Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.                       | 5            |
-| 7      | US007         | Valoraciones y Reseñas   | Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.               | 2            |
-| 8      | US008         | Soporte al Usuario       | Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.                  | 2            |
-| 9      | US009         | Cancelación de Reserva   | Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.                      | 2            |
-| 10     | US010         | Notificaciones           | Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas.                         | 2            |
+| 1      | HU01         | Registro de Propietarios | Como propietario, quiero poder registrarme en la plataforma para poder listar mis vehículos.    | 5            |
+| 2      | HU06         | Gestión de Perfiles      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal.               | 3            |
+| 3      | HU02         | Listado de Vehículos     | Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.   | 3            |
+| 4      | HU03         | Búsqueda de Vehículos    | Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible. | 5            |
+| 5      | HU04         | Reserva de Vehículo      | Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.                 | 3            |
+| 6      | HU05         | Pago del Alquiler        | Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.                       | 5            |
+| 7      | HU07         | Valoraciones y Reseñas   | Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.               | 2            |
+| 8      | HU08         | Soporte al Usuario       | Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.                  | 2            |
+| 9      | HU09         | Cancelación de Reserva   | Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.                      | 2            |
+| 10     | HU10         | Notificaciones           | Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas.                         | 2            |
 
 <br><br>
 
