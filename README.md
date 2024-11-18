@@ -1031,11 +1031,8 @@ Evidenciade la reunión:
   <img src="./images/entrevista2.png" alt="Entrevista_2" width="500px 0">
 </p>
 
-Resumen de la entrevista:
-
 ### 2.2.3. Análisis de entrevistas
 
-<br>
 
 <h2>Analisis Segmento 1:</h2>
 
@@ -1420,10 +1417,12 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 
 ## 3.3. Impact Mapping
 
+<h3>Impact Map - Segmento 1:</h3>
 <p align="center">
   <img src="./images/impact-mapping-1.jpeg" alt="impact mapping para propietarios" width="100%">
 </p>
 
+<h3>Impact Map - Segmento 2:</h3>
 <p align="center">
   <img src="./images/impact-mapping-2.jpeg" alt="impact mapping para arrendatarios" width="100%">
 </p>
