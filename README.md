@@ -27,7 +27,7 @@ Startup: PixelSmiths
 Producto: TakeMyCar
 
 |             Integrantes             |   Código   |
-|:-----------------------------------:|:----------:|
+| :---------------------------------: | :--------: |
 |         Ramos Carpio, Karen         | U20201E493 |
 |      Marzál Pérez, Jamir Ángel      | U201824409 |
 |      Ramos Huamanchumo, Javier      | U201719648 |
@@ -233,6 +233,18 @@ Agosto del 2024
           </li>
         </ul>
         <ul>
+          <p><strong>TB2</strong></p>
+          <li>
+            Javier Ramos: En este segmento del proyecto, me dediqué tanto al desarrollo del contexto limitado "Vehicles" para el backend como al avance en el frente del frontend. Me enfoqué en implementar las funcionalidades esenciales para la administración de vehículos, garantizando su alineación con los requisitos establecidos para el proyecto. Además, me aseguré de adherirme a las mejores prácticas en diseño y desarrollo para ambas partes del sistema, backend y frontend, con el objetivo de proporcionar una solución integral y cohesiva.
+          </li>
+        </ul>
+        <ul>
+          <p><strong>TF</strong></p>
+          <li>
+            Javier Ramos: En esta fase del proyecto, terminamos el desarrollo del bounded context "Vehicles" tanto en el backend como en el frontend. Me concentré en integrar las funcionalidades esenciales para el manejo de vehículos, asegurando que estas se alinearan perfectamente con los objetivos del proyecto. Este proceso se llevó a cabo siguiendo estrictamente las mejores prácticas de diseño y programación, para ofrecer una experiencia coherente y eficaz en ambas interfaces del sistema.
+          </li>
+        </ul>
+        <ul>
           <p><strong>TB1</strong></p>
           <li>
             Marzál Pérez, Jamir: El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.
@@ -310,6 +322,23 @@ Agosto del 2024
         <ul>
           <p><strong>TB2</strong></p>
           <li>Marzál Pérez, Jamir: Durante el desarrollo del sprint 3 prioricé que todo lo escrito fuera de fácil entendimiento dejando los principales conceptos claros para asegurar el entendimiento de mis ideas.</li>
+        </ul>
+        <ul> 
+          <p><strong>TB1</strong></p> 
+          <li>Javier Ramos Huamanchumo: En esta primera fase del proyecto, la comunicación en equipo no fue la ideal, pero conseguimos finalizar la mayor parte de lo requerido. Me encargué de los conceptos iniciales y establecí las bases de nuestra propuesta, incluyendo la segmentación y el proceso de Lean UX.</li>
+        </ul>
+        <ul>
+          <p><strong>TP</strong></p>
+          <li>Javier Ramos Huamanchumo: A lo largo del desarrollo, enfrentamos algunos desafíos de comunicación. A pesar de ello, logramos desarrollar una primera versión del FrontEnd que satisface los requisitos solicitados. También trabajé en el informe y en la página de aterrizaje.</li>
+        </ul>
+        <ul> 
+          <p><strong>TB2</strong></p>
+          <li>Javier Ramos Huamanchumo: Gracias a una comunicación escrita más efectiva, hemos progresado en el desarrollo de nuestro Backend, el cual esperamos completar para la próxima entrega. Aunque todavía nos quedan varios aspectos por finalizar, estamos avanzando de manera organizada y segura.
+          </li>
+        </ul>
+        <ul>
+          <p><strong>TF</strong></p>
+          <li>Javier Ramos Huamanchumo: Para la entrega final, después de revisar y corregir los errores de la entrega previa, hemos identificado varias mejoras potenciales. Hemos logrado comunicarnos de manera efectiva para abordar estos errores, culminando exitosamente el proyecto.</li>
         </ul>
       </td>
       <td><p><strong>TB1</strong></p>
@@ -635,7 +664,6 @@ TakeMyCar es una startup que actua como intermediario entre propietarios e inter
     </td>
   </tr>
 </table>
-
 
 ## 1.2 Solution Profile
 
@@ -1041,7 +1069,6 @@ Evidenciade la reunión:
 
 ### 2.2.3. Análisis de entrevistas
 
-
 <h2>Analisis Segmento 1:</h2>
 
 <p>Las entrevistas realizadas a los arrendadores, revelaron perspectivas claves sobre sus expectativas y preocupaciones al usar la plataforma y el sistema. Los arrendadores, en su mayoría propietarios de vehículos, destacaron su motivación por generar ingresos adicionales. Sin embargo, mostraron inquietud respecto al estado en el que quedará su vehículo después del alquiler, así como la puntualidad en los pagos. Consideran esencial un proceso eficiente y claro para la entrega y devolución del auto, así como garantías de protección en caso de daños. </p>
@@ -1437,18 +1464,18 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 
 ## 3.4. Product Backlog
 
-| #Orden | User Story Id | Título                   | Descripción                                                                                     | Story Points |
-| ------ | ------------- | ------------------------ | ----------------------------------------------------------------------------------------------- | ------------ |
-| 1      | HU01         | Registro de Usuarios | Como propietario o arrendatario no registrado, quiero poder registrarme en la plataforma para poder acceder a los servicios.   | 5            |
-| 2      | HU02         | Listado de Vehículos     | Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.   | 5            |
-| 3      | HU03         | Búsqueda de Vehículos    | Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible. | 4            |
-| 4      | HU04         | Reserva de Vehículo      | Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.                 | 5            |
-| 5      | HU05         | Gestionar Alquiler        | Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.                       | 4            |
-| 6      | HU06         | Gestión de Perfiles      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal.               | 3            |
-| 7      | HU07         | Valoraciones y Reseñas   | Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.               | 2            |
-| 8      | HU08         | Soporte al Usuario       | Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.                  | 2            |
-| 9      | HU09         | Cancelación de Reserva   | Como usuario, quiero cancelar mi reserva en caso de cambio de planes.                      | 2            |
-| 10     | HU10         | Notificaciones           | Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas.                         | 2            |
+| #Orden | User Story Id | Título                 | Descripción                                                                                                                  | Story Points |
+| ------ | ------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1      | HU01          | Registro de Usuarios   | Como propietario o arrendatario no registrado, quiero poder registrarme en la plataforma para poder acceder a los servicios. | 5            |
+| 2      | HU02          | Listado de Vehículos   | Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.                                | 5            |
+| 3      | HU03          | Búsqueda de Vehículos  | Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible.                              | 4            |
+| 4      | HU04          | Reserva de Vehículo    | Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.                                              | 5            |
+| 5      | HU05          | Gestionar Alquiler     | Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.                                                    | 4            |
+| 6      | HU06          | Gestión de Perfiles    | Como usuario, quiero gestionar mi perfil para actualizar mi información personal.                                            | 3            |
+| 7      | HU07          | Valoraciones y Reseñas | Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.                                            | 2            |
+| 8      | HU08          | Soporte al Usuario     | Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.                                               | 2            |
+| 9      | HU09          | Cancelación de Reserva | Como usuario, quiero cancelar mi reserva en caso de cambio de planes.                                                        | 2            |
+| 10     | HU10          | Notificaciones         | Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas.                                                      | 2            |
 
 <br><br>
 
@@ -2516,7 +2543,7 @@ A continuación se presentan capturas de los insights del repositorio del landin
       <td>28</td>
     </tr>
   </tbody>
-</table>                                                          
+</table>
 
 ### 5.2.2.2 Sprint Backlog 2.
 
@@ -2615,7 +2642,7 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 ### 5.2.2.3 Development Evidence for Sprint Review
 
 | Repository                                              | Branch           | Commit Title                                                           | Commit Message                                                         | Author       |
-|---------------------------------------------------------|------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|--------------|
+| ------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------ |
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(server-routes): added atributes and routes for the new components | feat(server-routes): added atributes and routes for the new components | Alvaro Pinto |
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoice-create): components and extra user service created        | feat(invoice-create): components and extra user service created        | Alvaro Pinto |
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/invoices | feat(invoice-card): component created                                  | feat(invoice-card): component created                                  | Alvaro Pinto |
@@ -2625,7 +2652,6 @@ En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | feature/profile  | Merge branch 'feature/invoices' into dev                               | Merge branch 'feature/invoices' into dev                               | Javier Ramos |
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat(vehicles): add new vehicle form, delete vehicle and validations   | feat(vehicles): add new vehicle form, delete vehicle and validations   | Javier Ramos |
 | G1-UPC-PRE-SI729-2402-SW54-PixelSmiths<br>/<br>Frontend | main             | feat: add random vehicle image to login                                | feat: add random vehicle image to login                                | Javier Ramos |
-
 
 ### 5.2.2.4 Execution Evidence for Sprint Review
 
@@ -2713,7 +2739,6 @@ FrontEnd Profile:
     </tr>
   </tbody>
 </table>
-
 
 ### 5.2.3.2 Sprint backlog 3
 
@@ -2809,45 +2834,40 @@ En el tercer sprint, se desarrollará el backend de nuestra aplicacion web.
     </tr>
 </table>                                   |
 
-
 ### 5.2.3.3.Development Evidence for Sprint Review.
 
-| Repository              | Branch            | Commit ID | Mensaje de Confirmación                      | Cuerpo del Mensaje de Confirmación           | Fecha de Commit |
-|-------------------------|-------------------|-----------|----------------------------------------------|----------------------------------------------|-----------------|
-| ConnectionLink-Frontend | feature/auth      | 549c853   | feat: Implementar registro y login           | Modificaciones en frontend y backend         | 31/10/2024      |
-| ConnectionLink-Frontend | feature/invoice   | 8e75097   | feat: Agregar funcionalidad de facturas      | Modificaciones en frontend y backend         | 31/10/2024      |
-| ConnectionLink-Frontend | feature/vehicle   | e97100d   | feat: Desarrollar funcionalidad de vehículos | Modificaciones en frontend y backend         | 31/10/2024      |
-| ConnectionLink-Frontend | feature/review    | dfa3cb6   | feat: Añadir funcionalidad de reseñas        | Modificaciones en frontend y backend         | 31/10/2024      |
-| ConnectionLink-Frontend | feature/support   | d291f81   | feat: Incorporar funcionalidad de soporte    | Modificaciones en frontend y backend         | 31/10/2024      |
-
+| Repository              | Branch          | Commit ID | Mensaje de Confirmación                      | Cuerpo del Mensaje de Confirmación   | Fecha de Commit |
+| ----------------------- | --------------- | --------- | -------------------------------------------- | ------------------------------------ | --------------- |
+| ConnectionLink-Frontend | feature/auth    | 549c853   | feat: Implementar registro y login           | Modificaciones en frontend y backend | 31/10/2024      |
+| ConnectionLink-Frontend | feature/invoice | 8e75097   | feat: Agregar funcionalidad de facturas      | Modificaciones en frontend y backend | 31/10/2024      |
+| ConnectionLink-Frontend | feature/vehicle | e97100d   | feat: Desarrollar funcionalidad de vehículos | Modificaciones en frontend y backend | 31/10/2024      |
+| ConnectionLink-Frontend | feature/review  | dfa3cb6   | feat: Añadir funcionalidad de reseñas        | Modificaciones en frontend y backend | 31/10/2024      |
+| ConnectionLink-Frontend | feature/support | d291f81   | feat: Incorporar funcionalidad de soporte    | Modificaciones en frontend y backend | 31/10/2024      |
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
-| Repository              | Branch                     | Commit ID                                | Mensaje de Confirmación                      | Cuerpo del Mensaje de Confirmación            | Fecha de Commit |
-|-------------------------|----------------------------|------------------------------------------|----------------------------------------------|----------------------------------------------|-----------------|
-| ConnectionLink-Frontend | main                       | 549c853fa8f881f0812bde6388c5d6f688d1212f | Fusionar rama 'feature/auth'       | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main                       | 8e750977c6f2b1eab62bff810de16a80281ffc75 | Fusionar rama 'feature/invoice'      | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main                       | e9721c01e07a7abdf5effbfcaea451cb2ce47feb | Fusionar rama 'feature/vehicle'      | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main                       | e94100d6d283537db2c705afdc436444eaefd807 | Fusionar rama 'feature/support'       | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main                       | dfa3cb61a25c4cbb63b544601189322e70cebdf7 | Fusionar rama 'feature/review'        | Fusión de frontend y backend para validaciones | 31/10/2024      |
-
-
+| Repository              | Branch | Commit ID                                | Mensaje de Confirmación         | Cuerpo del Mensaje de Confirmación             | Fecha de Commit |
+| ----------------------- | ------ | ---------------------------------------- | ------------------------------- | ---------------------------------------------- | --------------- |
+| ConnectionLink-Frontend | main   | 549c853fa8f881f0812bde6388c5d6f688d1212f | Fusionar rama 'feature/auth'    | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main   | 8e750977c6f2b1eab62bff810de16a80281ffc75 | Fusionar rama 'feature/invoice' | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main   | e9721c01e07a7abdf5effbfcaea451cb2ce47feb | Fusionar rama 'feature/vehicle' | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main   | e94100d6d283537db2c705afdc436444eaefd807 | Fusionar rama 'feature/support' | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| ConnectionLink-Frontend | main   | dfa3cb61a25c4cbb63b544601189322e70cebdf7 | Fusionar rama 'feature/review'  | Fusión de frontend y backend para validaciones | 31/10/2024      |
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 
-
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
 Los endpoints son puntos de acceso específicos en una aplicación web que permiten la comunicación entre el cliente y el servidor. Cada uno tiene una URL única, y cuando un cliente envía una solicitud, el servidor procesa y responde según la función del endpoint. Actúan como controladores que dirigen las solicitudes a distintas partes de la aplicación, permitiendo desde mostrar información hasta realizar operaciones en la base de datos. Documentarlos facilita que otros desarrolladores integren y comprendan cómo interactuar con la aplicación.
 
-| Endpoint   | Detalles                                                                                              |
-|------------|-------------------------------------------------------------------------------------------------------|
-| /vehicle   | En esta ruta se gestionan los vehículos disponibles para alquiler, incluyendo información de precios, disponibilidad y características. |
-| /user      | En esta ruta se gestiona la información de los usuarios, incluyendo el registro y actualización de datos personales.                     |
-| /support   | En esta ruta se encuentra la funcionalidad de soporte al usuario, gestionando solicitudes y consultas de asistencia técnica.             |
-| /booking   | En esta ruta se gestiona la funcionalidad de reservas de vehículos, permitiendo a los usuarios realizar y administrar sus reservas.      |
-| /review    | En esta ruta se gestionan las reseñas y valoraciones de los vehículos, permitiendo a los usuarios dejar su opinión y calificación.        |
-| /invoice    | En esta ruta se gestionan los pagos de los vehículos, permitiendo a los usuarios mantener un control de sus facturas pendientes|
-
+| Endpoint | Detalles                                                                                                                                |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| /vehicle | En esta ruta se gestionan los vehículos disponibles para alquiler, incluyendo información de precios, disponibilidad y características. |
+| /user    | En esta ruta se gestiona la información de los usuarios, incluyendo el registro y actualización de datos personales.                    |
+| /support | En esta ruta se encuentra la funcionalidad de soporte al usuario, gestionando solicitudes y consultas de asistencia técnica.            |
+| /booking | En esta ruta se gestiona la funcionalidad de reservas de vehículos, permitiendo a los usuarios realizar y administrar sus reservas.     |
+| /review  | En esta ruta se gestionan las reseñas y valoraciones de los vehículos, permitiendo a los usuarios dejar su opinión y calificación.      |
+| /invoice | En esta ruta se gestionan los pagos de los vehículos, permitiendo a los usuarios mantener un control de sus facturas pendientes         |
 
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
@@ -2954,10 +2974,12 @@ Para la parte del Back End:
 </table>
 
 ## 5.3. Validation Interviews.
+
 ### 5.3.1. Diseño de Entrevistas.
 
 Segmento #1: Propietarios de uno o más vehículos propios
 Landing Page.
+
 - ¿Cuál es tu impresión general de la landing page?
 - ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
 - ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
@@ -2970,6 +2992,7 @@ Landing Page.
 - ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
 
 Aplicacion Web.
+
 - ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para verificar el estado de tu vehículo?
 - ¿Te parece agradable y atractiva la combinación de colores de la aplicación? ¿Por qué?
 - ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad cuando revisas la información de tu vehículo?
@@ -2983,6 +3006,7 @@ Aplicacion Web.
 
 Segmento #2: Usuarios que tienen la necesidad de alquilar un vehículo
 Landing Page.
+
 - ¿Cuál es tu impresión general de la landing page?
 - ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
 - ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
@@ -2995,6 +3019,7 @@ Landing Page.
 - ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
 
 Aplicacion Web.
+
 - ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para tus tareas diarias?
 - ¿Te resulta agradable la combinación de colores de la aplicación mientras gestionas el taller? ¿Por qué?
 - ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad mientras trabajas?
@@ -3068,7 +3093,6 @@ Resumen de la entrevista:
 
 En la entrevista, Adriano Igreda interactua principalmente con nuestro Landing Page y nuestro Front End, donde encuentra atractiva la organización visual de nuestra plataforma, donde podemos resaltar su recomendación en cuento a la parte estitica de colores dentro de la aplicación Front End. Lo que en términos se resume en una falta de colores, ya que al momento predomina el blanco sin que hay mucha variedad, lo cual es un punto a mejorar.
 
-
 <b> Entrevista 2 </b> <br>
 Entrevistador: Karen Ramos
 
@@ -3093,6 +3117,7 @@ El encuestado, Jhon de 21 años de Lima, valora el diseño de la landing page po
 ## 5.4. Video About-the-Product.
 
 # Conclusiones
+
 ### Conclusiones y recomendaciones
 
 - Conocimiento en desarrollo web: Durante el proyecto, dominamos herramientas y tecnologías de desarrollo web, incluyendo HTML, CSS y JavaScript. Gracias a este aprendizaje, implementamos diseños visualmente atractivos y responsivos, adaptables a distintas pantallas y dispositivos.
