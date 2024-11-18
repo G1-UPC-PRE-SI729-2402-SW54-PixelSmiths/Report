@@ -1432,15 +1432,15 @@ Crear una plataforma que simplifique la gestión entre propietarios y arrendatar
 
 | #Orden | User Story Id | Título                   | Descripción                                                                                     | Story Points |
 | ------ | ------------- | ------------------------ | ----------------------------------------------------------------------------------------------- | ------------ |
-| 1      | HU01         | Registro de Propietarios | Como propietario, quiero poder registrarme en la plataforma para poder listar mis vehículos.    | 5            |
-| 2      | HU06         | Gestión de Perfiles      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal.               | 3            |
-| 3      | HU02         | Listado de Vehículos     | Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.   | 3            |
-| 4      | HU03         | Búsqueda de Vehículos    | Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible. | 5            |
-| 5      | HU04         | Reserva de Vehículo      | Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.                 | 3            |
-| 6      | HU05         | Pago del Alquiler        | Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.                       | 5            |
+| 1      | HU01         | Registro de Usuarios | Como propietario o arrendatario no registrado, quiero poder registrarme en la plataforma para poder acceder a los servicios.   | 5            |
+| 2      | HU02         | Listado de Vehículos     | Como propietario, quiero listar mis vehículos en la plataforma con detalles y disponibilidad.   | 5            |
+| 3      | HU03         | Búsqueda de Vehículos    | Como arrendatario, quiero buscar vehículos por ubicación y fecha para encontrar uno disponible. | 4            |
+| 4      | HU04         | Reserva de Vehículo      | Como arrendatario, quiero reservar un vehículo para asegurar su disponibilidad.                 | 5            |
+| 5      | HU05         | Gestionar Alquiler        | Como arrendatario, quiero pagar el alquiler del vehículo de forma segura.                       | 4            |
+| 6      | HU06         | Gestión de Perfiles      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal.               | 3            |
 | 7      | HU07         | Valoraciones y Reseñas   | Como usuario, quiero valorar y reseñar un alquiler para compartir mi experiencia.               | 2            |
 | 8      | HU08         | Soporte al Usuario       | Como usuario, quiero acceder a soporte en caso de tener preguntas o problemas.                  | 2            |
-| 9      | HU09         | Cancelación de Reserva   | Como arrendatario, quiero cancelar mi reserva en caso de cambio de planes.                      | 2            |
+| 9      | HU09         | Cancelación de Reserva   | Como usuario, quiero cancelar mi reserva en caso de cambio de planes.                      | 2            |
 | 10     | HU10         | Notificaciones           | Como usuario, quiero recibir notificaciones sobre mi cuenta y reservas.                         | 2            |
 
 <br><br>
