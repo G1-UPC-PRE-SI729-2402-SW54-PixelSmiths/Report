@@ -126,6 +126,29 @@ Agosto del 2024
         </ul>
       </td>
   </tr>
+    </tr>
+    </tr>
+      <tr>
+      <td><strong>TF</strong></td>
+      <td>Lunes 18 de Noviembre</td>
+      <td>
+        <ul>
+          <li>Ramos Carpio, Karen</li>
+          <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
+          <li>Cruz Ticona, Aaron Alejandro</li>
+          <li>Ramos Huamanchumo, Javier</li>
+          <li>Marzál Pérez, Jamir Ángel</li>
+        </ul>
+      </td>
+      <td>
+        Se han editado los siguientes capítulos:
+        <ul>
+          <li>Capítulo V: Sprint 4</li>
+          <li>Correciones finales reporte en general</li>
+          <li>Correciones en el Landing Page, FrontEnd y Backend</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -168,6 +191,10 @@ Agosto del 2024
         <ul>
           <p><strong>TB2</strong></p>
           <li>Cruz Ticona, Aaron: Se realizo un considerable avance del backend siendo fortalecido principalmente por lo realizado por un integrante del grupo. Por el momento el avance se esta logrando. </li>
+        </ul>
+        <ul>
+          <p><strong>TF</strong></p>
+          <li>Cruz Ticona, Aaron: Se organizo y distribuyo las actividades finales que en su mayoría estaban referidas a correciones de las entregas pasadas. Para esta entrega hubo buena designación de actividades y gran parte del trabajo esta realizado.</li>
         </ul>
         <ul>
           <p><strong>TB1</strong></p>
@@ -220,12 +247,30 @@ Agosto del 2024
           </li>
         </ul>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar el trabajo cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
-        <strong>TP:</strong><p align="justify">En el marco del desarrollo de este proyecto, he adquirido la capacidad de comunicar de manera efectiva y objetiva ideas y resultados a públicos con diferentes niveles de especialización. Esta habilidad fue especialmente valiosa al trabajar en el desarrollo del front, donde fue necesario coordinar con equipos técnicos y no técnicos para garantizar que los objetivos del proyecto se entendieran y ejecutaran correctamente. A lo largo del proceso, la comunicación clara facilitó la toma de decisiones estratégicas y la resolución de problemas, asegurando así el éxito de la implementación del producto.</p>
+      <strong>TP:</strong><p align="justify">En el marco del desarrollo de este proyecto, he adquirido la capacidad de comunicar de manera efectiva y objetiva ideas y resultados a públicos con diferentes niveles de especialización. Esta habilidad fue especialmente valiosa al trabajar en el desarrollo del front, donde fue necesario coordinar con equipos técnicos y no técnicos para garantizar que los objetivos del proyecto se entendieran y ejecutaran correctamente. A lo largo del proceso, la comunicación clara facilitó la toma de decisiones estratégicas y la resolución de problemas, asegurando así el éxito de la implementación del producto.</p>
+      <strong>TB2:</strong><p align="justify">Aqui</p>
+      <strong>TF:</strong><p align="justify">Aqui</p>
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
       <td style="border-right: 1px solid black;">
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Cruz Ticona, Aaron: Para esta primera entrega la efectividad de la comunicacion en grupo fue deficiente, sin embargo se logro culminar la gran parte de lo solicitado, trabaje en los conceptos iniciales y las bases de lo que sera nuestra idea. incluyendo los segmentos y el proceso Lean UX.</li>
+        </ul> 
+        <ul>
+          <p><strong>TP</strong></p>
+          <li>Cruz Ticona, Aaron: Durante el desarrollo nos vimos envueltos en ligeras complicaciones de comunicacion, sin embargo se logro completar una primera versión del FrontEnd que cumple con los solicitado, trabaje de la misma forma en el reporte y en Landing Page. </li>
+        </ul>
+        <ul>
+          <p><strong>TB2</strong></p>
+          <li>Cruz Ticona, Aaron: Mediante una comunicación escrita efectiva hemos avanzado nuestro Backend que buscamos completar para la sigueinte entrega, si bien es cierto tenemos varias cosas por completar estamos en un punto de avance de backend ordenado y seguro. </li>
+        </ul>
+        <ul>
+          <p><strong>TF</strong></p>
+          <li>Cruz Ticona, Aaron: Para la entrega final, luego de visualizar las correciones en relación a la anterior entrega hemos visualizado varias mejoras posibles y nos hemos comunicado correctamente para manejar dichos errores, se logro con efectividad. </li>
+        </ul>
         <ul>
           <p><strong>TB1</strong></p>
           <li>Ramos Carpio, Karen: Durante el desarrollo del proyecto, trabajé en la implementación del producto, específicamente en el Capítulo 5, donde participé activamente en la creación y optimización de la landing           page. A lo largo de esta fase, me aseguré de comunicar de manera clara y objetiva los avances y resultados a un público diverso, desde especialistas técnicos hasta partes interesadas no técnicas. Esta                     comunicación fue clave para alinear las expectativas del equipo y tomar decisiones informadas sobre el diseño, funcionalidad y despliegue de la landing page, logrando una implementación efectiva y sin                     contratiempos</li>
@@ -264,6 +309,8 @@ Agosto del 2024
         <br>
         <p><strong>TP</strong></p>
         <p align="justify">En conclusión, el desarrollo del proyecto nos ha permitido fortalecer mis habilidades técnicas y de comunicación, especialmente al enfrentar desafíos relacionados con la implementación y despliegue de componentes clave como el frontend. Esta experiencia ha sido altamente enriquecedora, no solo por los resultados alcanzados, sino también por el crecimiento personal y profesional obtenido durante el proceso.</p>
+        <strong>TB2:</strong><p align="justify">Aqui</p>
+        <strong>TF:</strong><p align="justify">Aqui</p>
         <br>
     </tr>
   </tbody>
