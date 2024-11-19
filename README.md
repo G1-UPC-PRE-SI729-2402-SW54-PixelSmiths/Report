@@ -2424,7 +2424,7 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-A continuación se presentan informacion de los commits de la Landing page de PocketPartners, con el uso de HTML, CSS y JavaScript
+A continuación se presentan informacion de los commits de la Landing page de Takemycar, con el uso de HTML, CSS y JavaScript
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited On (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
@@ -2854,21 +2854,21 @@ En el tercer sprint, se desarrollará el backend de nuestra aplicacion web.
 
 | Repository              | Branch          | Commit ID | Mensaje de Confirmación                      | Cuerpo del Mensaje de Confirmación   | Fecha de Commit |
 | ----------------------- | --------------- | --------- | -------------------------------------------- | ------------------------------------ | --------------- |
-| ConnectionLink-Frontend | feature/auth    | 549c853   | feat: Implementar registro y login           | Modificaciones en frontend y backend | 31/10/2024      |
-| ConnectionLink-Frontend | feature/invoice | 8e75097   | feat: Agregar funcionalidad de facturas      | Modificaciones en frontend y backend | 31/10/2024      |
-| ConnectionLink-Frontend | feature/vehicle | e97100d   | feat: Desarrollar funcionalidad de vehículos | Modificaciones en frontend y backend | 31/10/2024      |
-| ConnectionLink-Frontend | feature/review  | dfa3cb6   | feat: Añadir funcionalidad de reseñas        | Modificaciones en frontend y backend | 31/10/2024      |
-| ConnectionLink-Frontend | feature/support | d291f81   | feat: Incorporar funcionalidad de soporte    | Modificaciones en frontend y backend | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | feature/auth    | 549c853   | feat: Implementar registro y login           | Modificaciones en frontend y backend | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | feature/invoice | 8e75097   | feat: Agregar funcionalidad de facturas      | Modificaciones en frontend y backend | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | feature/vehicle | e97100d   | feat: Desarrollar funcionalidad de vehículos | Modificaciones en frontend y backend | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | feature/review  | dfa3cb6   | feat: Añadir funcionalidad de reseñas        | Modificaciones en frontend y backend | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend| feature/support | d291f81   | feat: Incorporar funcionalidad de soporte    | Modificaciones en frontend y backend | 31/10/2024      |
 
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
 | Repository              | Branch | Commit ID                                | Mensaje de Confirmación         | Cuerpo del Mensaje de Confirmación             | Fecha de Commit |
 | ----------------------- | ------ | ---------------------------------------- | ------------------------------- | ---------------------------------------------- | --------------- |
-| ConnectionLink-Frontend | main   | 549c853fa8f881f0812bde6388c5d6f688d1212f | Fusionar rama 'feature/auth'    | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main   | 8e750977c6f2b1eab62bff810de16a80281ffc75 | Fusionar rama 'feature/invoice' | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main   | e9721c01e07a7abdf5effbfcaea451cb2ce47feb | Fusionar rama 'feature/vehicle' | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main   | e94100d6d283537db2c705afdc436444eaefd807 | Fusionar rama 'feature/support' | Fusión de frontend y backend para validaciones | 31/10/2024      |
-| ConnectionLink-Frontend | main   | dfa3cb61a25c4cbb63b544601189322e70cebdf7 | Fusionar rama 'feature/review'  | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | main   | 549c853fa8f881f0812bde6388c5d6f688d1212f | Fusionar rama 'feature/auth'    | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | main   | 8e750977c6f2b1eab62bff810de16a80281ffc75 | Fusionar rama 'feature/invoice' | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend| main   | e9721c01e07a7abdf5effbfcaea451cb2ce47feb | Fusionar rama 'feature/vehicle' | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | main   | e94100d6d283537db2c705afdc436444eaefd807 | Fusionar rama 'feature/support' | Fusión de frontend y backend para validaciones | 31/10/2024      |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/Frontend | main   | dfa3cb61a25c4cbb63b544601189322e70cebdf7 | Fusionar rama 'feature/review'  | Fusión de frontend y backend para validaciones | 31/10/2024      |
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 
