@@ -2485,7 +2485,9 @@ Se puede acceder a la página de inicio a través del siguiente enlace: https://
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-A continuación se presentan capturas de los insights del repositorio del landing page en Github
+A continuación se presentan capturas de los insights del repositorio del landing page en Github:
+
+<img src="images/sprint1contributors.png" alt="Insights 1" style="width: 80%;">
 
 ## 5.2.2 Sprint 2
 
