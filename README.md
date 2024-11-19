@@ -2565,6 +2565,10 @@ A continuación se presentan capturas de los insights del repositorio del landin
 
 En el segundo Sprint, se implementará la aplicación web de TakeMyCar.
 
+<img src="images/trello2.png" alt="Trello sprint 2" style="width: 80%;">
+
+<a href="https://trello.com/b/jaPO8QbP/takemycar-sprint-2">Link de Trello</a>
+
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
        <td colspan="1"><b>Sprint #</b></td>
