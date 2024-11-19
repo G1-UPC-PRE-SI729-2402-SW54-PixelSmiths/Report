@@ -2343,7 +2343,7 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 
 En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="images/trellosprint1.png" alt="Trello sprint 1" style="width: 80%;">
+<img src="images/trello1.png" alt="Trello sprint 1" style="width: 80%;">
 
 <a href="https://trello.com/b/jaPO8QbP/takemycar-sprint-1">Link de Trello</a>
 
