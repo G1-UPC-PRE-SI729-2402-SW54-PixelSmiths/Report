@@ -3136,6 +3136,8 @@ El encuestado, Jhon de 21 años de Lima, valora el diseño de la landing page po
 
 ## 5.4. Video About-the-Product.
 
+video: https://youtu.be/uY8132eDHVI
+
 # Conclusiones
 
 ### Conclusiones y recomendaciones
