@@ -2343,6 +2343,10 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 
 En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
+<img src="images/trellosprint1.png" alt="Trello sprint 1" style="width: 80%;">
+
+<a href="https://trello.com/b/jaPO8QbP/takemycar-sprint-1">Link de Trello</a>
+
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -2418,16 +2422,26 @@ En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La he
     </tr>
 </table>
 
-Aqui podra encontrar la evidencia de Trelo:
-https://trello.com/b/jaPO8QbP/takemycar-sprint-1
-
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 A continuación se presentan informacion de los commits de la Landing page de PocketPartners, con el uso de HTML, CSS y JavaScript
 
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited On (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/LandingPage| develop | a9e43c6 | feat: implement initial landing page structure | Landing Page Structure Creation | 2024-08-27 |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/LandingPage | develop | a645587 | feat(Equipo): added Equipo html, styles and script | Team Section | 2024-08-17 |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/LandingPage | develop | 05de161 | feat(Tarifas): added Tarifas html, styles and script | Plans Section | 2024-08-25 |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/LandingPage | develop | bd06cb1 | feat(Contacto): added Contacto html, styles and script | Contact Section| 2024-08-30 |
+| https://github.com/G1-UPC-PRE-SI729-2402-SW54-PixelSmiths/LandingPage | develop | 67dda17 | feat(style): add styles | Contact Section | 2024-09-06 |
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Al ser el primer sprint, y solo haber desarrollado el Landing Page no creemo necesario realizar testing de una Landing Page. Por lo que en la sección a continuación se muestra el Landing ya desplegado.
+##### Unit Tests
+* **Clases probadas:**
+  - LandingPage: Valida la carga de componentes principales.
+
+##### Integration Tests
+* Se validó la funcionalidad del landing page.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -2463,11 +2477,11 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.
+En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de netlify.
 
-En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages.
+<img src="images/deploy1.png" alt="Trello sprint 1" style="width: 80%;">
 
-Se puede acceder a la página de inicio a través del siguiente enlace:
+Se puede acceder a la página de inicio a través del siguiente enlace: https://take-my-car-landing-page.netlify.app/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
