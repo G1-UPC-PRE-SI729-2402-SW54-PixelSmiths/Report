@@ -2688,6 +2688,24 @@ FrontEnd Vehicles:
 FrontEnd Profile:
 ![alt text](image-7.png)
 
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación del frontend. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En cuanto al despliegue de la página, lo hemos realizado en la plataforma de netlify.
+
+<img src="images/deploy2.png" alt="Deploy2" style="width: 80%;">
+
+Se puede acceder a la página de inicio a través del siguiente enlace: https://take-my-car.netlify.app/
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+A continuación se presentan capturas de los insights del repositorio del landing page en Github:
+
+<img src="images/sprint2contributors.png" alt="Insights 1" style="width: 80%;">
+
 ## 5.2.3 Sprint 3
 
 ### 5.2.3.1 Sprint Planning 3
