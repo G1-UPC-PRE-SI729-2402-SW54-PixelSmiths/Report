@@ -262,6 +262,12 @@ Agosto del 2024
             Marzál Pérez, Jamir: En esta entrega, trabajé en el desarrollo del bounded context Vehicles para el backend. Implementé las funcionalidades clave relacionadas con la gestión de vehículos, asegurando que cumplan con los requisitos del proyecto y siguiendo las mejores prácticas de diseño y desarrollo.
           </li>
         </ul>
+        <ul>
+          <p><strong>TF</strong></p>
+          <li>
+            Jamir Marzal: En esta fase del proyecto, me encargué de implementar la autenticación directamente en el backend. Además, ajusté la integración con los endpoints del backend y resolví problemas relacionados con la configuración del despliegue, asegurando que todas las funcionalidades fueran accesibles y estuvieran alineadas con los objetivos del proyecto. Este trabajo se realizó siguiendo las mejores prácticas de diseño, programación y despliegue.
+          </li>
+        </ul>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar el trabajo cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
       <strong>TP:</strong><p align="justify">En el marco del desarrollo de este proyecto, he adquirido la capacidad de comunicar de manera efectiva y objetiva ideas y resultados a públicos con diferentes niveles de especialización. Esta habilidad fue especialmente valiosa al trabajar en el desarrollo del front, donde fue necesario coordinar con equipos técnicos y no técnicos para garantizar que los objetivos del proyecto se entendieran y ejecutaran correctamente. A lo largo del proceso, la comunicación clara facilitó la toma de decisiones estratégicas y la resolución de problemas, asegurando así el éxito de la implementación del producto.</p>
       <strong>TB2:</strong><p align="justify">Aqui</p>
